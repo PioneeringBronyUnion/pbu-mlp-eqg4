@@ -2,7 +2,7 @@ Sunset Shimmer: Did you?
 你干的？
 
 How is this possible?
-怎么可能？
+怎么做到的？
 
 Twilight Sparkle: I can't believe this.
 难以置信
@@ -14,22 +14,22 @@ Sunset Shimmer: Amazing!
 妙极了！
 
 Twilight Sparkle: Terrible!
-太恐怖！
+太糟了！
 
 Sunset Shimmer: Are you kidding?
-开玩笑吧？
+你在开玩笑吧？
 
 This is great!
-那你很棒哦！
+这很棒啊！
 
 I mean, we've all ponyed up before,
-我是说，我们曾被小马化
+我是说，我们都曾经小马化过
 
 gotten the whole ears and wings and tail thing,
-长出耳朵、翅膀和尾巴这些东西
+长出耳朵、翅膀和尾巴
 
 shot magical rainbow lasers,
-还发射过彩虹友谊炮
+发射彩虹魔法激光什么的
 
 but nothing like this has ever happened!
 但这样的事情从未发生过！
@@ -38,7 +38,7 @@ How did you do it?
 你怎么做到的？
 
 Twilight Sparkle: I don't know!
-我怎么知道！
+我也不知道！
 
 Maybe I didn't?
 或许不是我？
@@ -56,7 +56,7 @@ Nevermind.
 算了
 
 Can we just not talk about it?
-我们能换个话题么？
+我们能不谈论这个吗？
 
 And could you please not bring this whole levitating thing up to the others?
 以及拜托你别把这飘浮魔法的事给别人说，好吗？
@@ -68,13 +68,13 @@ Twilight Sparkle: You heard Applejack.
 你听到苹果杰克说的话了
 
 This is supposed to be the place where everyone can get away from magic.
-这里应该是我们摆脱魔法的好地方
+这里应该是我们远离魔法的地方
 
 I don't want them to know I brought some crazy new kind with me.
-我不想让他们知道我又带来什么鬼东西来了
+我不想让他们知道我又带来什么鬼东西了
 
 Sunset Shimmer: If you really don't want me to, I won't say anything.
-如果你真的不希望我告诉别人的话，我不会告密的
+如果你真的不希望我告诉别人的话，我不会说的
 
 Twilight Sparkle: I really don't.
 我真的不希望
@@ -89,13 +89,13 @@ Spike: I think you just gotta have to pick it up.
 我想你还是捡起来吧
 
 Gloriosa Daisy: ...show up like that!
-……就像那样冒出来！
+……那样冒出来！
 
 Sunset Shimmer: What did you say?
 你刚刚说啥了？
 
 Gloriosa Daisy: I... didn't say anything.
-我啥都没说啊
+我……啥都没说啊
 
 Just here to make sure everyone was headed over to the docks!
 只是来确保每个人前往码头
@@ -107,10 +107,10 @@ Sunset Shimmer: Nope.
 不了
 
 Gloriosa Daisy: Because if there is anything I can do
-因为如果有啥
+如果有啥我可以做的
 
 to make this week the best week ever,
-能让你这周过得更开心的建议
+能让你这周过得更开心
 
 you just let me know.
 跟我说就行
@@ -119,10 +119,10 @@ I've got this!
 我会搞定的！
 
 Sunset Shimmer: Thanks, I'm good.
-谢谢了，我很好
+谢谢了，我没事
 
 People that chipper make me nervous.
-爽朗的人让我害怕
+那么爽朗的人让我感到紧张
 
 Pinkie Pie: This is gonna be so much fun!
 这一定会很有趣的！
@@ -134,16 +134,16 @@ Rarity: Oh, it's beautiful, isn't it?
 哦 很漂亮对吧
 
 It looks like a diamond shining in the sun!
-这就像阳光下闪闪发光的宝石！
+就像一块在阳光下闪闪发光的宝石！
 
 Fluttershy: It is lovely out here.
-多么美丽的大好河山
+多么美丽的地方
 
 The fresh air, the cool breeze,
 新鲜的空气，微凉的山风
 
 the birds that land on your finger.
-以及落在指尖的小鸟
+还有落在你手指上的小鸟
 
 Rainbow Dash: I think that only happens to you.
 也就你有这造化
@@ -152,7 +152,7 @@ Gloriosa Daisy: Lake activities are available every day until sunset,
 湖边活动每天都开展到傍晚
 
 so if you want to canoe, sail, windsurf or swim, just let me know.
-因此如果你想去划船，玩帆板，游泳的话，给我说一声就行
+所以如果你想划船，玩帆板，冲浪或者游泳的话，给我说一声就行
 
 Fluttershy: Aren't they just the cutest?
 它们不是最可爱的么？
@@ -170,22 +170,22 @@ After all, she isn't my Twilight.
 毕竟她不是我的暮暮
 
 Not that the other Twilight was mine!
-也不是说另一个暮暮是我的呢
+也不是说另一个暮暮是我的
 
 But, we were... you know.
-但我们...你知道
+但我们...你知道的
 
 Sunset Shimmer: Yeah. I get it.
 是啊，我懂的
 
 But if your Twilight is a princess in Equestria,
-但既然你的暮暮是小马国的公主
+但既然你的暮暮是一位小马国的公主
 
 hate to break it to you,
 不得不给你讲的是
 
 but that's where she's gonna spend most of her time.
-她的时间还是得花在那边
+她的时间主要还是得花在那边
 
 Flash Sentry: So you're saying I just need to get over it?
 那你就是说我得继续向前看了？
@@ -206,10 +206,10 @@ Vice Principal Luna: This is a safety hazard.
 这是安全隐患
 
 I suggest we close down the dock for the remainder of the camp.
-我们最好把这个码头关了吧
+在露营期间我们最好把这个码头关了吧
 
 Gloriosa Daisy: Oh, I'm sure it won't have to be for the remainder of the camp.
-哦 我觉得关闭码头是没必要的
+哦 我觉得关闭码头那么久是没必要的
 
 Just needs to be patched up a bit.
 只是需要修补一下
@@ -218,13 +218,13 @@ I've got this!
 我会搞定的！
 
 Applejack: Huh. Or maybe we do!
-哈？不如让我们来干吧
+哈，不如让我们来干吧
 
 If you ask me, this whole dock needs to go.
 要我说，这整个码头都应该换掉
 
 Building a new one could be our camp gift.
-一个新的码头就是我们的露营礼物
+一个新的码头可以作为我们的露营礼物
 
 Sure, it would benefit us,
 这当然是为我们好
@@ -266,10 +266,10 @@ What do you guys think?
 你们认为呢？
 
 Gloriosa Daisy: Looks like it's settled, then.
-看来木已成舟了啊
+看来已经定下来了啊
 
 Timber Spruce: Looks like it.
-似乎是的
+看来是的
 
 Sunset Shimmer: That's some tension alright.
 看着有点不对劲
@@ -296,7 +296,7 @@ Rarity: Oh, it's stunning!
 哦，真是极好的
 
 And will make an absolutely perfect runway for my camp fashion show!
-这一定是营地时装秀的最佳T台！
+这会是我营地时装秀的最佳T台！
 
 Applejack: Or importantly,
 重要的是
@@ -305,10 +305,10 @@ it will be a great place for docking canoes and feeding the wildlife.
 这会成为停泊船只和喂养动物的好地方
 
 Rarity: Oh, you say tomato,
-哦，真掉档次
+哦，你是这么说
 
 I say perfect place to showcase glamorous boho-chic stylings.
-我会说这里最能展现波西米亚嬉皮风的魅力
+我说这是展现波西米亚嬉皮风的魅力的好地方
 
 Twilight Sparkle: What do you guys think?
 你们觉得怎样？
@@ -350,7 +350,7 @@ You should see my macaroni art.
 你应该来看看我的通心粉工艺
 
 I'm like the Picasso of noodles.
-那可是毕加索级别的面条画
+我就像是面条界的毕加索
 
 Principal Celestia: Alright, now!
 好了，请注意！
@@ -362,7 +362,7 @@ But it's going to be getting dark soon.
 但太阳马上就要落山了
 
 We can pick this up tomorrow between our other camp activities.
-我们明天可以在露营的休息时间里继续干
+我们明天可以在其它的露营活动期间继续干
 
 Gloriosa Daisy: Everyone, get cleaned out,
 大家整理好东西
