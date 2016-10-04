@@ -38,7 +38,7 @@ Many years ago my great grandparents came to this forest.
 很久很久以前，我的曾祖父母来到这个森林
 
 Seeing its beauty, they decided that it would be the perfect place for a camp.
-看到这美丽景象，他们认为这里是野营的绝佳选择
+看到这美丽景象，他们认为这里是修营地的绝佳选择
 
 But once they started building, strange things started to happen.
 但当他们开始修房子时，奇怪的事发生了
@@ -56,7 +56,7 @@ only to see the giant creature rising from the earth.
 只看到一只巨大的生物从土地里长起来
 
 She got wild hair, like the roots of a tree.
-她有着杂乱的树根头发
+她有着树根般杂乱的头发
 
 Her mouth had jagged rock teeth and her eyes were pools of black tar.
 岩石般参差的牙齿和焦油般漆黑的眼睛
@@ -71,7 +71,7 @@ Trembling, my great grandparents asked who she was and she wanted.
 我的曾祖母颤抖着问她的来历和需要
 
 In a deep and hollow voice she told them that her name was Gaia Everfree –
-她用深沉而空洞的声音，告诉他们自己的名字叫“盖亚森灵”
+她用深沉而空洞的声音，告诉他们自己的名字叫“森灵盖亚”
 
 an ancient spirit who held domain over the forest,
 一个守护这片森林的古魂
@@ -80,7 +80,7 @@ and that my great grandparent were trespassing on her land.
 同时警告他们不要侵犯领土权
 
 They begged her to let them stay and build their camp
-他们祈求她允许在此停留建造野营地
+他们祈求她允许在此停留建造营地
 
 to share this wonderful place with others.
 把这片圣地分享给他人
@@ -91,14 +91,17 @@ Gaia Everfree finally agreed,
 but warned them that they would not be able to keep it forever.
 但是警告道这片领土不会永远给他们
 
-Some day she will return and reclaim the forest as her own.
-总有一天她会回来重新开拓这片森林的
+Some day she will return
+总有一天她会回来
+
+and reclaim the forest as her own.
+收回这片森林的
 
 So if you see a trail of gemdust, you'll know that it is...
-因此如果你看见一串宝石屑的话，你就知道那会是...
+因此如果你看见一串宝石屑的话，你就知道那是...
 
 Gaia Everfree!
-盖亚森灵！
+森灵盖亚！
 
 Gloriosa Daisy: Hey, guys! Sorry, didn't mean to scare you!
 嘿伙计们！抱歉我不是刻意吓你们的
@@ -110,7 +113,7 @@ Gloriosa Daisy: I... took the scenic route, because the forest is beautiful at n
 我...走的是观光道，因为夜晚的森林很美丽
 
 But no one else should do it without a guide, okay?
-但没人会在没导游的情况下试探的，对吧？
+但没导游的情况下大家不要学我啊，好吧？
 
 Alright, everybody, time to head to you tents.
 好了各位，该回帐篷休息了
@@ -119,7 +122,7 @@ Snips: Oh, hey, Gloriosa.
 哦，嗨，嘉兰金菊
 
 Do you have extra toothbrushes? I forgot mine.
-你有多余的牙签么？我忘带了
+你有多余的牙刷么？我忘带了
 
 Gloriosa Daisy: Sure do! I'll get one for you.
 当然有！我会给你一个的
@@ -134,7 +137,7 @@ Spike: Fluttershy?
 小蝶？
 
 Fluttershy: Sorry, Spike. I guess that story got to me.
-抱歉，史派克，这故事大概是吓着我了
+抱歉，斯派克，这故事大概是吓着我了
 
 Applejack: Why? It can't be real.
 为啥？这才不是真的
@@ -155,13 +158,13 @@ At least I hope it was.
 至少我希望是这样的
 
 Last thing I want is to have camp ruined by some power-crazed magical creature.
-我最怕的还是野营被某种疯狂的魔法生物毁灭掉
+我最怕的还是野营被某种疯狂的魔法生物毁掉
 
 Rarity: Oh, hear-hear.
-哦听听
+唉，确实是呢
 
 We had to deal with more than our fair share of those.
-我们处理这些事情早已得心应手了
+这些事情我们是遇到太多次了
 
 At the Fall Formal, a musical showcase, the Friendship Ga–
 秋季舞会，音乐表演，以及友谊大...
@@ -169,11 +172,11 @@ At the Fall Formal, a musical showcase, the Friendship Ga–
 Well, I mean, you know, everything turned out alright, of course 
 好吧，我是说，你知道，事情都好起来了对吧
 
-Twilight Sparkle: Mmm. I'm kinda tired. I'm in a turn in.
+Twilight Sparkle: Mmm. I'm kinda tired. I'm gonna turn in.
 嗯，我有点累了，我先睡觉去了
 
 Sunset Shimmer: Maybe lay off bringing up what happened at the Friendship Games?
-你就不能少提友谊大赛的事情吗？
+你还是少提友谊大赛的事情吧？
 
 I think she's still pretty sensitive about it.
 我猜她还是很敏感的
@@ -181,8 +184,14 @@ I think she's still pretty sensitive about it.
 Pinkie Pie: Our lips are sealed.
 封口成功
 
-Midnight Sparkle: Here I am! Over here. I'm always here!
-我来啦！就在这，我一直在这！
+Midnight Sparkle: Here I am! 
+我来啦！
+
+Over here. 
+就在这，
+
+I'm always here!
+我一直在这！
 
 Twilight Sparkle: No!
 不！
@@ -215,7 +224,7 @@ If you could learn to control it–
 如果你能学会如何控制它...
 
 Twilight Sparkle: That's just it! I'll never be able to control it!
-就这样了！我永远不能控制好的！
+那么问题不就出现了么！我永远不能控制好的！
 
 Rainbow Dash: What happened?
 发生什么了？
@@ -242,7 +251,7 @@ The wind picked up and we were pushed right into the dock.
 妖风一吹我们就直撞上码头了
 
 Pinkie Pie: You don't think it was the spirit, do you?!
-你认为那不是盖亚森灵，对吧？
+你认为那不是森灵盖亚，对吧？
 
 Twilight Sparkle: No, it was me.
 那是我
@@ -260,7 +269,7 @@ Rainbow Dash: Oh, man! All our hard work! Ruined!
 哦天哪！我们的工作毁于一旦
 
 Fluttershy: At least the fishes are really well.
-至少鱼儿还在蹦跳
+至少鱼儿还好
 
 Sunset Shimmer: Let's salvage what we can out of the water.
 我们在水里打捞一些残片补救一下吧
@@ -269,7 +278,7 @@ Maybe we can still fix this?
 或许还能修好？
 
 Rarity: We have to try! Camp Everfree needs our runway!
-我们得试试！森灵营地少不了我们的T台啊！
+必须得试试！森灵营地少不了我们的T台啊！
 
 Applejack: Dock.
 是码头
