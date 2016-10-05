@@ -50,31 +50,31 @@ What are you doing here?
 你在这干啥呢
 
 Timber Spruce: Uh, looking for you.
-呃，我在找你
+呃，找你呢
 
 Twilight Sparkle: Oh, I just went on a nature walking, got a little lost.
-哦 我只是在散步，但是有点迷路了	
+哦 我只是出来散步，但是有点迷路了	
 
 Timber Spruce: Let me show you the way.
 我来带路吧
 
 I'm kind of an expert on these woods.
-我在这片树林可是个老司机了
+我对这片树林可是很熟了
 
 I've lived here my whole life.
 我刚出生就在这住下了
 
 Twilight Sparkle: That must have been nice.
-在一个宿营地长大一定很有意思
+在一个营地长大
 
 Growing up at a camp.
-
+一定很有意思
 
 Timber Spruce: Yeah, though it has its downsides.
 是 尽管也有些不好的方面
 
 When I was younger I wish we would sell this place
-在我年纪更小的时候，我希望我们能卖了这地方
+在我年纪更小的时候，我曾希望我们能卖了这地方
 
 so we can live in a town like normal people.
 让我们能像正常人一样在城镇生活
@@ -86,13 +86,13 @@ Timber Spruce: I was ten. I really wanted to hang out in the mall.
 在我10岁的时候特别想去商场逛街
 
 Timber Spruce: I've never told that to anyone.
-我没有把这些告诉任何人
+我还没有把这话给其他人说过
 
 You must be special.
 你一定很特别
 
 And not just because you have tree branch in your hair.
-不只是因为你头发里插着根树枝
+而且不只是因为你头发里插着根树枝
 
 Twilight Sparkle: Uh. How long has that been in there?
 呃 它插在那多久了
@@ -125,7 +125,7 @@ Rarity: Well, you have to wait a little longer, darling.
 那你就不得不多等一小会了，亲爱的
 
 Rainbow Dash: Oh, good!
-哦 很好
+哦 太好了
 
 Twilight, if you spot me, I can finally go.
 暮暮 如果你能拉我 我就能爬了
@@ -134,10 +134,10 @@ I'll go get another harness.
 我再去找套安全带
 
 Twilight Sparkle: I'm not sure–
-我不是很确定
+我不是很确－
 
 Timber Spruce: I'll better make sure my sister doesn't need anything.
-我最好去看看我姐姐有没有什么用得上我的地方
+我最好去看看我姐姐有没有什么事
 
 See you later.
 稍后再见
@@ -152,7 +152,7 @@ Spike: Was than an earthquake?
 那是地震吗？
 
 Twilight Sparkle: We aren't near any fault lines.
-我们可不在任何一条地质错层上
+我们可不在任何一条断裂带上
 
 Bulk Biceps: Hey! Who left this crystally dusty stuff here?!
 嘿 谁吧这些亮闪闪的东西留在这里了
@@ -167,7 +167,7 @@ Rarity: Applejack! What are you doing?!
 阿杰 你在干啥
 
 Principal Celestia: Is everything okay over there?
-所有人都还好吗
+一切都还好吗
 
 Applejack: Uh, I don't know what happened.
 呃 我不知道发生了什么
@@ -179,10 +179,10 @@ It's like she was light as a feather all of sudden.
 就好像她突然变得像一片羽毛一样轻了
 
 Rarity: I was scared half to death!
-我吓得半死
+吓得我半死
 
 Applejack: It wasn't my fault! Let me help you get your harness out.
-这不是我的锅 我帮你把安全带解开吧
+这不是我的错 我帮你把安全带解开吧
 
 Rarity: No, thank you!
 不用了 谢谢
@@ -194,7 +194,7 @@ Rarity: Oh, dear! I am so sorry! I think.
 噢天哪 真抱歉
 
 Did I just do... whatever that was?
-我刚刚是不是  那是啥
+我刚刚……真的那样做了
 
 Twilight Sparkle: I don't think it was your fault.
 我觉得那不是你的错
@@ -206,7 +206,7 @@ Sunset Shimmer: Me too.
 我一起去
 
 You're not the only one with a new kind of magic!
-你不是唯一一个有了一种新魔法的人
+你不是唯一一个有了新魔法的人
 
 This is great!
 这太棒了
@@ -221,7 +221,7 @@ Why is this happening? I don't–
 这到底为什么会发生 我没
 
 Gloriosa Daisy: Hi, girls! Anything I can do for you?
-嗨女孩吗 我能为你们做些什么？
+嗨两位 我能为你们做些什么？
 
 Twilight Sparkle: Uh, Applejack just fallen to the lake!
 呃 阿杰刚刚跌进湖里了
@@ -233,7 +233,7 @@ She's gonna need warm towels, dry clothes, oh, and a hot cocoa!
 她需要温暖的毛巾 干燥的衣服哦 还有热可可
 
 I've got this!
-我有这些
+我会搞定的！
 
 Twilight Sparkle and Sunset Shimmer: Fluttershy?
 小蝶？
