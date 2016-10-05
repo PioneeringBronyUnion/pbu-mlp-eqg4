@@ -1,5 +1,5 @@
 ﻿Rarity: Um, Pinkie Pie, what are you doing?
-呃，萍琪，你在干嘛啦？
+呃，萍琪，你在干嘛？
 
 Pinkie Pie: Putting marshmallows in my lantern.
 往我的灯笼里放棉花糖呀
@@ -11,7 +11,7 @@ Spike: Hey, Twilight, why aren't you with everyone else?
 嘿，暮暮，你为什么不和别人一起？
 
 Twilight Sparkle: Sunset said something at camp is causing the other girls to get new magic.
-余晖说营地里有什么东西能让其他女生获得魔法
+余晖说营地里有什么东西让其他女生获得了魔法
 
 I think it's Midnight Sparkle.
 我觉得是午夜闪闪
@@ -44,7 +44,7 @@ Mine's my face.
 我的画的是我的脸
 
 Timber Spruce: Uh, you okay?
-呃，你还好嘛？
+呃，你还好吗？
 
 Twilight Sparkle: Mhm.
 嗯嗯
@@ -53,7 +53,7 @@ Timber Spruce: You don't seem like yourself tonight.
 你今晚看起来恍恍惚惚的
 
 Gloriosa Daisy: Ready?
-准备好了嘛？
+准备好了吗？
 
 And... Go!
 现在……放！
@@ -83,13 +83,13 @@ Twilight Sparkle: We're... we're meeting a cab to take us home.
 我们……我们在打车回家
 
 Spike: She thought you'd talk her out of it.
-她觉得你能带她回去
+她觉得你会把她带回去
 
 Sunset Shimmer: Because I would.
 我会的
 
 Twilight, you can't leave.
-暮暮，你现在不能走
+暮暮，你不能走
 
 Pinkie Pie: You don't think it was the spirit, do you?!
 你不觉得是鬼魂作怪，对吧？
@@ -119,7 +119,7 @@ Twilight Sparkle: How did you know what I was thinking?
 你怎么知道我是怎么想的？
 
 Sunset Shimmer: When I touched your hand, I can see things.
-当我握住你的手时，我能看到
+当我握住你的手时，我能看到一些东西
 
 I can understand why you were leaving.
 我理解你为什么想要离开
@@ -137,7 +137,7 @@ Twilight Sparkle: No, it's not.
 不，不是
 
 I'm infecting you now!
-我现在就在影响你！
+我现在就在影响着你！
 
 Sunset Shimmer: Twilight, you have to stop looking at this as a bad thing.
 暮暮，你不能再认为这是一件坏事了
@@ -146,7 +146,7 @@ Twilight Sparkle: Easy for you to say.
 说起来容易
 
 Magic turned you into something beautiful.
-魔法能把你变成神奇美丽
+魔法把你变成神奇美丽
 
 The last time I tried to use it,
 但我上一次使用的时候
@@ -197,7 +197,7 @@ Timber Spruce: Oh, wait. Twilight?
 噢等等，暮暮？
 
 Twilight Sparkle: Timber?
-森森？
+云杉？
 
 I'm so glad it's just you!
 见到你真开心！
@@ -224,7 +224,7 @@ it would be one more thing Gloriosa would add to her list.
 嘉兰就要多忙活好久呢
 
 I've got this!
-我做好就完了嘛
+我会搞定的！
 
 Timber Spruce: What about you two?
 你们俩呢？
@@ -245,16 +245,16 @@ Timber Spruce: Come on, I'll walk you guys back.
 来吧，我带你们回去
 
 I'll protect you from Gaia Everfree!
-我来保护你们免遭森林之神的谴责！
+我来保护你们免遭森灵盖亚的谴责！
 
 Everfree! Everfree!
-无尽之森！无尽之森！
+森灵盖亚！森灵盖亚！
 
 Sunset Shimmer: Come on,
 拜托
 
 that's obviously just a spooky story you made up to tell around the campfire.
-这不就是你刚刚编出来的篝火晚会的鬼故事嘛
+这显然就是你编出来的篝火晚会鬼故事嘛
 
 Timber Spruce: Oh, no.
 噢，不
@@ -269,31 +269,31 @@ And that weird thing when the earth shook?
 还有地震时候发生的怪事？
 
 Uh, come on, I know a shortcut back to the tents.
-噢拜托，我知道一条回营地的近路
+噢，来吧，我知道一条回营地的近路
 
 Sunset Shimmer: Legit, huh?
 真的，哈？
 
 I think we just found our Gaia Everfree.
-我想我们刚刚找到我们的森林之神了
+我想我们刚刚找到我们的森灵盖亚了
 
 Spike: But why would he work so hard to make us think she was real?
 但他为什么非要让我们觉得她是真的呢？
 
 Sunset Shimmer: You heard what he said
-你也听到他
+你也听到他说
 
 about wishing his sister would sell this camp.
-关于他姐姐想要卖掉这座营地的话了
+希望他姐姐卖掉这座营地的话了
 
 If nobody wants to come here,
-如果没人想来
+如果没人想来这里
 
 because it's home to some angry ancient nature spirit,
-只是因为这里有什么愤怒的古代自然之神
+因为这里有什么愤怒的古代自然之神
 
 it sure would help his cause.
-这就能解决他的问题了
+这就能解决他的问题了	//这就能帮助他的愿望成真了，润色注意改改
 
 Spike: We should tell Twilight.
 我们应该告诉暮暮
@@ -302,25 +302,25 @@ Sunset Shimmer: Not yet.
 先别
 
 She's obviously going on through a lot right now.
-她现在需要担心的事情太多了
+她现在显然在担心很多事情
 
 We should probably be a hundred percent sure
-我们在没有百分百把握之前
+我们在没有百分百确定
 
 before we tell her the guy she likes is a jerk
-还是先不要告诉她她喜欢的人是个混蛋吧
+她喜欢的人是个想把所有人从营地吓跑的混蛋前
 
 who's trying to run everybody out of camp.
-什么人才会想把所有人都从这个营地里吓跑呢
+还是先不要告诉她吧
 
 Spike: Uh-huh!
-噢哦！
+嗯哼
 
 Rainbow Dash: Phew!
 呼！
 
 Uh, you gonna give us a hand here, Rarity?
-呃，你不计划来搭把手嘛，瑞瑞？
+呃，你不来搭把手吗，瑞瑞？
 
 Rarity: Oh, I'd love to,
 噢，我当然愿意啦
@@ -329,16 +329,16 @@ but I really need to get the stitching on this poncho done
 但是我必须先把这个披风缝好
 
 before it's going to make it into the camp fashion show.
-不然没法参加营地里的时尚展呀。
+不然没法用在营地里的时尚展呀。
 
 Not to haste you two with moving.
 我也不是想催你们
 
 I don't know that the runway will ever be finished.
-我只是不知道这劳什子什么时候才能做完
+我只是不知道这走道什么时候才能做完
 
 Applejack: The dock is our gift to the camp
-码头是咱们送给营地的礼物
+这码头是咱们送给营地的礼物
 
 and it's gonna get finished.
 就要完成了
@@ -350,7 +350,7 @@ Rainbow Dash: Oh, I can't go any faster!
 噢，我已经不能再快了好吧！
 
 I don't want to end up in the woods again.
-我不想再在森林里迷路
+我不想又跑进森林里
 
 Applejack: Don't be silly.
 别傻了
@@ -365,7 +365,7 @@ but I can't.
 但是我其实不行
 
 What if I hammer the board into splinters?
-如果我把这块板子锤成碎块呢？
+要是我把这块板子锤成碎块呢？
 
 Applejack: Aw, shoot!
 靠
@@ -383,7 +383,7 @@ Pinkie Pie: What?
 啥？
 
 Oh, did you think the nails would explode like the sprinkles?
-噢，你们觉得这钉子会炸成渣渣嘛？
+噢，你们觉得这钉子会像糖粉一样爆炸嘛？
 
 Wow! Glad that didn't happen, huh?
 哇哦，没爆炸真好，哈？
@@ -404,7 +404,7 @@ Fluttershy: Oh, none of us do.
 噢，我们都不知道的
 
 Sunset Shimmer: Which is why we shouldn't pretend this isn't happening.
-这就是为什么我们不能把无视它
+这就是为什么我们不能无视它
 
 Rainbow Dash: Do you have it now, too?
 你也有这样的问题嘛？
@@ -425,16 +425,16 @@ Pinkie Pie: Lalalala. Ooh, taffy!
 啦啦啦，噢，太妃糖！
 
 Sunset Shimmer: That explains so much.
-这能解释很多
+这解释了很多
 
 Pinkie Pie: Yep.
 是啊
 
 Sunset Shimmer: Girls, we can't just brush these powers aside,
-姑娘们，我们不能无视这种力量
+姑娘们，我们不能因为现在不是一个好时候获得这些能力
 
 because it doesn't seem like the ideal time to get them.
-不过好像短时间内还掌握不了它
+而就这么把它们推到一边
 
 What if it turns out that they could actually make things better?
-但如果它能让事情变得更好呢？
+如果它们反而能让事情变得更好呢？
