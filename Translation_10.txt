@@ -19,12 +19,12 @@ Rarity: I am now.
 Sunset Shimmer: Get started without me. 
 你们先开始吧
 
-I've got to find Twilight
-
+I've gotta go find Twilight
 我得去找下暮暮
-Seeing what we've been able to do here might make her embrace the new magic, too!
 
+Seeing what we've been able to do here might make her embrace the new magic, too!
 说不定她在看到我们的成果后也能坦然面对这的新魔力了。
+
 Uh, not that she has any.
 我可没说过她有魔力哦
 
@@ -43,7 +43,7 @@ Sunset Shimmer: I knew it!
 He wants her to get rid of the camp!
 他想让她卖掉营地！
 
-Sunset Shimmer and Flash Sentry: Uh!
+Sunset Shimmer and Flash Sentry: Ugh!
 啊！
 
 Flash Sentry: Sunset Shimmer? 
@@ -73,7 +73,7 @@ I really wanted to thank you.
 Sunset Shimmer: For what?
 谢什么？
 
-Flash Sentry: Huh, for the tough love. 
+Flash Sentry: For the tough love. 
 谢你对我感情上的开导
 
 Telling me I should get over Twilight. 
@@ -127,8 +127,8 @@ then she deserves to know.
 You know?
 懂了么？
 
-Flash Sentry: No. 
-不懂
+Flash Sentry: Nnnno. 
+不是很懂
 
 But what I do know is that your friend is lucky 
 但是我知道有你这样能替人分忧的朋友
@@ -151,7 +151,7 @@ You're so much... nicer.
 Sunset Shimmer: Thanks. I'm glad you noticed.
 谢了，真高兴你能看出来
 
-Flash Sentry: Uh, look, maybe you and me... 
+Flash Sentry: Uh, look, maybe you and me, 
 那个，也许我们能…
 
 We could start over as... friends.
@@ -205,6 +205,9 @@ Or rather someone who wants us to think she's back.
 C'mon!
 走！
 
+Whoa...
+哇...
+
 Twilight Sparkle: This place is beautiful.
 这里真漂亮
 
@@ -217,7 +220,7 @@ I can... I can feel it.
 Spike: Wait. 
 等等，
 
-I thought that Timber was just faking there was magical nature creature.
+I thought that Timber was just faking there was a magical nature creature.
 我还以为魔法生物什么都是云杉棕木捏造出来的
  
 Are you saying it's real?
@@ -244,20 +247,20 @@ trying to make it seem like Gaia Everfree was back.
 It was you who was trying to scare everyone away?
 原来是你想吓跑大家？
 
-Gloriosa Daisy: I would never try scare anyone away from Camp Everfree.
+Gloriosa Daisy: I would never try to scare anyone away from Camp Everfree.
 我可不想吓跑森灵营地的任何一个人
 
-Filthy Rich: My, my. 
+Filthy Rich: My, oh, my. 
 哎呀呀
 
 You fell behind on your payments, Gloriosa. 
 看来你贷款还慢了啊，嘉兰金菊
 
 I own the land now.
-现在块地是我的了
+现在这块地是我的了
 
 Gloriosa Daisy: Please, my great grandparents founded this place. 
-求你了，这里是我曾祖父母创建的
+求你了，这里是我曾祖父母创建
 
 It's been in our family for generations! 
 并一代一代传下来的
@@ -266,7 +269,7 @@ You have to let the camp stay!
 你不能把营地拆了！
 
 Filthy Rich: Instead of turning it into a spa resort 
-也包括不能把这里变成一个水疗度假村
+不把这里变成一个水疗度假村
 
 that will line my pockets with more money than this camp ever could? 
 然后赚一笔像这种小营地永远都赚不到的大笔票子？
@@ -286,7 +289,7 @@ Filthy Rich: Fine. I'll give you 'til the end of the month.
 Hmph.
 哼
 
-Gloriosa Daisy: What will I do?
+Gloriosa Daisy: What'll I do?
 我该怎么办？
 
 Gloriosa Daisy: Huh?
@@ -365,7 +368,7 @@ Sunset Shimmer: I can see things.
 我能看到，
 
 Feel things. 
-我能读心，
+我能感觉到，
 
 Because I have magic, too. 
 因为我也有魔法
@@ -383,7 +386,7 @@ Maybe you should stop using magic?
 也许你不应该再用魔法了？
 
 Too much of it can be dangerous if you can't control it!
-大量的魔法若是得不到控制是会很危险的
+大量的魔法若是你控制不当会很危险的
 
 Gloriosa Daisy: Oh, I got this! 
 我会搞定的！
@@ -436,7 +439,7 @@ Rarity: Hmm, told you you'd like it.
 Applejack: It's alright... I guess. 
 我看…还行吧
 
-I get to keep it after camp, though, right?
+I do get to keep it after camp, though, right?
 野营完了我就可以拿走了，对吗？
 
 Snails: She looks... different.
@@ -461,7 +464,7 @@ Gaia Everfree: Attention, campers!
 营员们，注意！
 
 Trixie: It's Gaia Everfree!
-是森灵盖娅
+是森灵盖亚
 
 Flash Sentry: She's real!
 她是真的！
@@ -475,7 +478,7 @@ Timber Spruce: Gloriosa?! What are you doing?!
 Applejack: That's Gloriosa? 
 那是嘉兰金菊？
 
-Am I going crazy or her feet are not touching the ground?
+Am I going crazy or are her feet not touching the ground?
 是我疯了还是她是真的飞在空中的？
 
 Pinkie Pie: Freaky-deaky!
