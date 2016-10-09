@@ -40,7 +40,6 @@ Dialogue: 0,0:00:28.88,0:00:29.74,NormalEng,,0,0,0,,I know!
 Dialogue: 0,0:00:29.74,0:00:32.01,NormalEng,,0,0,0,,Don't you have a super-annoying alarm clock that goes?
 Dialogue: 0,0:00:37.55,0:00:38.88,NormalEng,,0,0,0,,It's gonna be fine.
 Dialogue: 0,0:00:38.88,0:00:39.93,NormalEng,,0,0,0,,We'll help you pack.
-Dialogue: 0,0:00:43.35,0:00:44.27,NormalEng,,0,0,0,,Eh.
 Dialogue: 0,0:00:44.48,0:00:46.27,NormalEng,,0,0,0,,We're gonna be out in the woods.
 Dialogue: 0,0:00:46.56,0:00:47.98,NormalEng,,0,0,0,,When's she gonna need that?
 Dialogue: 0,0:00:48.27,0:00:49.66,NormalEng,,0,0,0,,If we were going to the moon, 
@@ -66,7 +65,7 @@ Dialogue: 0,0:01:48.29,0:01:50.08,NormalEng,,0,0,0,,Heh. I'm fine.
 Dialogue: 0,0:01:51.54,0:01:53.34,NormalEng,,0,0,0,,We are gonna have so much fun!
 Dialogue: 0,0:01:53.34,0:01:58.09,NormalEng,,0,0,0,,We're gonna roast marshmallows and eat marshmallows and sleep on marshmallow pillows!
 Dialogue: 0,0:01:58.38,0:02:00.39,NormalEng,,0,0,0,,Yeah, probably not gonna do that.
-Dialogue: 0,0:02:00.39,0:02:02.18,NormalEng,,0,0,0,, Maybe you're not.
+Dialogue: 0,0:02:00.39,0:02:02.18,NormalEng,,0,0,0,,Maybe you're not.
 Dialogue: 0,0:02:03.26,0:02:04.72,NormalEng,,0,0,0,,Attention, students,
 Dialogue: 0,0:02:04.72,0:02:06.02,NormalEng,,0,0,0,,we're almost there.
 Dialogue: 0,0:02:06.02,0:02:07.64,NormalEng,,0,0,0,,But before we arrive,
@@ -301,7 +300,6 @@ Dialogue: 0,0:00:28.88,0:00:29.74,NormalSub,,0,0,0,,我知道！
 Dialogue: 0,0:00:29.74,0:00:32.01,NormalSub,,0,0,0,,你不是有一个超级烦人的闹钟吗，就像是
 Dialogue: 0,0:00:37.55,0:00:38.88,NormalSub,,0,0,0,,没事的
 Dialogue: 0,0:00:38.88,0:00:39.93,NormalSub,,0,0,0,,我们来帮你打包
-Dialogue: 0,0:00:43.35,0:00:44.27,NormalSub,,0,0,0,,呃
 Dialogue: 0,0:00:44.48,0:00:46.27,NormalSub,,0,0,0,,我们可是要待在森林里
 Dialogue: 0,0:00:46.56,0:00:47.98,NormalSub,,0,0,0,,她怎么会需要这个？
 Dialogue: 0,0:00:48.27,0:00:49.66,NormalSub,,0,0,0,,如果我们想玩得尽兴的话
