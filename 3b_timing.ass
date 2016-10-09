@@ -1,0 +1,139 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,思源黑体 Bold,90,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,0,0,50,1
+Style: English Subtitle,Roboto Condensed,50,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,0,0,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:13:20.58,0:13:21.98,English Subtitle,,0,0,0,,Did you?
+Dialogue: 0,0:13:22.01,0:13:23.29,English Subtitle,,0,0,0,,How is this possible?
+Dialogue: 0,0:13:23.50,0:13:24.65,English Subtitle,,0,0,0,,I can't believe this.
+Dialogue: 0,0:13:24.89,0:13:25.23,English Subtitle,,0,0,0,,It's...
+Dialogue: 0,0:13:25.70,0:13:26.81,English Subtitle,,0,0,0,,- Amazing!  - Terrible!
+Dialogue: 0,0:13:28.93,0:13:29.95,English Subtitle,,0,0,0,,Are you kidding?
+Dialogue: 0,0:13:29.97,0:13:30.91,English Subtitle,,0,0,0,,This is great!
+Dialogue: 0,0:13:31.21,0:13:32.95,English Subtitle,,0,0,0,,I mean, we've all ponyed up before,
+Dialogue: 0,0:13:32.96,0:13:35.12,English Subtitle,,0,0,0,,gotten the whole ears and wings and tail thing,
+Dialogue: 0,0:13:35.14,0:13:36.56,English Subtitle,,0,0,0,,shot magical rainbow lasers,
+Dialogue: 0,0:13:36.58,0:13:39.05,English Subtitle,,0,0,0,,but nothing like this has ever happened!
+Dialogue: 0,0:13:39.38,0:13:40.51,English Subtitle,,0,0,0,,How did you do it?
+Dialogue: 0,0:13:40.82,0:13:41.88,English Subtitle,,0,0,0,,I don't know!
+Dialogue: 0,0:13:42.28,0:13:43.25,English Subtitle,,0,0,0,,Maybe I didn't?
+Dialogue: 0,0:13:43.58,0:13:44.57,English Subtitle,,0,0,0,,Maybe it's her?!
+Dialogue: 0,0:13:45.12,0:13:46.15,English Subtitle,,0,0,0,,Her who?
+Dialogue: 0,0:13:46.30,0:13:46.87,English Subtitle,,0,0,0,,Nothing.
+Dialogue: 0,0:13:46.99,0:13:47.54,English Subtitle,,0,0,0,,Nevermind.
+Dialogue: 0,0:13:47.76,0:13:49.48,English Subtitle,,0,0,0,,Can we just not talk about it?
+Dialogue: 0,0:13:50.08,0:13:53.57,English Subtitle,,0,0,0,,And could you please not bring this whole levitating thing up to the others?
+Dialogue: 0,0:13:53.96,0:13:54.53,English Subtitle,,0,0,0,,Why not?
+Dialogue: 0,0:13:54.89,0:13:55.83,English Subtitle,,0,0,0,,You heard Applejack.
+Dialogue: 0,0:13:56.10,0:13:59.18,English Subtitle,,0,0,0,,This is supposed to be the place where everyone can get away from magic.
+Dialogue: 0,0:13:59.50,0:14:02.55,English Subtitle,,0,0,0,,I don't want them to know I brought some crazy new kind with me.
+Dialogue: 0,0:14:02.76,0:14:05.91,English Subtitle,,0,0,0,,If you really don't want me to, I won't say anything.
+Dialogue: 0,0:14:07.01,0:14:08.27,English Subtitle,,0,0,0,,I really don't.
+Dialogue: 0,0:14:08.29,0:14:11.35,English Subtitle,,0,0,0,,Okay, but this isn't necessarily a bad thing!
+Dialogue: 0,0:14:14.07,0:14:20.15,English Subtitle,,0,0,0,,Omm... Omm...
+Dialogue: 0,0:14:20.24,0:14:22.35,English Subtitle,,0,0,0,,I think you just gotta have to pick it up.
+Dialogue: 0,0:14:29.30,0:14:30.37,English Subtitle,,0,0,0,,...show up like that!
+Dialogue: 0,0:14:30.67,0:14:31.55,English Subtitle,,0,0,0,,What did you say?
+Dialogue: 0,0:14:32.05,0:14:34.61,English Subtitle,,0,0,0,,I... didn't say anything.
+Dialogue: 0,0:14:34.81,0:14:37.76,English Subtitle,,0,0,0,,Just here to make everyone was headed over to the docks!
+Dialogue: 0,0:14:38.38,0:14:39.58,English Subtitle,,0,0,0,,Did you need something?
+Dialogue: 0,0:14:39.65,0:14:39.97,English Subtitle,,0,0,0,,Nope.
+Dialogue: 0,0:14:40.29,0:14:42.36,English Subtitle,,0,0,0,,Because if there is anything I can do
+Dialogue: 0,0:14:42.37,0:14:44.42,English Subtitle,,0,0,0,,to make this week the best week ever,
+Dialogue: 0,0:14:44.45,0:14:45.51,English Subtitle,,0,0,0,,you just let me know.
+Dialogue: 0,0:14:45.91,0:14:46.83,English Subtitle,,0,0,0,,I've got this!
+Dialogue: 0,0:14:47.17,0:14:49.01,English Subtitle,,0,0,0,,Thanks, I'm good.
+Dialogue: 0,0:14:52.12,0:14:53.80,English Subtitle,,0,0,0,,People that chipper make me nervous.
+Dialogue: 0,0:14:54.45,0:14:56.71,English Subtitle,,0,0,0,,This is gonna be so much fun!
+Dialogue: 0,0:14:56.92,0:14:58.48,English Subtitle,,0,0,0,,I guess not all people.
+Dialogue: 0,0:14:59.63,0:15:01.65,English Subtitle,,0,0,0,,Oh, it's beautiful, isn't it?
+Dialogue: 0,0:15:01.86,0:15:04.55,English Subtitle,,0,0,0,,It looks like a diamond shining in the sun!
+Dialogue: 0,0:15:04.88,0:15:06.48,English Subtitle,,0,0,0,,It is lovely out here.
+Dialogue: 0,0:15:06.56,0:15:08.78,English Subtitle,,0,0,0,,The fresh air, the cool breeze,
+Dialogue: 0,0:15:09.58,0:15:11.91,English Subtitle,,0,0,0,,the birds that land on your finger.
+Dialogue: 0,0:15:12.00,0:15:13.76,English Subtitle,,0,0,0,,I think that only happens to you.
+Dialogue: 0,0:15:14.38,0:15:17.42,English Subtitle,,0,0,0,,Lake activities are available every day until sunset,
+Dialogue: 0,0:15:17.49,0:15:22.41,English Subtitle,,0,0,0,,so if you want to canoe, sail, windsurf or swim, just let me know.
+Dialogue: 0,0:15:26.30,0:15:28.65,English Subtitle,,0,0,0,,Aren't they just the cutest?
+Dialogue: 0,0:15:30.80,0:15:33.67,English Subtitle,,0,0,0,,Whoa! I know I'm charming,
+Dialogue: 0,0:15:33.68,0:15:35.75,English Subtitle,,0,0,0,,but you don't have to fall for me.
+Dialogue: 0,0:15:43.55,0:15:45.68,English Subtitle,,0,0,0,,Guess I can't get too jealous, right?
+Dialogue: 0,0:15:45.99,0:15:48.11,English Subtitle,,0,0,0,,After all, she isn't my Twilight.
+Dialogue: 0,0:15:48.32,0:15:50.05,English Subtitle,,0,0,0,,Not that the other Twilight was mine!
+Dialogue: 0,0:15:50.62,0:15:53.08,English Subtitle,,0,0,0,,But, we were... you know.
+Dialogue: 0,0:15:53.45,0:15:55.01,English Subtitle,,0,0,0,,Yeah. I get it.
+Dialogue: 0,0:15:55.29,0:15:57.48,English Subtitle,,0,0,0,,But your Twilight is a princess in Equestria,
+Dialogue: 0,0:15:57.91,0:15:58.79,English Subtitle,,0,0,0,,hate to break it to you,
+Dialogue: 0,0:15:58.86,0:16:01.18,English Subtitle,,0,0,0,,but that's where she's gonna spend most of her time.
+Dialogue: 0,0:16:01.49,0:16:03.90,English Subtitle,,0,0,0,,So you're saying I just need to get over?
+Dialogue: 0,0:16:04.23,0:16:05.58,English Subtitle,,0,0,0,,Kinda, yeah.
+Dialogue: 0,0:16:05.66,0:16:08.01,English Subtitle,,0,0,0,,Ouch! You're not pulling any punches.
+Dialogue: 0,0:16:08.18,0:16:09.58,English Subtitle,,0,0,0,,Not really my style.
+Dialogue: 0,0:16:09.63,0:16:10.25,English Subtitle,,0,0,0,,Sorry.
+Dialogue: 0,0:16:10.77,0:16:12.58,English Subtitle,,0,0,0,,This is a safety hazard.
+Dialogue: 0,0:16:12.82,0:16:15.81,English Subtitle,,0,0,0,,I suggest we close down the dock for the remainder of the camp.
+Dialogue: 0,0:16:17.92,0:16:20.98,English Subtitle,,0,0,0,,Oh, I'm sure it won't have to be for the remainder of the camp.
+Dialogue: 0,0:16:21.12,0:16:23.21,English Subtitle,,0,0,0,,Just needs to be patched up a bit.
+Dialogue: 0,0:16:23.33,0:16:24.78,English Subtitle,,0,0,0,,I've got this!
+Dialogue: 0,0:16:25.41,0:16:28.25,English Subtitle,,0,0,0,,Huh. Or maybe we do!
+Dialogue: 0,0:16:28.32,0:16:30.55,English Subtitle,,0,0,0,,If you ask me, this whole dock needs to go.
+Dialogue: 0,0:16:31.91,0:16:34.18,English Subtitle,,0,0,0,,Building a new one could be our camp gift.
+Dialogue: 0,0:16:34.40,0:16:35.55,English Subtitle,,0,0,0,,Sure, it would benefit us,
+Dialogue: 0,0:16:35.61,0:16:38.58,English Subtitle,,0,0,0,,but a nice new dock would benefit future campers, too.
+Dialogue: 0,0:16:38.64,0:16:39.41,English Subtitle,,0,0,0,,I don't know.
+Dialogue: 0,0:16:39.51,0:16:40.71,English Subtitle,,0,0,0,,It's an awful lot of work.
+Dialogue: 0,0:16:41.10,0:16:43.85,English Subtitle,,0,0,0,,I wouldn't want you guys to miss out doing other fun camp stuff,
+Dialogue: 0,0:16:43.92,0:16:47.04,English Subtitle,,0,0,0,,because you're so busy building a dock for future campers.
+Dialogue: 0,0:16:49.36,0:16:51.18,English Subtitle,,0,0,0,,I hear what you're saying, Timber,
+Dialogue: 0,0:16:51.21,0:16:53.31,English Subtitle,,0,0,0,,but we're Canterlot Wondercolts!
+Dialogue: 0,0:16:53.49,0:16:55.38,English Subtitle,,0,0,0,,We've got a reputation to uphold!
+Dialogue: 0,0:16:55.67,0:16:57.65,English Subtitle,,0,0,0,,And there's no way we're gonna leave this place
+Dialogue: 0,0:16:57.66,0:17:00.85,English Subtitle,,0,0,0,,without contributing the most awesome camp gift ever!
+Dialogue: 0,0:17:00.87,0:17:04.18,English Subtitle,,0,0,0,,I'm with AJ, building a new dock is definitely it!
+Dialogue: 0,0:17:04.23,0:17:05.21,English Subtitle,,0,0,0,,What do you guys think?
+Dialogue: 0,0:17:07.67,0:17:09.91,English Subtitle,,0,0,0,,Looks like it's settled, then.
+Dialogue: 0,0:17:10.33,0:17:12.11,English Subtitle,,0,0,0,,Looks like it.
+Dialogue: 0,0:17:12.62,0:17:14.18,English Subtitle,,0,0,0,,That's some tension alright.
+Dialogue: 0,0:17:19.39,0:17:21.05,English Subtitle,,0,0,0,,We can reinforce foundation.
+Dialogue: 0,0:17:21.07,0:17:22.39,English Subtitle,,0,0,0,,Make it nice and sturdy.
+Dialogue: 0,0:17:22.42,0:17:25.18,English Subtitle,,0,0,0,,And we can add a wood-carved sign ’This is Camp Everfree.‘
+Dialogue: 0,0:17:25.20,0:17:26.47,English Subtitle,,0,0,0,,And little boxes with food
+Dialogue: 0,0:17:26.48,0:17:28.59,English Subtitle,,0,0,0,,so you can feed the ducks and fishes.
+Dialogue: 0,0:17:28.76,0:17:31.41,English Subtitle,,0,0,0,,Oh, we'll add lanterns so you can see at night!
+Dialogue: 0,0:17:35.25,0:17:36.81,English Subtitle,,0,0,0,,Oh, it's stunning!
+Dialogue: 0,0:17:36.85,0:17:41.19,English Subtitle,,0,0,0,,And will make an absolutely perfect runway for my camp fashion show!
+Dialogue: 0,0:17:41.29,0:17:42.78,English Subtitle,,0,0,0,,Or importantly,
+Dialogue: 0,0:17:42.83,0:17:45.71,English Subtitle,,0,0,0,,it will be a great place for docking canoes and feeding the wildlife.
+Dialogue: 0,0:17:45.84,0:17:47.18,English Subtitle,,0,0,0,,Oh, you say tomato,
+Dialogue: 0,0:17:47.31,0:17:51.21,English Subtitle,,0,0,0,,I say perfect place to showcase glamorous boho-chic stylings.
+Dialogue: 0,0:17:51.66,0:17:52.58,English Subtitle,,0,0,0,,What do you guys think?
+Dialogue: 0,0:17:52.86,0:17:55.85,English Subtitle,,0,0,0,,It's going to be a lot of work, but we can do it!
+Dialogue: 0,0:17:55.93,0:17:58.62,English Subtitle,,0,0,0,,Yes! Adult supervision!
+Dialogue: 0,0:18:02.55,0:18:04.35,English Subtitle,,0,0,0,,Huh, nice hammer.
+Dialogue: 0,0:18:04.45,0:18:05.05,English Subtitle,,0,0,0,,Where did you get it?
+Dialogue: 0,0:18:06.02,0:18:08.55,English Subtitle,,0,0,0,,Em, duh! The toolbox?
+Dialogue: 0,0:18:08.83,0:18:10.18,English Subtitle,,0,0,0,,Hah, that's cool.
+Dialogue: 0,0:18:10.50,0:18:11.39,English Subtitle,,0,0,0,,I made mine.
+Dialogue: 0,0:18:11.78,0:18:12.45,English Subtitle,,0,0,0,,Guh.
+Dialogue: 0,0:18:16.24,0:18:19.75,English Subtitle,,0,0,0,,Making lanterns out of solar-powered garden lights!
+Dialogue: 0,0:18:19.90,0:18:21.61,English Subtitle,,0,0,0,,Pretty crafty there, Timber!
+Dialogue: 0,0:18:21.81,0:18:23.35,English Subtitle,,0,0,0,,You think that's crafty?
+Dialogue: 0,0:18:23.55,0:18:25.11,English Subtitle,,0,0,0,,You should see my macaroni art.
+Dialogue: 0,0:18:25.28,0:18:27.75,English Subtitle,,0,0,0,,I'm like the Picasso of noodles.
+Dialogue: 0,0:18:30.06,0:18:31.08,English Subtitle,,0,0,0,,Alright, now!
+Dialogue: 0,0:18:31.15,0:18:32.56,English Subtitle,,0,0,0,,You've made a lot of progress.
+Dialogue: 0,0:18:32.61,0:18:34.21,English Subtitle,,0,0,0,,But it's going to be getting dark soon.
+Dialogue: 0,0:18:34.33,0:18:37.31,English Subtitle,,0,0,0,,We can pick this up tomorrow between our other camp activities.
+Dialogue: 0,0:18:37.58,0:18:38.85,English Subtitle,,0,0,0,,Everyone, get cleaned out,
+Dialogue: 0,0:18:38.97,0:18:43.49,English Subtitle,,0,0,0,,and we'll gather by the fire pit at eight to share s'mores and scary stories!
+Dialogue: 0,0:18:43.67,0:18:45.28,English Subtitle,,0,0,0,,S'MORES!!!
