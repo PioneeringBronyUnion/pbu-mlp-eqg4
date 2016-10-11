@@ -1,0 +1,1364 @@
+[Script Info]
+Title: My Little Pony: Equestria Girls - The Legend of Everfree
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: English Subtitle,Roboto Condensed,50,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,0,0,10,1
+Style: Default,思源黑体 Bold,90,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,0,0,50,1
+Style: Staff Credit,方正舒体,100,&H005D2DE7,&H003007BD,&H00000000,&H00F4F4F8,0,0,0,0,100,100,0,0,1,4,3,8,0,0,10,1
+Style: Effects (Center-Aligned),,0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,0,1
+Style: Effects (Left-Aligned),,0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: English Lyrics,Roboto Condensed,60,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,0,0,13,1
+Style: Mandarin Lyric,思源黑体 Bold,80,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,0,0,33,1
+Style: Applejack English,Roboto,60,&H0053B4FF,&H00363655,&H000D54E6,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Applejack Mandarin,思源黑体 Bold,90,&H0053B4FF,&H00363655,&H000D54E6,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Chorus English,Roboto,60,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Chorus Mandarin,思源黑体 Bold,90,&H0044DE4C,&H00565E6D,&H00115813,&H37000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Effects (Top-Center Aligned),,0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,0,1
+Style: English (Handwriting),Lucida Handwriting,50,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0,0,10,1
+Style: Fluttershy English,Roboto,60,&H00B5F3F5,&H00363655,&H00B27EE7,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Fluttershy Mandarin,思源黑体 Bold,90,&H00B5F3F5,&H00363655,&H00B27EE7,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Handwriting Mandarin,华文楷体,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,55,1
+Style: Pinkie Pie English,Roboto,60,&H00DFC2F6,&H00363655,&H007F2CCD,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Pinkie Pie Mandarin,思源黑体 Bold,90,&H00DFC2F6,&H00363655,&H007F2CCD,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Rainbow Dash English,Roboto,60,&H00FCE5AB,&H00363655,&H00BB9C52,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Rainbow Dash Mandarin,思源黑体 Bold,90,&H00FCE5AB,&H00363655,&H00BB9C52,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Rarity English,Roboto,60,&H00F5E6E6,&H00363655,&H00AA5361,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Rarity Mandarin,思源黑体 Bold,90,&H00F5E6E6,&H00363655,&H00AA5361,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Sunset Shimmer English,Roboto,60,&H008BEFF5,&H00568996,&H003A3AE9,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Sunset Shimmer Mandarin,思源黑体 Bold,90,&H008BEFF5,&H00568996,&H003A3AE9,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Twilight Sparkle English,Roboto,60,&H00D399D0,&H00565E6D,&H007B3B29,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Twilight Sparkle Mandarin,思源黑体 Bold,90,&H00D399D0,&H00565E6D,&H007B3B29,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Wondercolts English,Roboto,60,&H00F8DC51,&H0074642C,&H009E6621,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Wondercolts Mandarin,思源黑体 Bold,90,&H00F8DC51,&H0074642C,&H009E6621,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Gloriosa English,Roboto,60,&H00C7D828,&H003D4A2E,&H005D802D,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Gloriosa Mandarin,思源黑体 CN Bold,50,&H00C7D828,&H00568996,&H005D802D,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:08.41,0:00:09.45,English Subtitle,,0,0,0,,No.
+Dialogue: 1,0:00:09.66,0:00:10.87,English Subtitle,,0,0,0,,It can't be.
+Dialogue: 1,0:00:12.08,0:00:13.68,English Subtitle,,0,0,0,,It isn't true.
+Dialogue: 1,0:00:14.29,0:00:16.04,English Subtitle,,0,0,0,,Um, Twilight?
+Dialogue: 1,0:00:17.47,0:00:18.42,English Subtitle,,0,0,0,,Twilight!
+Dialogue: 1,0:00:18.42,0:00:21.38,English Subtitle,,0,0,0,,The bus for Camp Everfree leaves in ten minutes!
+Dialogue: 1,0:00:21.67,0:00:23.38,English Subtitle,,0,0,0,,Oh no no no no no!
+Dialogue: 1,0:00:23.38,0:00:25.20,English Subtitle,,0,0,0,,I can't believe I overslept!
+Dialogue: 1,0:00:26.48,0:00:28.70,English Subtitle,,0,0,0,,Me neither. That's not like you.
+Dialogue: 1,0:00:30.18,0:00:31.04,English Subtitle,,0,0,0,,I know!
+Dialogue: 1,0:00:31.04,0:00:35.61,English Subtitle,,0,0,0,,Don't you have a super-annoying alarm clock that goes omm-omm-omm-omm?
+Dialogue: 1,0:00:38.85,0:00:40.18,English Subtitle,,0,0,0,,It's gonna be fine.
+Dialogue: 1,0:00:40.18,0:00:41.23,English Subtitle,,0,0,0,,We'll help you pack.
+Dialogue: 1,0:00:44.65,0:00:45.57,English Subtitle,,0,0,0,,Eh.
+Dialogue: 1,0:00:45.78,0:00:47.57,English Subtitle,,0,0,0,,We're gonna be out in the woods.
+Dialogue: 1,0:00:47.86,0:00:49.28,English Subtitle,,0,0,0,,When's she gonna need that?
+Dialogue: 1,0:00:49.57,0:00:53.16,English Subtitle,,0,0,0,,If we were going to the moon, I'd insist she'd pack an evening gown.
+Dialogue: 1,0:00:53.33,0:00:54.70,English Subtitle,,0,0,0,,One never knows, darling.
+Dialogue: 1,0:00:56.16,0:00:57.66,English Subtitle,,0,0,0,,Lemme just get changed.
+Dialogue: 1,0:01:04.80,0:01:06.96,English Subtitle,,0,0,0,,Midnight Sparkle?!
+Dialogue: 1,0:01:07.13,0:01:08.47,English Subtitle,,0,0,0,,How is this possible?
+Dialogue: 1,0:01:08.63,0:01:11.18,English Subtitle,,0,0,0,,Sunset Shimmer helped me defeat you at the Friendship Games!
+Dialogue: 1,0:01:11.34,0:01:14.26,English Subtitle,,0,0,0,,You and your friends can never truly defeat me!
+Dialogue: 1,0:01:23.90,0:01:26.30,English Subtitle,,0,0,0,,Midnight Sparkle's a part of you!
+Dialogue: 1,0:01:27.86,0:01:29.40,English Subtitle,,0,0,0,,I'll always be there,
+Dialogue: 1,0:01:29.58,0:01:32.49,English Subtitle,,0,0,0,,waiting in the darkest shadows of your mind!
+Dialogue: 1,0:01:32.78,0:01:35.08,English Subtitle,,0,0,0,,I'll be back, Twilight!
+Dialogue: 1,0:01:35.20,0:01:39.10,English Subtitle,,0,0,0,,And this time, I won't stop until I have all the magic!
+Dialogue: 1,0:01:39.10,0:01:40.16,English Subtitle,,0,0,0,,No!
+Dialogue: 1,0:01:40.16,0:01:41.29,English Subtitle,,0,0,0,,STOP!
+Dialogue: 1,0:01:41.29,0:01:42.46,English Subtitle,,0,0,0,,Twilight, wake up!
+Dialogue: 1,0:01:43.04,0:01:44.40,English Subtitle,,0,0,0,,We can't stop, silly!
+Dialogue: 1,0:01:44.75,0:01:46.40,English Subtitle,,0,0,0,,We're not there yet!
+Dialogue: 1,0:01:47.51,0:01:49.12,English Subtitle,,0,0,0,,Hey, are you okay?
+Dialogue: 1,0:01:49.59,0:01:51.38,English Subtitle,,0,0,0,,Heh. I'm fine.
+Dialogue: 1,0:01:52.84,0:01:54.64,English Subtitle,,0,0,0,,We are gonna have so much fun!
+Dialogue: 1,0:01:54.64,0:01:59.39,English Subtitle,,0,0,0,,We're gonna roast marshmallows and eat marshmallows and sleep on marshmallow pillows!
+Dialogue: 1,0:01:59.68,0:02:01.69,English Subtitle,,0,0,0,,Yeah, probably not gonna do that.
+Dialogue: 1,0:02:01.69,0:02:03.48,English Subtitle,,0,0,0,,Maybe you're not.
+Dialogue: 1,0:02:04.56,0:02:06.02,English Subtitle,,0,0,0,,Attention, students,
+Dialogue: 1,0:02:06.02,0:02:07.32,English Subtitle,,0,0,0,,we're almost there.
+Dialogue: 1,0:02:07.32,0:02:08.94,English Subtitle,,0,0,0,,But before we arrive,
+Dialogue: 1,0:02:08.94,0:02:14.66,English Subtitle,,0,0,0,,we just wanted to say how proud we are of you for raising enough money to go on this class field trip.
+Dialogue: 1,0:02:14.85,0:02:18.33,English Subtitle,,0,0,0,,When we were your age, we made some of our favorite memories in these woods,
+Dialogue: 1,0:02:18.33,0:02:20.33,English Subtitle,,0,0,0,,and we're sure you will, too.
+Dialogue: 1,0:02:20.58,0:02:23.74,English Subtitle,,0,0,0,,Now who's excited for Camp Everfree?!
+Dialogue: 1,0:02:45.69,0:02:49.61,Chorus English,,0,0,0,,{\2a40}{\kf13}Will{\kf0} {\kf12}you{\kf5} {\kf15}be{\kf5} {\kf43}lost{\kf11} {\kf36}by{\kf8} {\kf48}time{\kf7} {\kf21}or{\kf5} {\kf14}be{\kf11} {\kf17}part{\kf1} {\kf13}of{\kf3} {\kf30}his{\kf32}to{\kf42}ry?
+Dialogue: 1,0:02:49.66,0:02:53.45,Chorus English,,0,0,0,,{\2a40}{\kf15}Will{\kf0} {\kf21}your{\kf8} {\kf27}sto{\kf22}ry{\kf4} {\kf36}be{\kf13} {\kf45}told{\kf0} {\kf24}or{\kf7} {\kf20}re{\kf20}main{\kf5} {\kf6}a{\kf9} {\kf22}mys{\kf35}te{\kf40}ry?
+Dialogue: 1,0:02:53.53,0:02:57.24,Chorus English,,0,0,0,,{\2a40}{\kf25}Will{\kf0} {\kf12}they{\kf6} {\kf44}sing{\kf9} {\kf27}your{\kf15} {\kf43}song{\kf10}, {\kf26}tel{\kf20}ling{\kf5} {\kf22}all{\kf0} {\kf10}that{\kf3} {\kf28}you{\kf0} {\kf22}have{\kf12} {\kf32}done?
+Dialogue: 1,0:02:57.37,0:03:01.37,Chorus English,,0,0,0,,{\2a40}{\kf24}Time{\kf6} {\kf15}to{\kf8} {\kf37}make{\kf10} {\kf39}your{\kf7} {\kf40}choice{\kf9}, {\kf23}on{\kf28}ly{\kf0} {\kf13}you{\kf0} {\kf16}can{\kf6} {\kf20}be{\kf7} {\kf22}the{\kf8} {\kf62}one
+Dialogue: 1,0:03:01.73,0:03:04.96,Chorus English,,0,0,0,,{\2a40}{\kf95}Oh{\kf0}-{\kf61}oh{\kf0}-{\kf64}oh{\kf0}-{\kf61}oh{\kf0}-{\kf42}whoa
+Dialogue: 1,0:03:05.13,0:03:09.29,Chorus English,,0,0,0,,{\2a40}{\kf27}As{\kf0} {\kf12}you{\kf12} {\kf44}join{\kf6} {\kf15}in{\kf8} {\kf17}the{\kf4} {\kf26}Le{\kf13}gend{\kf13} {\kf31}of{\kf15} {\kf50}E{\kf38}ver{\kf55}free{\kf2} {\kf33}(Hey)
+Dialogue: 1,0:03:09.49,0:03:12.72,Chorus English,,0,0,0,,{\2a40}{\kf95}Oh{\kf0}-{\kf61}oh{\kf0}-{\kf64}oh{\kf0}-{\kf61}oh{\kf0}-{\kf42}whoa
+Dialogue: 1,0:03:12.84,0:03:18.26,Chorus English,,0,0,0,,{\2a40}{\kf27}As{\kf0} {\kf12}you{\kf12} {\kf44}join{\kf6} {\kf15}in{\kf8} {\kf17}the{\kf4} {\kf26}Le{\kf13}gend{\kf13} {\kf31}of{\kf15} {\kf50}E{\kf51}ver{\kf198}free
+Dialogue: 1,0:03:16.74,0:03:19.13,Chorus English,,0,0,0,,{\2a40}{\kf21}Hey{\kf75} {\kf26}Hey{\kf67} {\kf30}Hey{\kf20}
+Dialogue: 1,0:03:19.60,0:03:23.48,Chorus English,,0,0,0,,{\2a40}{\kf14}Will{\kf0} {\kf14}you{\kf0} {\kf11}do{\kf5} {\kf55}some{\kf34}thing{\kf16} {\kf37}great{\kf13} {\kf14}with{\kf9} {\kf14}the{\kf5} {\kf25}time{\kf3} {\kf11}that{\kf3} {\kf23}you{\kf2} {\kf37}have {\kf43}here?
+Dialogue: 1,0:03:23.51,0:03:27.27,Chorus English,,0,0,0,,{\2a40}{\kf16}Will{\kf10} {\kf18}you{\kf6} {\kf36}make{\kf11} {\kf40}your{\kf10} {\kf37}mark{\kf12}, {\kf21}will{\kf3} {\kf18}you {\kf29}con{\kf11}quer{\kf2} {\kf24}what{\kf0} {\kf31}you{\kf6} {\kf35}fear?
+Dialogue: 1,0:03:27.38,0:03:31.03,Chorus English,,0,0,0,,{\2a40}{\kf11}And{\kf0} {\kf12}when{\kf4} {\kf18}you{\kf7} {\kf38}go{\kf8} {\kf34}back{\kf13} {\kf41}home{\kf8}, {\kf25}e{\kf21}very{\kf21}bo{\kf18}dy{\kf0} {\kf33}there{\kf0} {\kf23}will{\kf4} {\kf26}see
+Dialogue: 1,0:03:31.28,0:03:36.32,Chorus English,,0,0,0,,{\2a40}{\kf21}You{\kf4} {\kf20}were{\kf2} {\kf46}part{\kf4} {\kf20}of{\kf4} {\kf22}the{\kf2} {\kf25}Le{\kf17}gend{\kf6} {\kf39}of{\kf7} {\kf50}E{\kf48}ver{\kf167}free
+Dialogue: 1,0:03:36.54,0:03:39.87,Chorus English,,0,0,0,,{\2a40}{\kf95}Oh{\kf0}-{\kf61}oh{\kf0}-{\kf64}oh{\kf0}-{\kf61}oh{\kf0}-{\kf42}whoa
+Dialogue: 1,0:03:39.95,0:03:44.16,Chorus English,,0,0,0,,{\2a40}{\kf27}As{\kf0} {\kf12}you{\kf12} {\kf44}join{\kf6} {\kf15}in{\kf8} {\kf17}the{\kf4} {\kf26}Le{\kf13}gend{\kf13} {\kf31}of{\kf15} {\kf50}E{\kf38}ver{\kf55}free{\kf2} {\kf33}(Hey)
+Dialogue: 1,0:03:44.33,0:03:47.54,Chorus English,,0,0,0,,{\2a40}{\kf95}Oh{\kf0}-{\kf61}oh{\kf0}-{\kf64}oh{\kf0}-{\kf61}oh{\kf0}-{\kf42}whoa
+Dialogue: 1,0:03:47.69,0:03:51.96,Chorus English,,0,0,0,,{\2a40}{\kf27}As{\kf0} {\kf12}you{\kf12} {\kf44}join{\kf6} {\kf15}in{\kf8} {\kf17}the{\kf4} {\kf26}Le{\kf19}gend{\kf7} {\kf31}of{\kf15} {\kf50}E{\kf38}ver{\kf55}free{\kf2} {\kf39}(Hey)
+Dialogue: 1,0:03:52.46,0:03:56.01,Chorus English,,0,0,0,,{\2a40}{\kf22}Will{\kf0} {\kf26}you{\kf9} {\kf39}find{\kf12} {\kf38}your{\kf7} {\kf52}grea{\kf42}test{\kf3} {\kf51}glo{\kf54}ry?
+Dialogue: 1,0:03:56.38,0:03:59.76,Chorus English,,0,0,0,,{\2a40}{\kf22}Will{\kf0} {\kf26}you{\kf9} {\kf39}be{\kf4} {\kf41}a{\kf8} {\kf47}fal{\kf46}ling{\kf6} {\kf90}star?
+Dialogue: 1,0:04:00.30,0:04:03.89,Chorus English,,0,0,0,,{\2a40}{\kf22}Here{\kf3} {\kf23}to{\kf0} {\kf40}learn{\kf7} {\kf37}what{\kf12} {\kf47}na{\kf44}ture{\kf2} {\kf47}tea{\kf75}ches
+Dialogue: 1,0:04:04.18,0:04:06.98,Chorus English,,0,0,0,,{\2a40}{\kf22}Here{\kf3} {\kf23}to{\kf0} {\kf40}learn{\kf7} {\kf42}more{\kf7} {\kf38}who{\kf13} {\kf31}you{\kf14} {\kf40}are
+Dialogue: 1,0:04:07.05,0:04:10.77,Chorus English,,0,0,0,,{\2a40}{\kf13}Will{\kf0} {\kf12}you{\kf5} {\kf15}be{\kf5} {\kf43}lost{\kf2} {\kf43}by{\kf6} {\kf47}time{\kf3} {\kf21}or{\kf4} {\kf18}be{\kf5} {\kf24}part{\kf0} {\kf12}of{\kf3} {\kf28}his{\kf35}to{\kf28}ry?
+Dialogue: 1,0:04:10.94,0:04:14.65,Chorus English,,0,0,0,,{\2a40}{\kf15}Will{\kf0} {\kf21}your{\kf8} {\kf27}sto{\kf22}ry{\kf4} {\kf36}be{\kf13} {\kf45}told{\kf0} {\kf24}or{\kf7} {\kf20}re{\kf20}main{\kf5} {\kf6}a{\kf9} {\kf22}mys{\kf35}te{\kf40}ry?
+Dialogue: 1,0:04:14.82,0:04:18.57,Chorus English,,0,0,0,,{\2a40}{\kf11}And{\kf0} {\kf12}when{\kf4} {\kf18}you{\kf7} {\kf38}go{\kf8} {\kf34}back{\kf13} {\kf41}home{\kf8}, {\kf25}e{\kf21}very{\kf21}bo{\kf18}dy{\kf0} {\kf33}there{\kf0} {\kf23}will{\kf4} {\kf26}see
+Dialogue: 1,0:04:18.70,0:04:23.79,Chorus English,,0,0,0,,{\2a40}{\kf21}You{\kf4} {\kf20}were{\kf2} {\kf46}part{\kf4} {\kf20}of{\kf4} {\kf22}the{\kf2} {\kf25}Le{\kf17}gend{\kf6} {\kf39}of{\kf7} {\kf50}E{\kf48}ver{\kf167}free
+Dialogue: 1,0:04:23.99,0:04:27.21,Chorus English,,0,0,0,,{\2a40}{\kf95}Oh{\kf0}-{\kf61}oh{\kf0}-{\kf64}oh{\kf0}-{\kf61}oh{\kf0}-{\kf42}whoa
+Dialogue: 1,0:04:27.33,0:04:31.50,Chorus English,,0,0,0,,{\2a40}{\kf27}As{\kf0} {\kf12}you{\kf12} {\kf44}join{\kf6} {\kf15}in{\kf8} {\kf17}the{\kf4} {\kf30}Le{\kf22}gend{\kf0} {\kf31}of{\kf15} {\kf50}E{\kf38}ver{\kf55}free{\kf2} {\kf29}(Hey)
+Dialogue: 1,0:04:31.73,0:04:34.96,Chorus English,,0,0,0,,{\2a40}{\kf95}Oh{\kf0}-{\kf61}oh{\kf0}-{\kf64}oh{\kf0}-{\kf61}oh{\kf0}-{\kf42}whoa
+Dialogue: 1,0:04:35.09,0:04:39.97,Chorus English,,0,0,0,,{\2a40}{\kf27}As{\kf0} {\kf12}you{\kf12} {\kf44}join{\kf6} {\kf15}in{\kf8} {\kf17}the{\kf4} {\kf26}Le{\kf25}gend{\kf1} {\kf31}of{\kf15} {\kf50}E{\kf50}ver{\kf145}free
+Dialogue: 1,0:04:40.44,0:04:40.97,Chorus English,,0,0,0,,{\2a40}{\kf27}Hey{\kf26}
+Dialogue: 1,0:04:44.93,0:04:47.98,English Subtitle,,0,0,0,,Isn't Camp Everfree just beautiful?
+Dialogue: 1,0:04:47.98,0:04:51.00,English Subtitle,,0,0,0,,I can't wait until we have our first nature walk.
+Dialogue: 1,0:04:51.00,0:04:53.23,English Subtitle,,0,0,0,,I definitely wanna go on one of those.
+Dialogue: 1,0:04:53.23,0:04:56.15,English Subtitle,,0,0,0,,You wanna see all the adorable woodland creatures, too?
+Dialogue: 1,0:04:56.36,0:04:58.36,English Subtitle,,0,0,0,,Yeah! Specifically squirrels!
+Dialogue: 1,0:04:58.65,0:05:00.87,English Subtitle,,0,0,0,,More specifically, so I can chase 'em!
+Dialogue: 1,0:05:02.87,0:05:04.66,English Subtitle,,0,0,0,,I'm just lookin' forward to roughin' it.
+Dialogue: 1,0:05:04.95,0:05:07.50,English Subtitle,,0,0,0,,I'm gonna make my own shelter, forage for food...
+Dialogue: 1,0:05:07.50,0:05:10.79,English Subtitle,,0,0,0,,Uh, you know they provide us with food and tents, right?
+Dialogue: 1,0:05:10.79,0:05:11.42,English Subtitle,,0,0,0,,Yup!
+Dialogue: 1,0:05:11.79,0:05:13.10,English Subtitle,,0,0,0,,Still gonna forage though.
+Dialogue: 1,0:05:13.29,0:05:15.42,English Subtitle,,0,0,0,,I'm just after some R & R.
+Dialogue: 1,0:05:15.71,0:05:18.72,English Subtitle,,0,0,0,,The past year has all been a bit too much for my taste.
+Dialogue: 1,0:05:18.80,0:05:19.63,English Subtitle,,0,0,0,,I'll say!
+Dialogue: 1,0:05:19.63,0:05:22.60,English Subtitle,,0,0,0,,We fought three evil sirens who tried to hypnotize everybody with their singing,
+Dialogue: 1,0:05:22.60,0:05:24.76,English Subtitle,,0,0,0,,one ridiculously competitive rival school,
+Dialogue: 1,0:05:24.76,0:05:26.76,English Subtitle,,0,0,0,,and two demon friends!
+Dialogue: 1,0:05:27.89,0:05:28.68,English Subtitle,,0,0,0,,Uh, heh heh,
+Dialogue: 1,0:05:28.68,0:05:29.56,English Subtitle,,0,0,0,,no offense.
+Dialogue: 1,0:05:29.77,0:05:30.69,English Subtitle,,0,0,0,,None taken.
+Dialogue: 1,0:05:31.06,0:05:32.27,English Subtitle,,0,0,0,,You'll get used to it.
+Dialogue: 1,0:05:33.15,0:05:33.86,English Subtitle,,0,0,0,,Yep.
+Dialogue: 1,0:05:33.86,0:05:36.94,English Subtitle,,0,0,0,,Canterlot High has become a regular magic magnet.
+Dialogue: 1,0:05:37.23,0:05:40.82,English Subtitle,,0,0,0,,Gonna be nice gettin' away to a place where we don't have to worry about that kinda stuff.
+Dialogue: 1,0:05:41.28,0:05:42.28,English Subtitle,,0,0,0,,Here you go, Twilight.
+Dialogue: 1,0:05:42.53,0:05:43.24,English Subtitle,,0,0,0,,Thanks.
+Dialogue: 1,0:05:43.24,0:05:44.78,English Subtitle,,0,0,0,,It's Flash, right?
+Dialogue: 1,0:05:45.12,0:05:46.24,English Subtitle,,0,0,0,,Yup, that's me!
+Dialogue: 1,0:05:46.58,0:05:47.66,English Subtitle,,0,0,0,,And you're you.
+Dialogue: 1,0:05:47.66,0:05:49.83,English Subtitle,,0,0,0,,And we don't know each other very well.
+Dialogue: 1,0:05:50.46,0:05:51.37,English Subtitle,,0,0,0,,Cool story, bro.
+Dialogue: 1,0:05:51.79,0:05:52.63,English Subtitle,,0,0,0,,Right.
+Dialogue: 1,0:05:52.63,0:05:54.96,English Subtitle,,0,0,0,,I guess I'll... see you around.
+Dialogue: 1,0:05:56.63,0:05:58.80,English Subtitle,,0,0,0,,You know how there's that girl who looks just like you
+Dialogue: 1,0:05:58.80,0:06:02.09,English Subtitle,,0,0,0,,hen she's here but lives in another dimension and she's a pony princess?
+Dialogue: 1,0:06:02.47,0:06:03.14,English Subtitle,,0,0,0,,Uh-huh.
+Dialogue: 1,0:06:03.43,0:06:05.30,English Subtitle,,0,0,0,,Flash kinda had a... thing for her.
+Dialogue: 1,0:06:05.85,0:06:06.60,English Subtitle,,0,0,0,,Oh.
+Dialogue: 1,0:06:07.85,0:06:09.64,English Subtitle,,0,0,0,,Hey, everyone!
+Dialogue: 1,0:06:09.64,0:06:13.46,English Subtitle,,0,0,0,,If you could start heading to the courtyard, that would be rad!
+Dialogue: 1,0:06:13.46,0:06:16.90,English Subtitle,,0,0,0,,It's time to start the best week of camp ever!
+Dialogue: 1,0:06:20.36,0:06:23.03,English Subtitle,,0,0,0,,Hi, everyone! Welcome to Camp Everfree!
+Dialogue: 1,0:06:23.03,0:06:25.66,English Subtitle,,0,0,0,,I'm Gloriosa Daisy, your camp director!
+Dialogue: 1,0:06:25.66,0:06:28.37,English Subtitle,,0,0,0,,Think of me as your friendly camp and nature guide.
+Dialogue: 1,0:06:28.37,0:06:30.62,English Subtitle,,0,0,0,,And this is my brother, Timber Spruce!
+Dialogue: 1,0:06:30.87,0:06:32.37,English Subtitle,,0,0,0,,Think of me as that awesome guy...
+Dialogue: 1,0:06:32.58,0:06:34.96,English Subtitle,,0,0,0,,who should always be invited to fun things.
+Dialogue: 1,0:06:35.08,0:06:38.59,English Subtitle,,0,0,0,,We aim to please, so before we hand out our tent assignments,
+Dialogue: 1,0:06:38.59,0:06:40.18,English Subtitle,,0,0,0,,we'd like to hear from all of you.
+Dialogue: 1,0:06:40.42,0:06:43.28,English Subtitle,,0,0,0,,You're free to do whatever you like here!
+Dialogue: 1,0:06:43.28,0:06:45.64,English Subtitle,,0,0,0,,Uh, except hike near the rock quarry.
+Dialogue: 1,0:06:45.85,0:06:46.93,English Subtitle,,0,0,0,,That's off-limits.
+Dialogue: 1,0:06:47.35,0:06:50.58,English Subtitle,,0,0,0,,Yes, but otherwise, your options are wide open.
+Dialogue: 1,0:06:50.58,0:06:54.60,English Subtitle,,0,0,0,,So what activities will make this the very best week of your lives ever?
+Dialogue: 1,0:06:54.87,0:06:55.84,English Subtitle,,0,0,0,,Ooh! Rock climbing!
+Dialogue: 1,0:06:55.84,0:06:56.60,English Subtitle,,0,0,0,,Done!
+Dialogue: 1,0:06:56.60,0:06:57.48,English Subtitle,,0,0,0,,Archery!
+Dialogue: 1,0:06:57.48,0:06:58.46,English Subtitle,,0,0,0,,Of course!
+Dialogue: 1,0:06:58.46,0:06:59.24,English Subtitle,,0,0,0,,Tetherball!
+Dialogue: 1,0:06:59.53,0:07:00.65,English Subtitle,,0,0,0,,Naturally!
+Dialogue: 1,0:07:00.86,0:07:02.61,English Subtitle,,0,0,0,,Rainbow, I know you're excited,
+Dialogue: 1,0:07:02.61,0:07:05.32,English Subtitle,,0,0,0,,but maybe give somebody else a chance to make a suggestion.
+Dialogue: 1,0:07:05.78,0:07:07.16,English Subtitle,,0,0,0,,Arts and crafts!
+Dialogue: 1,0:07:07.72,0:07:09.99,English Subtitle,,0,0,0,,My mom... needs new pot holders.
+Dialogue: 1,0:07:10.37,0:07:11.96,English Subtitle,,0,0,0,,I'll supply the looms!
+Dialogue: 1,0:07:12.12,0:07:13.41,English Subtitle,,0,0,0,,Cookie decorating!
+Dialogue: 1,0:07:14.21,0:07:16.67,English Subtitle,,0,0,0,,Ooh, I do make a mean sugar cookie.
+Dialogue: 1,0:07:17.13,0:07:19.04,English Subtitle,,0,0,0,,Early morning nature walks?
+Dialogue: 1,0:07:19.21,0:07:21.42,English Subtitle,,0,0,0,,With walking sticks for everyone!
+Dialogue: 1,0:07:21.63,0:07:23.51,English Subtitle,,0,0,0,,Ooh! Me! Oh, uh...
+Dialogue: 1,0:07:23.51,0:07:24.72,English Subtitle,,0,0,0,,a fashion show!
+Dialogue: 1,0:07:24.72,0:07:27.00,English Subtitle,,0,0,0,,Where I design the most fabulous camp looks
+Dialogue: 1,0:07:27.00,0:07:29.10,English Subtitle,,0,0,0,,inspired by today's hottest trends
+Dialogue: 1,0:07:29.10,0:07:33.86,English Subtitle,,0,0,0,,and have them modeled by my classmates in a gorgeous outdoor setting!
+Dialogue: 1,0:07:33.93,0:07:35.82,English Subtitle,,0,0,0,,A camp tradition!
+Dialogue: 1,0:07:36.19,0:07:38.90,English Subtitle,,0,0,0,,We have literally never done that.
+Dialogue: 1,0:07:39.40,0:07:41.73,English Subtitle,,0,0,0,,I'll be taking requests the rest of the time you're here,
+Dialogue: 1,0:07:41.73,0:07:43.82,English Subtitle,,0,0,0,,so if there's anything you'd like to do,
+Dialogue: 1,0:07:43.82,0:07:44.90,English Subtitle,,0,0,0,,anything you need,
+Dialogue: 1,0:07:44.90,0:07:46.16,English Subtitle,,0,0,0,,just ask.
+Dialogue: 1,0:07:46.16,0:07:47.91,English Subtitle,,0,0,0,,What about the camp gift?
+Dialogue: 1,0:07:48.24,0:07:51.10,English Subtitle,,0,0,0,,That was my favorite Camp Everfree tradition.
+Dialogue: 1,0:07:51.24,0:07:53.45,English Subtitle,,0,0,0,,The camp gift! Of course!
+Dialogue: 1,0:07:53.70,0:07:54.41,English Subtitle,,0,0,0,,Really?
+Dialogue: 1,0:07:54.41,0:07:55.79,English Subtitle,,0,0,0,,Yes, really.
+Dialogue: 1,0:07:55.79,0:07:56.96,English Subtitle,,0,0,0,,Well, I just thought-
+Dialogue: 1,0:07:56.96,0:07:58.18,English Subtitle,,0,0,0,,Then you thought wrong!
+Dialogue: 1,0:07:58.18,0:08:01.92,English Subtitle,,0,0,0,,Anyone else picking up on a little tension between Gloriosa and her brother?
+Dialogue: 1,0:08:02.25,0:08:03.17,English Subtitle,,0,0,0,,Ehhh...
+Dialogue: 1,0:08:03.55,0:08:04.36,English Subtitle,,0,0,0,,A little.
+Dialogue: 1,0:08:04.59,0:08:08.24,English Subtitle,,0,0,0,,Every year, campers work together to create something useful.
+Dialogue: 1,0:08:08.26,0:08:10.54,English Subtitle,,0,0,0,,A gift for future campers.
+Dialogue: 1,0:08:10.54,0:08:14.60,English Subtitle,,0,0,0,,Working toward this common goal is key to forming the strong bonds
+Dialogue: 1,0:08:14.60,0:08:17.78,English Subtitle,,0,0,0,,that will last well beyond your time here at camp!
+Dialogue: 1,0:08:17.78,0:08:20.56,English Subtitle,,0,0,0,,Which is why it's so important.
+Dialogue: 1,0:08:20.81,0:08:22.96,English Subtitle,,0,0,0,,This gazebo was a gift from last year's group.
+Dialogue: 1,0:08:22.96,0:08:24.66,English Subtitle,,0,0,0,,Oh, oh, oh, and the totem pole
+Dialogue: 1,0:08:24.66,0:08:27.28,English Subtitle,,0,0,0,,and the sundial were also made by campers!
+Dialogue: 1,0:08:27.28,0:08:29.78,English Subtitle,,0,0,0,,The sundial was our year's gift!
+Dialogue: 1,0:08:31.08,0:08:34.04,English Subtitle,,0,0,0,,Even though "some people" thought it was a little impractical,
+Dialogue: 1,0:08:34.04,0:08:36.38,English Subtitle,,0,0,0,,since the sundial can't be used at night.
+Dialogue: 1,0:08:36.87,0:08:40.50,English Subtitle,,0,0,0,,Oh, you all seem like a-a really amazing group.
+Dialogue: 1,0:08:40.50,0:08:44.46,English Subtitle,,0,0,0,,So I'm certain you'll come up with something inspiring to leave behind.
+Dialogue: 1,0:08:46.20,0:08:48.30,English Subtitle,,0,0,0,,Speaking of leaving things behind,
+Dialogue: 1,0:08:48.30,0:08:50.59,English Subtitle,,0,0,0,,now's the time when we give out tent assignments
+Dialogue: 1,0:08:50.59,0:08:52.81,English Subtitle,,0,0,0,,so you can leave your heavy bags behind.
+Dialogue: 1,0:08:54.39,0:08:57.94,English Subtitle,,0,0,0,,Uh, girls will be getting their assignments from Timber.
+Dialogue: 1,0:08:57.94,0:08:59.48,English Subtitle,,0,0,0,,Guys, you're with me.
+Dialogue: 1,0:09:00.85,0:09:01.98,English Subtitle,,0,0,0,,Oh, boy!
+Dialogue: 1,0:09:04.44,0:09:06.69,English Subtitle,,0,0,0,,Yay! I'm in the Emerald Tent!
+Dialogue: 1,0:09:07.19,0:09:08.42,English Subtitle,,0,0,0,,Ooh, me, too!
+Dialogue: 1,0:09:09.15,0:09:10.28,English Subtitle,,0,0,0,,Aquamarine.
+Dialogue: 1,0:09:10.28,0:09:11.24,English Subtitle,,0,0,0,,Me, too!
+Dialogue: 1,0:09:11.49,0:09:12.49,English Subtitle,,0,0,0,,Yee-hoo!
+Dialogue: 1,0:09:12.78,0:09:14.49,English Subtitle,,0,0,0,,I got Amethyst.
+Dialogue: 1,0:09:16.04,0:09:16.91,English Subtitle,,0,0,0,,Sapphire.
+Dialogue: 1,0:09:16.91,0:09:17.86,English Subtitle,,0,0,0,,Me, too!
+Dialogue: 1,0:09:17.86,0:09:19.86,English Subtitle,,0,0,0,,I mean, I'm assuming I am.
+Dialogue: 1,0:09:19.86,0:09:22.17,English Subtitle,,0,0,0,,Technically, sapphires aren't just blue.
+Dialogue: 1,0:09:22.17,0:09:23.42,English Subtitle,,0,0,0,,They can be pink,
+Dialogue: 1,0:09:23.42,0:09:24.21,English Subtitle,,0,0,0,,purple,
+Dialogue: 1,0:09:24.21,0:09:24.96,English Subtitle,,0,0,0,,yellow...
+Dialogue: 1,0:09:25.13,0:09:26.59,English Subtitle,,0,0,0,,Yeah, but they're mostly blue.
+Dialogue: 1,0:09:26.59,0:09:29.24,English Subtitle,,0,0,0,,That's why they're named after the Latin word {\i1}sapphirus{\i0}.
+Dialogue: 1,0:09:31.30,0:09:32.47,English Subtitle,,0,0,0,,That means "blue".
+Dialogue: 1,0:09:32.68,0:09:33.85,English Subtitle,,0,0,0,,I know.
+Dialogue: 1,0:09:33.85,0:09:37.39,English Subtitle,,0,0,0,,But did you know that sapphires are just rubies without chromium?
+Dialogue: 1,0:09:37.39,0:09:38.04,English Subtitle,,0,0,0,,No.
+Dialogue: 1,0:09:39.60,0:09:42.69,English Subtitle,,0,0,0,,But did you know that Sapphire Tent is the best one?
+Dialogue: 1,0:09:42.69,0:09:43.56,English Subtitle,,0,0,0,,No.
+Dialogue: 1,0:09:43.56,0:09:44.54,English Subtitle,,0,0,0,,Why's that?
+Dialogue: 1,0:09:44.65,0:09:45.98,English Subtitle,,0,0,0,,Because you're in it.
+Dialogue: 1,0:09:47.23,0:09:50.03,English Subtitle,,0,0,0,,Oh, I bet you say that to all the campers.
+Dialogue: 1,0:09:50.03,0:09:51.11,English Subtitle,,0,0,0,,Not true.
+Dialogue: 1,0:09:51.45,0:09:52.78,English Subtitle,,0,0,0,,You're in the Ruby Tent?
+Dialogue: 1,0:09:52.78,0:09:54.58,English Subtitle,,0,0,0,,Ha! That's the worst one!
+Dialogue: 1,0:09:54.83,0:09:56.58,English Subtitle,,0,0,0,,Aw, man!
+Dialogue: 1,0:09:57.33,0:09:58.75,English Subtitle,,0,0,0,,I'm just jokin', buddy.
+Dialogue: 1,0:09:59.04,0:10:00.08,English Subtitle,,0,0,0,,Ruby Tent is great.
+Dialogue: 1,0:10:00.41,0:10:02.48,English Subtitle,,0,0,0,,It's like a sapphire, but with chromium.
+Dialogue: 1,0:10:05.79,0:10:09.21,English Subtitle,,0,0,0,,But the Ruby and Coral Tents do look an awful lot alike to the undiscerning eye.
+Dialogue: 1,0:10:09.47,0:10:11.21,English Subtitle,,0,0,0,,I better show you where it is.
+Dialogue: 1,0:10:12.07,0:10:13.30,English Subtitle,,0,0,0,,See ya around.
+Dialogue: 1,0:10:17.22,0:10:17.89,English Subtitle,,0,0,0,,What?
+Dialogue: 1,0:10:18.39,0:10:18.89,English Subtitle,,0,0,0,,Heh.
+Dialogue: 1,0:10:19.14,0:10:19.85,English Subtitle,,0,0,0,,Nothin'.
+Dialogue: 1,0:10:20.93,0:10:23.23,English Subtitle,,0,0,0,,That was adorable!
+Dialogue: 1,0:10:24.30,0:10:26.86,English Subtitle,,0,0,0,,Okay, everyone, go get settled in.
+Dialogue: 1,0:10:26.86,0:10:29.15,English Subtitle,,0,0,0,,We'll be meeting at the docks in fifteen minutes
+Dialogue: 1,0:10:29.15,0:10:31.28,English Subtitle,,0,0,0,,to go over some camp safety rules.
+Dialogue: 1,0:10:31.53,0:10:33.45,English Subtitle,,0,0,0,,Let me know if you need anything!
+Dialogue: 1,0:10:35.78,0:10:37.38,English Subtitle,,0,0,0,,I need somethin'.
+Dialogue: 1,0:10:38.29,0:10:39.58,English Subtitle,,0,0,0,,Filthy Rich!
+Dialogue: 1,0:10:39.58,0:10:41.58,English Subtitle,,0,0,0,,So nice to see you.
+Dialogue: 1,0:10:41.83,0:10:42.92,English Subtitle,,0,0,0,,What are you doing here?!
+Dialogue: 1,0:10:42.92,0:10:44.58,English Subtitle,,0,0,0,,Camp is just getting started!
+Dialogue: 1,0:10:44.79,0:10:48.59,English Subtitle,,0,0,0,,Just takin' in the scenery, Gloriosa Daisy.
+Dialogue: 1,0:10:48.59,0:10:50.09,English Subtitle,,0,0,0,,It's so...
+Dialogue: 1,0:10:50.26,0:10:50.76,English Subtitle,,0,0,0,,hmm...
+Dialogue: 1,0:10:51.01,0:10:52.63,English Subtitle,,0,0,0,,relaxin'.
+Dialogue: 1,0:10:53.12,0:10:56.01,English Subtitle,,0,0,0,,Well, you can look around when camp is over!
+Dialogue: 1,0:10:56.01,0:10:57.44,English Subtitle,,0,0,0,,Now, if you don't mind...
+Dialogue: 1,0:11:02.43,0:11:03.23,English Subtitle,,0,0,0,,Fine.
+Dialogue: 1,0:11:07.31,0:11:10.07,English Subtitle,,0,0,0,,Filthy Rich is, uh, an alumni of the camp.
+Dialogue: 1,0:11:10.07,0:11:13.36,English Subtitle,,0,0,0,,He likes to check on his old stomping grounds every now and again.
+Dialogue: 1,0:11:14.28,0:11:15.28,English Subtitle,,0,0,0,,But enough about him.
+Dialogue: 1,0:11:15.28,0:11:17.41,English Subtitle,,0,0,0,,Find your tents and put away your things.
+Dialogue: 1,0:11:17.41,0:11:20.20,English Subtitle,,0,0,0,,We've got the best week of camp ever to begin!
+Dialogue: 1,0:11:26.08,0:11:28.63,English Subtitle,,0,0,0,,I'm all for learning safety rules,
+Dialogue: 1,0:11:28.63,0:11:33.76,English Subtitle,,0,0,0,,but I do hope I can get started on my designs for the camp fashion show sooner rather than later.
+Dialogue: 1,0:11:34.09,0:11:37.93,English Subtitle,,0,0,0,,Huh. I still can't believe you talked Gloriosa into havin' a fashion show.
+Dialogue: 1,0:11:37.93,0:11:40.06,English Subtitle,,0,0,0,,We're in the middle of the woods, for cryin' out loud!
+Dialogue: 1,0:11:40.35,0:11:41.77,English Subtitle,,0,0,0,,We're s'posed to be roughin' it!
+Dialogue: 1,0:11:42.02,0:11:44.44,English Subtitle,,0,0,0,,It's clear from Gloriosa's own wardrobe
+Dialogue: 1,0:11:44.44,0:11:46.69,English Subtitle,,0,0,0,,that she appreciates a well put together look.
+Dialogue: 1,0:11:47.02,0:11:49.48,English Subtitle,,0,0,0,,Even if we are in the "middle of the woods".
+Dialogue: 1,0:11:49.86,0:11:50.73,English Subtitle,,0,0,0,,Fair enough.
+Dialogue: 1,0:11:51.02,0:11:54.19,English Subtitle,,0,0,0,,Just as long as you don't put me in one of your fancy pants outfits.
+Dialogue: 1,0:11:55.32,0:11:57.24,English Subtitle,,0,0,0,,You're gonna, aren't ya?
+Dialogue: 1,0:11:57.24,0:11:57.95,English Subtitle,,0,0,0,,No.
+Dialogue: 1,0:11:58.24,0:11:59.66,English Subtitle,,0,0,0,,Yes! Don't worry, darling.
+Dialogue: 1,0:11:59.66,0:12:02.83,English Subtitle,,0,0,0,,It'll absolutely speak to your personal sense of style...
+Dialogue: 1,0:12:05.87,0:12:07.30,English Subtitle,,0,0,0,,That was weird back there, right?
+Dialogue: 1,0:12:07.30,0:12:09.40,English Subtitle,,0,0,0,,With that guy, Filthy Rich?
+Dialogue: 1,0:12:09.88,0:12:10.59,English Subtitle,,0,0,0,,Huh?
+Dialogue: 1,0:12:10.84,0:12:12.59,English Subtitle,,0,0,0,,Oh. Uh, I guess so.
+Dialogue: 1,0:12:12.96,0:12:16.01,English Subtitle,,0,0,0,,I just have this feeling that Gloriosa's hiding something.
+Dialogue: 1,0:12:16.47,0:12:18.70,English Subtitle,,0,0,0,,Her brother is pretty cute, though, huh?
+Dialogue: 1,0:12:20.47,0:12:21.47,English Subtitle,,0,0,0,,He's okay.
+Dialogue: 1,0:12:21.47,0:12:22.81,English Subtitle,,0,0,0,,Ooooh,
+Dialogue: 1,0:12:22.81,0:12:24.73,English Subtitle,,0,0,0,,now look who's trying to hide something!
+Dialogue: 1,0:12:24.93,0:12:25.77,English Subtitle,,0,0,0,,No, I'm not!
+Dialogue: 1,0:12:27.02,0:12:28.44,English Subtitle,,0,0,0,,Hey, you okay?
+Dialogue: 1,0:12:28.44,0:12:30.81,English Subtitle,,0,0,0,,You seemed a little freaked out on the bus earlier.
+Dialogue: 1,0:12:31.02,0:12:32.81,English Subtitle,,0,0,0,,Probably had another one of her nightmares.
+Dialogue: 1,0:12:33.69,0:12:34.81,English Subtitle,,0,0,0,,I'm fine.
+Dialogue: 1,0:12:34.99,0:12:37.04,English Subtitle,,0,0,0,,I mean, what do I have to complain about?
+Dialogue: 1,0:12:37.28,0:12:41.37,English Subtitle,,0,0,0,,Ever since I transferred here, everyone from CHS has been really nice and accepting,
+Dialogue: 1,0:12:41.70,0:12:44.70,English Subtitle,,0,0,0,,especially considering what happened at the Friendship Games.
+Dialogue: 1,0:12:45.16,0:12:46.70,English Subtitle,,0,0,0,,That wasn't your fault.
+Dialogue: 1,0:12:46.91,0:12:51.84,English Subtitle,,0,0,0,,Principal Cinch is the one who encouraged you to try and use all that magic to win the Games for Crystal Prep.
+Dialogue: 1,0:12:52.21,0:12:54.34,English Subtitle,,0,0,0,,You weren't ready to have that kind of power.
+Dialogue: 1,0:12:54.46,0:12:55.71,English Subtitle,,0,0,0,,But it's over now.
+Dialogue: 1,0:12:56.22,0:12:59.68,English Subtitle,,0,0,0,,And if there's any group that's gonna forgive you for something that happened in the past,
+Dialogue: 1,0:12:59.93,0:13:01.68,English Subtitle,,0,0,0,,trust me, it's this one.
+Dialogue: 1,0:13:02.01,0:13:03.31,English Subtitle,,0,0,0,,You guys comin' or what?
+Dialogue: 1,0:13:03.31,0:13:04.39,English Subtitle,,0,0,0,,Be right there!
+Dialogue: 1,0:13:05.10,0:13:06.81,English Subtitle,,0,0,0,,I just wanna put on some sunscreen.
+Dialogue: 1,0:13:07.31,0:13:09.44,English Subtitle,,0,0,0,,Huh. I Coulda sworn I packed it.
+Dialogue: 1,0:13:10.60,0:13:11.69,English Subtitle,,0,0,0,,Found it!
+Dialogue: 1,0:13:20.58,0:13:21.98,English Subtitle,,0,0,0,,Did you?
+Dialogue: 1,0:13:22.01,0:13:23.29,English Subtitle,,0,0,0,,How is this possible?
+Dialogue: 1,0:13:23.50,0:13:24.65,English Subtitle,,0,0,0,,I can't believe this.
+Dialogue: 1,0:13:24.89,0:13:25.23,English Subtitle,,0,0,0,,It's...
+Dialogue: 1,0:13:25.70,0:13:26.81,English Subtitle,,0,0,0,,- Amazing!  - Terrible!
+Dialogue: 1,0:13:28.93,0:13:29.95,English Subtitle,,0,0,0,,Are you kidding?
+Dialogue: 1,0:13:29.97,0:13:30.91,English Subtitle,,0,0,0,,This is great!
+Dialogue: 1,0:13:31.21,0:13:32.95,English Subtitle,,0,0,0,,I mean, we've all ponyed up before,
+Dialogue: 1,0:13:32.96,0:13:35.12,English Subtitle,,0,0,0,,gotten the whole ears and wings and tail thing,
+Dialogue: 1,0:13:35.14,0:13:36.56,English Subtitle,,0,0,0,,shot magical rainbow lasers,
+Dialogue: 1,0:13:36.58,0:13:39.05,English Subtitle,,0,0,0,,but nothing like this has ever happened!
+Dialogue: 1,0:13:39.38,0:13:40.51,English Subtitle,,0,0,0,,How did you do it?
+Dialogue: 1,0:13:40.82,0:13:41.88,English Subtitle,,0,0,0,,I don't know!
+Dialogue: 1,0:13:42.28,0:13:43.25,English Subtitle,,0,0,0,,Maybe I didn't?
+Dialogue: 1,0:13:43.58,0:13:44.57,English Subtitle,,0,0,0,,Maybe it's her?!
+Dialogue: 1,0:13:45.12,0:13:46.15,English Subtitle,,0,0,0,,Her who?
+Dialogue: 1,0:13:46.30,0:13:46.87,English Subtitle,,0,0,0,,Nothing.
+Dialogue: 1,0:13:46.99,0:13:47.54,English Subtitle,,0,0,0,,Nevermind.
+Dialogue: 1,0:13:47.76,0:13:49.48,English Subtitle,,0,0,0,,Can we just not talk about it?
+Dialogue: 1,0:13:50.08,0:13:53.57,English Subtitle,,0,0,0,,And could you please not bring this whole levitating thing up to the others?
+Dialogue: 1,0:13:53.96,0:13:54.53,English Subtitle,,0,0,0,,Why not?
+Dialogue: 1,0:13:54.89,0:13:55.83,English Subtitle,,0,0,0,,You heard Applejack.
+Dialogue: 1,0:13:56.10,0:13:59.18,English Subtitle,,0,0,0,,This is supposed to be the place where everyone can get away from magic.
+Dialogue: 1,0:13:59.50,0:14:02.55,English Subtitle,,0,0,0,,I don't want them to know I brought some crazy new kind with me.
+Dialogue: 1,0:14:02.76,0:14:05.91,English Subtitle,,0,0,0,,If you really don't want me to, I won't say anything.
+Dialogue: 1,0:14:07.01,0:14:08.27,English Subtitle,,0,0,0,,I really don't.
+Dialogue: 1,0:14:08.29,0:14:11.35,English Subtitle,,0,0,0,,Okay, but this isn't necessarily a bad thing!
+Dialogue: 1,0:14:14.07,0:14:20.15,English Subtitle,,0,0,0,,Omm... Omm...
+Dialogue: 1,0:14:20.24,0:14:22.35,English Subtitle,,0,0,0,,I think you just gotta have to pick it up.
+Dialogue: 1,0:14:29.30,0:14:30.37,English Subtitle,,0,0,0,,...show up like that!
+Dialogue: 1,0:14:30.67,0:14:31.55,English Subtitle,,0,0,0,,What did you say?
+Dialogue: 1,0:14:32.05,0:14:34.61,English Subtitle,,0,0,0,,I... didn't say anything.
+Dialogue: 1,0:14:34.81,0:14:37.76,English Subtitle,,0,0,0,,Just here to make everyone was headed over to the docks!
+Dialogue: 1,0:14:38.38,0:14:39.58,English Subtitle,,0,0,0,,Did you need something?
+Dialogue: 1,0:14:39.65,0:14:39.97,English Subtitle,,0,0,0,,Nope.
+Dialogue: 1,0:14:40.29,0:14:42.36,English Subtitle,,0,0,0,,Because if there is anything I can do
+Dialogue: 1,0:14:42.37,0:14:44.42,English Subtitle,,0,0,0,,to make this week the best week ever,
+Dialogue: 1,0:14:44.45,0:14:45.51,English Subtitle,,0,0,0,,you just let me know.
+Dialogue: 1,0:14:45.91,0:14:46.83,English Subtitle,,0,0,0,,I've got this!
+Dialogue: 1,0:14:47.17,0:14:49.01,English Subtitle,,0,0,0,,Thanks, I'm good.
+Dialogue: 1,0:14:52.12,0:14:53.80,English Subtitle,,0,0,0,,People that chipper make me nervous.
+Dialogue: 1,0:14:54.45,0:14:56.71,English Subtitle,,0,0,0,,This is gonna be so much fun!
+Dialogue: 1,0:14:56.92,0:14:58.48,English Subtitle,,0,0,0,,I guess not all people.
+Dialogue: 1,0:14:59.63,0:15:01.65,English Subtitle,,0,0,0,,Oh, it's beautiful, isn't it?
+Dialogue: 1,0:15:01.86,0:15:04.55,English Subtitle,,0,0,0,,It looks like a diamond shining in the sun!
+Dialogue: 1,0:15:04.88,0:15:06.48,English Subtitle,,0,0,0,,It is lovely out here.
+Dialogue: 1,0:15:06.56,0:15:08.78,English Subtitle,,0,0,0,,The fresh air, the cool breeze,
+Dialogue: 1,0:15:09.58,0:15:11.91,English Subtitle,,0,0,0,,the birds that land on your finger.
+Dialogue: 1,0:15:12.00,0:15:13.76,English Subtitle,,0,0,0,,I think that only happens to you.
+Dialogue: 1,0:15:14.38,0:15:17.42,English Subtitle,,0,0,0,,Lake activities are available every day until sunset,
+Dialogue: 1,0:15:17.49,0:15:22.41,English Subtitle,,0,0,0,,so if you want to canoe, sail, windsurf or swim, just let me know.
+Dialogue: 1,0:15:26.30,0:15:28.65,English Subtitle,,0,0,0,,Aren't they just the cutest?
+Dialogue: 1,0:15:30.80,0:15:33.67,English Subtitle,,0,0,0,,Whoa! I know I'm charming,
+Dialogue: 1,0:15:33.68,0:15:35.75,English Subtitle,,0,0,0,,but you don't have to fall for me.
+Dialogue: 1,0:15:43.55,0:15:45.68,English Subtitle,,0,0,0,,Guess I can't get too jealous, right?
+Dialogue: 1,0:15:45.99,0:15:48.11,English Subtitle,,0,0,0,,After all, she isn't my Twilight.
+Dialogue: 1,0:15:48.32,0:15:50.05,English Subtitle,,0,0,0,,Not that the other Twilight was mine!
+Dialogue: 1,0:15:50.62,0:15:53.08,English Subtitle,,0,0,0,,But, we were... you know.
+Dialogue: 1,0:15:53.45,0:15:55.01,English Subtitle,,0,0,0,,Yeah. I get it.
+Dialogue: 1,0:15:55.29,0:15:57.48,English Subtitle,,0,0,0,,But your Twilight is a princess in Equestria,
+Dialogue: 1,0:15:57.91,0:15:58.79,English Subtitle,,0,0,0,,hate to break it to you,
+Dialogue: 1,0:15:58.86,0:16:01.18,English Subtitle,,0,0,0,,but that's where she's gonna spend most of her time.
+Dialogue: 1,0:16:01.49,0:16:03.90,English Subtitle,,0,0,0,,So you're saying I just need to get over?
+Dialogue: 1,0:16:04.23,0:16:05.58,English Subtitle,,0,0,0,,Kinda, yeah.
+Dialogue: 1,0:16:05.66,0:16:08.01,English Subtitle,,0,0,0,,Ouch! You're not pulling any punches.
+Dialogue: 1,0:16:08.18,0:16:09.58,English Subtitle,,0,0,0,,Not really my style.
+Dialogue: 1,0:16:09.63,0:16:10.25,English Subtitle,,0,0,0,,Sorry.
+Dialogue: 1,0:16:10.77,0:16:12.58,English Subtitle,,0,0,0,,This is a safety hazard.
+Dialogue: 1,0:16:12.82,0:16:15.81,English Subtitle,,0,0,0,,I suggest we close down the dock for the remainder of the camp.
+Dialogue: 1,0:16:17.92,0:16:20.98,English Subtitle,,0,0,0,,Oh, I'm sure it won't have to be for the remainder of the camp.
+Dialogue: 1,0:16:21.12,0:16:23.21,English Subtitle,,0,0,0,,Just needs to be patched up a bit.
+Dialogue: 1,0:16:23.33,0:16:24.78,English Subtitle,,0,0,0,,I've got this!
+Dialogue: 1,0:16:25.41,0:16:28.25,English Subtitle,,0,0,0,,Huh. Or maybe we do!
+Dialogue: 1,0:16:28.32,0:16:30.55,English Subtitle,,0,0,0,,If you ask me, this whole dock needs to go.
+Dialogue: 1,0:16:31.91,0:16:34.18,English Subtitle,,0,0,0,,Building a new one could be our camp gift.
+Dialogue: 1,0:16:34.40,0:16:35.55,English Subtitle,,0,0,0,,Sure, it would benefit us,
+Dialogue: 1,0:16:35.61,0:16:38.58,English Subtitle,,0,0,0,,but a nice new dock would benefit future campers, too.
+Dialogue: 1,0:16:38.64,0:16:39.41,English Subtitle,,0,0,0,,I don't know.
+Dialogue: 1,0:16:39.51,0:16:40.71,English Subtitle,,0,0,0,,It's an awful lot of work.
+Dialogue: 1,0:16:41.10,0:16:43.85,English Subtitle,,0,0,0,,I wouldn't want you guys to miss out doing other fun camp stuff,
+Dialogue: 1,0:16:43.92,0:16:47.04,English Subtitle,,0,0,0,,because you're so busy building a dock for future campers.
+Dialogue: 1,0:16:49.36,0:16:51.18,English Subtitle,,0,0,0,,I hear what you're saying, Timber,
+Dialogue: 1,0:16:51.21,0:16:53.31,English Subtitle,,0,0,0,,but we're Canterlot Wondercolts!
+Dialogue: 1,0:16:53.49,0:16:55.38,English Subtitle,,0,0,0,,We've got a reputation to uphold!
+Dialogue: 1,0:16:55.67,0:16:57.65,English Subtitle,,0,0,0,,And there's no way we're gonna leave this place
+Dialogue: 1,0:16:57.66,0:17:00.85,English Subtitle,,0,0,0,,without contributing the most awesome camp gift ever!
+Dialogue: 1,0:17:00.87,0:17:04.18,English Subtitle,,0,0,0,,I'm with AJ, building a new dock is definitely it!
+Dialogue: 1,0:17:04.23,0:17:05.21,English Subtitle,,0,0,0,,What do you guys think?
+Dialogue: 1,0:17:07.67,0:17:09.91,English Subtitle,,0,0,0,,Looks like it's settled, then.
+Dialogue: 1,0:17:10.33,0:17:12.11,English Subtitle,,0,0,0,,Looks like it.
+Dialogue: 1,0:17:12.62,0:17:14.18,English Subtitle,,0,0,0,,That's some tension alright.
+Dialogue: 1,0:17:19.39,0:17:21.05,English Subtitle,,0,0,0,,We can reinforce foundation.
+Dialogue: 1,0:17:21.07,0:17:22.39,English Subtitle,,0,0,0,,Make it nice and sturdy.
+Dialogue: 1,0:17:22.42,0:17:25.18,English Subtitle,,0,0,0,,And we can add a wood-carved sign ’This is Camp Everfree.‘
+Dialogue: 1,0:17:25.20,0:17:26.47,English Subtitle,,0,0,0,,And little boxes with food
+Dialogue: 1,0:17:26.48,0:17:28.59,English Subtitle,,0,0,0,,so you can feed the ducks and fishes.
+Dialogue: 1,0:17:28.76,0:17:31.41,English Subtitle,,0,0,0,,Oh, we'll add lanterns so you can see at night!
+Dialogue: 1,0:17:35.25,0:17:36.81,English Subtitle,,0,0,0,,Oh, it's stunning!
+Dialogue: 1,0:17:36.85,0:17:41.19,English Subtitle,,0,0,0,,And will make an absolutely perfect runway for my camp fashion show!
+Dialogue: 1,0:17:41.29,0:17:42.78,English Subtitle,,0,0,0,,Or importantly,
+Dialogue: 1,0:17:42.83,0:17:45.71,English Subtitle,,0,0,0,,it will be a great place for docking canoes and feeding the wildlife.
+Dialogue: 1,0:17:45.84,0:17:47.18,English Subtitle,,0,0,0,,Oh, you say tomato,
+Dialogue: 1,0:17:47.31,0:17:51.21,English Subtitle,,0,0,0,,I say perfect place to showcase glamorous boho-chic stylings.
+Dialogue: 1,0:17:51.66,0:17:52.58,English Subtitle,,0,0,0,,What do you guys think?
+Dialogue: 1,0:17:52.86,0:17:55.85,English Subtitle,,0,0,0,,It's going to be a lot of work, but we can do it!
+Dialogue: 1,0:17:55.93,0:17:58.62,English Subtitle,,0,0,0,,Yes! Adult supervision!
+Dialogue: 1,0:18:02.55,0:18:04.35,English Subtitle,,0,0,0,,Huh, nice hammer.
+Dialogue: 1,0:18:04.45,0:18:05.05,English Subtitle,,0,0,0,,Where did you get it?
+Dialogue: 1,0:18:06.02,0:18:08.55,English Subtitle,,0,0,0,,Em, duh! The toolbox?
+Dialogue: 1,0:18:08.83,0:18:10.18,English Subtitle,,0,0,0,,Hah, that's cool.
+Dialogue: 1,0:18:10.50,0:18:11.39,English Subtitle,,0,0,0,,I made mine.
+Dialogue: 1,0:18:11.78,0:18:12.45,English Subtitle,,0,0,0,,Guh.
+Dialogue: 1,0:18:16.24,0:18:19.75,English Subtitle,,0,0,0,,Making lanterns out of solar-powered garden lights!
+Dialogue: 1,0:18:19.90,0:18:21.61,English Subtitle,,0,0,0,,Pretty crafty there, Timber!
+Dialogue: 1,0:18:21.81,0:18:23.35,English Subtitle,,0,0,0,,You think that's crafty?
+Dialogue: 1,0:18:23.55,0:18:25.11,English Subtitle,,0,0,0,,You should see my macaroni art.
+Dialogue: 1,0:18:25.28,0:18:27.75,English Subtitle,,0,0,0,,I'm like the Picasso of noodles.
+Dialogue: 1,0:18:30.06,0:18:31.08,English Subtitle,,0,0,0,,Alright, now!
+Dialogue: 1,0:18:31.15,0:18:32.56,English Subtitle,,0,0,0,,You've made a lot of progress.
+Dialogue: 1,0:18:32.61,0:18:34.21,English Subtitle,,0,0,0,,But it's going to be getting dark soon.
+Dialogue: 1,0:18:34.33,0:18:37.31,English Subtitle,,0,0,0,,We can pick this up tomorrow between our other camp activities.
+Dialogue: 1,0:18:37.58,0:18:38.85,English Subtitle,,0,0,0,,Everyone, get cleaned out,
+Dialogue: 1,0:18:38.97,0:18:43.49,English Subtitle,,0,0,0,,and we'll gather by the fire pit at eight to share s'mores and scary stories!
+Dialogue: 1,0:18:43.67,0:18:45.28,English Subtitle,,0,0,0,,S'MORES!!!
+Dialogue: 1,0:18:46.46,0:18:49.87,English Subtitle,,0,0,0,,And that's when she looked down
+Dialogue: 1,0:18:50.32,0:18:55.31,English Subtitle,,0,0,0,,and realize she was wearing purple socks with the burgundy dress!
+Dialogue: 1,0:19:01.05,0:19:02.86,English Subtitle,,0,0,0,,Purple and burgundy, darlings!
+Dialogue: 1,0:19:02.97,0:19:04.61,English Subtitle,,0,0,0,,The same color family!
+Dialogue: 1,0:19:10.96,0:19:13.25,English Subtitle,,0,0,0,,That was a terrifying story.
+Dialogue: 1,0:19:13.58,0:19:16.31,English Subtitle,,0,0,0,,Yeah, I'm terrified she'll try to tell it again.
+Dialogue: 1,0:19:17.39,0:19:19.88,English Subtitle,,0,0,0,,Anyone else have a spooky story?
+Dialogue: 1,0:19:20.99,0:19:21.98,English Subtitle,,0,0,0,,I have one.
+Dialogue: 1,0:19:22.48,0:19:25.75,English Subtitle,,0,0,0,,But I'm warning you, you might as well hug your friend now.
+Dialogue: 1,0:19:26.48,0:19:28.56,English Subtitle,,0,0,0,,That's how scary it is!
+Dialogue: 1,0:19:29.60,0:19:30.58,English Subtitle,,0,0,0,,Oh, dear.
+Dialogue: 1,0:19:32.72,0:19:37.18,English Subtitle,,0,0,0,,It's time I told you about the legend of Gaia Everfree.
+Dialogue: 1,0:19:42.40,0:19:47.75,English Subtitle,,0,0,0,,Many years ago my great grandparents came to this forest.
+Dialogue: 1,0:19:48.70,0:19:52.98,English Subtitle,,0,0,0,,Seeing its beauty, they decided that it would be the perfect place for a camp.
+Dialogue: 1,0:19:55.10,0:20:00.22,English Subtitle,,0,0,0,,But once they started building, strange things started to happen.
+Dialogue: 1,0:20:02.17,0:20:06.21,English Subtitle,,0,0,0,,One pitch-black night, when the wind was howling,
+Dialogue: 1,0:20:06.66,0:20:09.11,English Subtitle,,0,0,0,,a tree branch crashed through the roof of their cabin.
+Dialogue: 1,0:20:09.33,0:20:11.14,English Subtitle,,0,0,0,,They screamed and ran outside,
+Dialogue: 1,0:20:11.16,0:20:13.95,English Subtitle,,0,0,0,,only to see the giant creature rising from the earth.
+Dialogue: 1,0:20:14.36,0:20:16.71,English Subtitle,,0,0,0,,She got wild hair, like the roots of a tree.
+Dialogue: 1,0:20:16.98,0:20:21.35,English Subtitle,,0,0,0,,Her mouth had jagged rock teeth and her eyes were pools of black tar.
+Dialogue: 1,0:20:21.91,0:20:23.95,English Subtitle,,0,0,0,,But her aura shimmered like diamonds.
+Dialogue: 1,0:20:24.22,0:20:28.15,English Subtitle,,0,0,0,,Anywhere she went, she left a trail of gemdust in her wake.
+Dialogue: 1,0:20:28.46,0:20:32.38,English Subtitle,,0,0,0,,Trembling, my great grandparents asked who she was and what she wanted.
+Dialogue: 1,0:20:32.90,0:20:38.01,English Subtitle,,0,0,0,,In a deep and hollow voice she told them that her name was Gaia Everfree –
+Dialogue: 1,0:20:38.23,0:20:41.15,English Subtitle,,0,0,0,,an ancient spirit who held domain over the forest,
+Dialogue: 1,0:20:41.22,0:20:44.25,English Subtitle,,0,0,0,,and that my great grandparent were trespassing on her land.
+Dialogue: 1,0:20:44.97,0:20:47.18,English Subtitle,,0,0,0,,They begged her to let them stay and build their camp
+Dialogue: 1,0:20:47.24,0:20:49.46,English Subtitle,,0,0,0,,to share this wonderful place with others.
+Dialogue: 1,0:20:50.08,0:20:52.35,English Subtitle,,0,0,0,,Gaia Everfree finally agreed,
+Dialogue: 1,0:20:52.39,0:20:55.48,English Subtitle,,0,0,0,,but warned them that they would not be able to keep it forever.
+Dialogue: 1,0:20:55.59,0:21:00.65,English Subtitle,,0,0,0,,Some day she will return and reclaim the forest as her own.
+Dialogue: 1,0:21:01.17,0:21:05.73,English Subtitle,,0,0,0,,So if you see a trail of gemdust, you'll know that it is...
+Dialogue: 1,0:21:06.38,0:21:08.58,English Subtitle,,0,0,0,,Gaia Everfree!
+Dialogue: 1,0:21:10.81,0:21:14.01,English Subtitle,,0,0,0,,Hey, guys! Sorry, didn't mean to scare you!
+Dialogue: 1,0:21:14.20,0:21:16.22,English Subtitle,,0,0,0,,Then why did you come out of the bushes?
+Dialogue: 1,0:21:16.60,0:21:21.01,English Subtitle,,0,0,0,,I... took the scenic route, because the forest is beautiful at night.
+Dialogue: 1,0:21:22.43,0:21:24.29,English Subtitle,,0,0,0,,But no one else should without a guide, okay?
+Dialogue: 1,0:21:25.30,0:21:27.85,English Subtitle,,0,0,0,,Alright, everybody, time to head to you tents.
+Dialogue: 1,0:21:28.72,0:21:30.18,English Subtitle,,0,0,0,,Oh, hey, Gloriosa.
+Dialogue: 1,0:21:30.26,0:21:33.41,English Subtitle,,0,0,0,,Do you have extra toothbrushes? I forgot mine.
+Dialogue: 1,0:21:35.01,0:21:37.11,English Subtitle,,0,0,0,,Sure do! I'll get one for you.
+Dialogue: 1,0:21:37.41,0:21:41.11,English Subtitle,,0,0,0,,I'm scared of the dark! Do you have flashlights?
+Dialogue: 1,0:21:42.61,0:21:44.98,English Subtitle,,0,0,0,,Of course! I got this!
+Dialogue: 1,0:21:46.93,0:21:48.28,English Subtitle,,0,0,0,,Fluttershy?
+Dialogue: 1,0:21:49.19,0:21:52.51,English Subtitle,,0,0,0,,Sorry, Spike. I guess that story got to me.
+Dialogue: 1,0:21:53.21,0:21:54.79,English Subtitle,,0,0,0,,Why? It can't be real.
+Dialogue: 1,0:21:55.26,0:21:56.48,English Subtitle,,0,0,0,,I don't know.
+Dialogue: 1,0:21:56.72,0:22:00.18,English Subtitle,,0,0,0,,Gaia Everfree some creature that got booted from Equestria
+Dialogue: 1,0:22:00.20,0:22:01.53,English Subtitle,,0,0,0,,and ended up in this world
+Dialogue: 1,0:22:01.92,0:22:03.58,English Subtitle,,0,0,0,,That's what happened with the Sirens.
+Dialogue: 1,0:22:03.96,0:22:07.61,English Subtitle,,0,0,0,,Eh. Sounded more like something that Timber was making up just to scare us.
+Dialogue: 1,0:22:08.95,0:22:10.51,English Subtitle,,0,0,0,,At least I hope it was.
+Dialogue: 1,0:22:10.76,0:22:14.95,English Subtitle,,0,0,0,,Last thing I want is to have camp ruined by some power-crazed magical creature.
+Dialogue: 1,0:22:15.17,0:22:16.41,English Subtitle,,0,0,0,,Oh, hear-hear.
+Dialogue: 1,0:22:16.59,0:22:18.85,English Subtitle,,0,0,0,,We had to deal with more than our fair share of those.
+Dialogue: 1,0:22:19.15,0:22:22.97,English Subtitle,,0,0,0,,At the Fall Formal, a musical showcase, the Friendship Ga–
+Dialogue: 1,0:22:23.51,0:22:27.11,English Subtitle,,0,0,0,,Well, I mean, you know, everything turned out alright, of course
+Dialogue: 1,0:22:28.62,0:22:32.08,English Subtitle,,0,0,0,,Mmm. I'm kinda tired. I'm in a turn in.
+Dialogue: 1,0:22:33.09,0:22:35.77,English Subtitle,,0,0,0,,Maybe lay off bringing up what happened at the Friendship Games?
+Dialogue: 1,0:22:36.19,0:22:38.00,English Subtitle,,0,0,0,,I think she's still pretty sensitive about it.
+Dialogue: 1,0:22:40.09,0:22:42.30,English Subtitle,,0,0,0,,Our lips are sealed.
+Dialogue: 1,0:22:51.27,0:22:52.37,English Subtitle,,0,0,0,,Here I am!
+Dialogue: 1,0:22:55.40,0:22:56.63,English Subtitle,,0,0,0,,Over here.
+Dialogue: 1,0:23:00.95,0:23:02.30,English Subtitle,,0,0,0,,I'm always here!
+Dialogue: 1,0:23:02.33,0:23:02.90,English Subtitle,,0,0,0,,No!
+Dialogue: 1,0:23:03.37,0:23:05.11,English Subtitle,,0,0,0,,Who's there? What happened?
+Dialogue: 1,0:23:05.66,0:23:07.68,English Subtitle,,0,0,0,,Nothing. Sorry, Sunset.
+Dialogue: 1,0:23:10.52,0:23:14.08,English Subtitle,,0,0,0,,Uh, Twilight, I think something happened.
+Dialogue: 1,0:23:18.78,0:23:20.80,English Subtitle,,0,0,0,,Is it time to get up already?
+Dialogue: 1,0:23:22.94,0:23:25.20,English Subtitle,,0,0,0,,Twilight, we really have to talk about this.
+Dialogue: 1,0:23:25.86,0:23:27.22,English Subtitle,,0,0,0,,No, we don't!
+Dialogue: 1,0:23:41.22,0:23:43.18,English Subtitle,,0,0,0,,Hey, I know you don't want to,
+Dialogue: 1,0:23:43.20,0:23:46.42,English Subtitle,,0,0,0,,but I really think we need to figure out what's going on with your magic.
+Dialogue: 1,0:23:46.99,0:23:48.58,English Subtitle,,0,0,0,,If you could learn to control it–
+Dialogue: 1,0:23:48.67,0:23:51.65,English Subtitle,,0,0,0,,That's just it! I'll never be able to control it!
+Dialogue: 1,0:23:56.30,0:23:57.18,English Subtitle,,0,0,0,,What happened?
+Dialogue: 1,0:23:57.73,0:23:58.75,English Subtitle,,0,0,0,,I didn't mean to!
+Dialogue: 1,0:23:59.17,0:24:01.78,English Subtitle,,0,0,0,,We didn't see anything, so we don't know what happened.
+Dialogue: 1,0:24:05.56,0:24:06.41,English Subtitle,,0,0,0,,Are you okay?
+Dialogue: 1,0:24:06.82,0:24:09.41,English Subtitle,,0,0,0,,Yeah. It was so weird.
+Dialogue: 1,0:24:09.50,0:24:12.68,English Subtitle,,0,0,0,,We were stuck in a middle of the lake with no wind,
+Dialogue: 1,0:24:12.91,0:24:15.08,English Subtitle,,0,0,0,,then all of a sudden BAM!
+Dialogue: 1,0:24:15.27,0:24:18.55,English Subtitle,,0,0,0,,The wind picked up and we were pushed right into the dock.
+Dialogue: 1,0:24:20.05,0:24:22.29,English Subtitle,,0,0,0,,You don't think it was the spirit, do you?!
+Dialogue: 1,0:24:22.86,0:24:24.72,English Subtitle,,0,0,0,,No, it was me.
+Dialogue: 1,0:24:26.40,0:24:29.25,English Subtitle,,0,0,0,,Spirit, show yourself!
+Dialogue: 1,0:24:29.45,0:24:33.18,English Subtitle,,0,0,0,,The Great and Powerful Trixie commands it!
+Dialogue: 1,0:24:33.53,0:24:34.57,English Subtitle,,0,0,0,,What's that?!
+Dialogue: 1,0:24:39.83,0:24:43.91,English Subtitle,,0,0,0,,Oh, man! All our hard work! Ruined!
+Dialogue: 1,0:24:44.07,0:24:46.07,English Subtitle,,0,0,0,,At least the fishes are really well.
+Dialogue: 1,0:24:46.29,0:24:48.19,English Subtitle,,0,0,0,,Let's salvage what we can out of the water.
+Dialogue: 1,0:24:48.30,0:24:49.78,English Subtitle,,0,0,0,,Maybe we can still fix this?
+Dialogue: 1,0:24:50.03,0:24:53.78,English Subtitle,,0,0,0,,We have to try! Camp Everfree needs our runway!
+Dialogue: 1,0:24:54.06,0:24:54.78,English Subtitle,,0,0,0,,Dock.
+Dialogue: 1,0:24:54.98,0:24:57.05,English Subtitle,,0,0,0,,Dock, yes, that's what I meant.
+Dialogue: 1,0:25:05.88,0:25:08.50,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf34}It {\kf26}used {\kf20}to {\kf36}be {\kf38}so {\kf40}sim{\kf68}ple
+Dialogue: 1,0:25:08.50,0:25:11.63,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf40}It {\kf22}wa{\kf18}s a {\kf42}worl{\kf16}d {\kf32}I {\kf18}un{\kf22}der{\kf12}s{\kf38}too{\kf53}d
+Dialogue: 1,0:25:12.96,0:25:16.25,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf16}{\kf30}I {\kf38}didn't {\kf54}know {\kf24}what {\kf36}I {\kf26}di{\kf16}dn't {\kf89}know
+Dialogue: 1,0:25:16.25,0:25:19.04,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf33}And {\kf20}li{\kf10}fe {\kf34}see{\kf22}med {\kf26}pre{\kf18}tty {\kf50}goo{\kf66}d
+Dialogue: 1,0:25:20.50,0:25:25.92,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf40}But {\kf48}now {\kf26}the {\kf98}dark{\kf58}ne{\kf14}ss {\kf42}ri{\kf148}se{\kf68}s
+Dialogue: 1,0:25:25.92,0:25:32.63,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf40}From {\kf26}some{\kf36}wh{\kf148}ere {\kf34}dee{\kf44}p in{\kf42}si{\kf20}de {\kf24}of {\kf257}me
+Dialogue: 1,0:25:33.58,0:25:38.88,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf58}Her {\kf50}po{\kf34}wer {\kf88}all {\kf68}but {\kf72}ta{\kf20}kes {\kf140}me
+Dialogue: 1,0:25:38.88,0:25:45.38,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf32}Can{\kf64} I {\kf58}keep{\kf40} {\kf44}thi{\kf18}s {\kf32}mid{\kf42}night {\kf66}from {\kf40}ge{\kf36}tting {\kf10}f{\kf168}ree?
+Dialogue: 1,0:25:45.38,0:25:48.17,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf16}If {\kf34}I {\kf28}can {\kf12}s{\kf40}tay {\kf32}in {\kf36}the {\kf70}ligh{\kf11}t
+Dialogue: 1,0:25:48.17,0:25:51.58,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf13}{\kf38}I {\kf38}know {\kf68}I'll {\kf74}be {\kf18}f{\kf92}ree
+Dialogue: 1,0:25:51.58,0:25:54.42,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf44}Then I {\kf38}can {\kf22}s{\kf40}tart {\kf14}to {\kf42}be {\kf84}whole
+Dialogue: 1,0:25:54.42,0:25:58.08,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf37}I {\kf39}can {\kf14}s{\kf70}tart {\kf22}to {\kf56}be {\kf128}me
+Dialogue: 1,0:25:58.08,0:26:00.71,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf12}{\kf38}But {\kf25}ins{\kf42}tead {\kf19}I {\kf29}am {\kf39}stru{\kf20}gg{\kf39}ling
+Dialogue: 1,0:26:00.71,0:26:04.21,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf35}With {\kf108}all {\kf24}that {\kf48}I {\kf135}see
+Dialogue: 1,0:26:04.50,0:26:07.46,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf26}And {\kf32}the{\kf14}se {\kf34}fri{\kf158}end{\kf32}s
+Dialogue: 1,0:26:07.67,0:26:14.17,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf43}Mu{\kf42}stn't {\kf38}see {\kf46}the {\kf44}mid{\kf32}nigh{\kf32}t in {\kf373}me
+Dialogue: 1,0:26:14.67,0:26:19.21,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf11}{\kf48}The {\kf46}mid{\kf44}nigh{\kf40}t in {\kf74}me{\kf12}-{\kf179}ee
+Dialogue: 1,0:26:19.54,0:26:24.46,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf38}They {\kf22}mu{\kf34}stn't {\kf56}see {\kf46}the {\kf32}mid{\kf62}nigh{\kf10}t{\kf192} in
+Dialogue: 1,0:26:25.33,0:26:33.00,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf51}M{\kf666}eeeee{\kf50}
+Dialogue: 1,0:26:43.69,0:26:46.45,English Subtitle,,0,0,0,,So many squirrels.
+Dialogue: 1,0:26:46.46,0:26:47.30,English Subtitle,,0,0,0,,Spike?
+Dialogue: 1,0:26:47.31,0:26:50.39,English Subtitle,,0,0,0,,Ah! Oh, aw man!
+Dialogue: 1,0:26:50.77,0:26:52.45,English Subtitle,,0,0,0,,I was having the best dream.
+Dialogue: 1,0:26:52.93,0:26:56.23,English Subtitle,,0,0,0,,Wait, that dream could be a reality!
+Dialogue: 1,0:26:56.37,0:26:58.04,English Subtitle,,0,0,0,,Before you run off to chase squirrels,
+Dialogue: 1,0:26:58.26,0:27:00.15,English Subtitle,,0,0,0,,do you have any idea where Twilight could be?
+Dialogue: 1,0:27:00.46,0:27:01.88,English Subtitle,,0,0,0,,I really need to talk to her.
+Dialogue: 1,0:27:02.14,0:27:03.28,English Subtitle,,0,0,0,,What happened?
+Dialogue: 1,0:27:03.43,0:27:05.78,English Subtitle,,0,0,0,,Did you do that lifting things off the ground again?
+Dialogue: 1,0:27:05.96,0:27:08.48,English Subtitle,,0,0,0,,That's just it, I don't know if it was her,
+Dialogue: 1,0:27:08.56,0:27:11.35,English Subtitle,,0,0,0,,but if it was, we need to deal with it head on.
+Dialogue: 1,0:27:11.76,0:27:12.69,English Subtitle,,0,0,0,,I can track her down.
+Dialogue: 1,0:27:15.07,0:27:17.21,English Subtitle,,0,0,0,,Keep it together. Deep breaths.
+Dialogue: 1,0:27:17.48,0:27:19.18,English Subtitle,,0,0,0,,You are not a monster.
+Dialogue: 1,0:27:20.24,0:27:21.23,English Subtitle,,0,0,0,,Oh, hi.
+Dialogue: 1,0:27:21.85,0:27:23.28,English Subtitle,,0,0,0,,What are you doing here?
+Dialogue: 1,0:27:23.45,0:27:26.18,English Subtitle,,0,0,0,,Uh, looking for you.
+Dialogue: 1,0:27:26.40,0:27:30.50,English Subtitle,,0,0,0,,Oh, I just went on a nature walking, got a little lost.
+Dialogue: 1,0:27:30.99,0:27:32.11,English Subtitle,,0,0,0,,Let me show you the way.
+Dialogue: 1,0:27:32.29,0:27:34.21,English Subtitle,,0,0,0,,I'm kind of an expert at these woods.
+Dialogue: 1,0:27:34.35,0:27:35.65,English Subtitle,,0,0,0,,I've lived here my whole life.
+Dialogue: 1,0:27:36.23,0:27:37.35,English Subtitle,,0,0,0,,That must have been nice.
+Dialogue: 1,0:27:37.67,0:27:38.61,English Subtitle,,0,0,0,,Growing up at a camp.
+Dialogue: 1,0:27:39.06,0:27:41.21,English Subtitle,,0,0,0,,Yeah, though it has its downsides.
+Dialogue: 1,0:27:41.62,0:27:43.91,English Subtitle,,0,0,0,,When I was younger I wish we would sell this place
+Dialogue: 1,0:27:43.94,0:27:46.01,English Subtitle,,0,0,0,,so we can live in a town like normal people.
+Dialogue: 1,0:27:46.67,0:27:47.58,English Subtitle,,0,0,0,,Really?
+Dialogue: 1,0:27:47.98,0:27:51.38,English Subtitle,,0,0,0,,I was ten. I really wanted to hang out in the mall.
+Dialogue: 1,0:27:53.60,0:27:55.15,English Subtitle,,0,0,0,,I've never told that to anyone.
+Dialogue: 1,0:27:56.16,0:27:57.09,English Subtitle,,0,0,0,,You must be special.
+Dialogue: 1,0:27:58.51,0:28:01.38,English Subtitle,,0,0,0,,And not just because you have tree branch in your hair.
+Dialogue: 1,0:28:01.60,0:28:03.98,English Subtitle,,0,0,0,,Uh. How long has that been in there?
+Dialogue: 1,0:28:04.18,0:28:06.31,English Subtitle,,0,0,0,,Not long. Just the whole time we were talking.
+Dialogue: 1,0:28:06.47,0:28:08.68,English Subtitle,,0,0,0,,Then why didn't you say something?
+Dialogue: 1,0:28:09.81,0:28:13.16,English Subtitle,,0,0,0,,I guess we can help Twilight deal with the magic stuff a little later.
+Dialogue: 1,0:28:15.91,0:28:19.03,English Subtitle,,0,0,0,,Rope climbing is all perseverance and trust.
+Dialogue: 1,0:28:19.66,0:28:22.67,English Subtitle,,0,0,0,,Rarity, you can trust that Applejack will spot you.
+Dialogue: 1,0:28:23.06,0:28:25.79,English Subtitle,,0,0,0,,Yeah, so you can totally go faster than you're going.
+Dialogue: 1,0:28:25.82,0:28:26.91,English Subtitle,,0,0,0,,Rainbow Dash!
+Dialogue: 1,0:28:27.05,0:28:29.96,English Subtitle,,0,0,0,,Sorry. I've been waiting to do this since we got here.
+Dialogue: 1,0:28:29.97,0:28:32.88,English Subtitle,,0,0,0,,Well, you have to wait a little longer, darling.
+Dialogue: 1,0:28:35.45,0:28:36.14,English Subtitle,,0,0,0,,Oh, good!
+Dialogue: 1,0:28:36.16,0:28:38.71,English Subtitle,,0,0,0,,Twilight, if you spot me, I can finally go.
+Dialogue: 1,0:28:38.94,0:28:40.15,English Subtitle,,0,0,0,,I'll go get another harness.
+Dialogue: 1,0:28:40.33,0:28:41.71,English Subtitle,,0,0,0,,I'm not sure–
+Dialogue: 1,0:28:41.76,0:28:43.95,English Subtitle,,0,0,0,,I'll better make sure my sister doesn't need anything.
+Dialogue: 1,0:28:44.55,0:28:45.41,English Subtitle,,0,0,0,,See you later.
+Dialogue: 1,0:28:49.66,0:28:50.94,English Subtitle,,0,0,0,,Twilight, there you are!
+Dialogue: 1,0:28:51.19,0:28:52.12,English Subtitle,,0,0,0,,I was looking for you!
+Dialogue: 1,0:28:55.08,0:28:56.07,English Subtitle,,0,0,0,,Was than an earthquake?
+Dialogue: 1,0:28:56.45,0:28:58.07,English Subtitle,,0,0,0,,We aren't near any fault lines.
+Dialogue: 1,0:28:58.27,0:29:03.15,English Subtitle,,0,0,0,,Hey! Who left this crystally dusty stuff here?!
+Dialogue: 1,0:29:05.39,0:29:07.95,English Subtitle,,0,0,0,,I-I believe I'd like to come down now!
+Dialogue: 1,0:29:10.82,0:29:12.81,English Subtitle,,0,0,0,,Sorry, it's a little bit stuck.
+Dialogue: 1,0:29:19.61,0:29:21.73,English Subtitle,,0,0,0,,Applejack! What are you doing?!
+Dialogue: 1,0:29:22.01,0:29:23.77,English Subtitle,,0,0,0,,Is everything okay over there?
+Dialogue: 1,0:29:24.16,0:29:25.92,English Subtitle,,0,0,0,,Uh, I don't know what happened.
+Dialogue: 1,0:29:26.21,0:29:28.01,English Subtitle,,0,0,0,,I didn't even pull the rope that hard.
+Dialogue: 1,0:29:28.25,0:29:30.95,English Subtitle,,0,0,0,,It's like she was light as a feather all of sudden.
+Dialogue: 1,0:29:31.26,0:29:32.62,English Subtitle,,0,0,0,,I was scared half to death!
+Dialogue: 1,0:29:32.87,0:29:35.94,English Subtitle,,0,0,0,,It wasn't my fault! Let me get your harness out.
+Dialogue: 1,0:29:35.95,0:29:37.31,English Subtitle,,0,0,0,,No, thank you!
+Dialogue: 1,0:29:42.22,0:29:43.98,English Subtitle,,0,0,0,,What in the world just happened?!
+Dialogue: 1,0:29:44.33,0:29:48.08,English Subtitle,,0,0,0,,Oh, dear! I am so sorry! I think.
+Dialogue: 1,0:29:48.35,0:29:51.01,English Subtitle,,0,0,0,,Did I just do... whatever that was?
+Dialogue: 1,0:29:51.12,0:29:53.45,English Subtitle,,0,0,0,,I don't think it was your fault.
+Dialogue: 1,0:29:53.73,0:29:55.55,English Subtitle,,0,0,0,,I need to get Applejack a towel.
+Dialogue: 1,0:29:56.32,0:29:57.11,English Subtitle,,0,0,0,,Me too.
+Dialogue: 1,0:29:59.89,0:30:02.01,English Subtitle,,0,0,0,,You're not the only one with a new kind of magic!
+Dialogue: 1,0:30:02.04,0:30:03.11,English Subtitle,,0,0,0,,This is great!
+Dialogue: 1,0:30:03.14,0:30:04.28,English Subtitle,,0,0,0,,No, it's not!
+Dialogue: 1,0:30:04.44,0:30:06.71,English Subtitle,,0,0,0,,Rarity and Applejack could have really hurt each other!
+Dialogue: 1,0:30:06.98,0:30:09.13,English Subtitle,,0,0,0,,Why is this happening? I don't–
+Dialogue: 1,0:30:09.18,0:30:11.51,English Subtitle,,0,0,0,,Hi, girls! Anything I can do for you?
+Dialogue: 1,0:30:11.65,0:30:13.45,English Subtitle,,0,0,0,,Uh, Applejack just fallen to the lake!
+Dialogue: 1,0:30:13.55,0:30:14.48,English Subtitle,,0,0,0,,Oh, no!
+Dialogue: 1,0:30:14.72,0:30:18.81,English Subtitle,,0,0,0,,She's gonna need warm towels, dry clothes, oh, and a hot cocoa!
+Dialogue: 1,0:30:19.11,0:30:20.41,English Subtitle,,0,0,0,,I've got this!
+Dialogue: 1,0:30:24.48,0:30:25.23,English Subtitle,,0,0,0,,Fluttershy?
+Dialogue: 1,0:30:27.80,0:30:29.00,English Subtitle,,0,0,0,,What happened?!
+Dialogue: 1,0:30:29.83,0:30:33.10,English Subtitle,,0,0,0,,I don't know, we were just decorating cookies and–
+Dialogue: 1,0:30:33.10,0:30:34.00,English Subtitle,,0,0,0,,And I was all
+Dialogue: 1,0:30:34.00,0:30:38.10,English Subtitle,,0,0,0,,"You need more sprinkles! And you need more sprinkles!"
+Dialogue: 1,0:30:38.10,0:30:40.34,English Subtitle,,0,0,0,,So, standard Pinkie Pie stuff.
+Dialogue: 1,0:30:40.34,0:30:42.56,English Subtitle,,0,0,0,,I was just tossing sprinkles to Fluttershy,
+Dialogue: 1,0:30:42.69,0:30:45.99,English Subtitle,,0,0,0,,when all of a sudden they glowed pink and exploded!
+Dialogue: 1,0:30:50.40,0:30:52.30,English Subtitle,,0,0,0,,Just like that, only earlier!
+Dialogue: 1,0:30:52.30,0:30:56.65,English Subtitle,,0,0,0,,Oookaay, why don't you lay off touching stuff for a while?
+Dialogue: 1,0:30:56.65,0:30:59.91,English Subtitle,,0,0,0,,Oh, dear. We really should clean all of this up.
+Dialogue: 1,0:31:04.45,0:31:06.15,English Subtitle,,0,0,0,,Can someone help me out?
+Dialogue: 1,0:31:10.45,0:31:12.12,English Subtitle,,0,0,0,,Thank you, mister bird.
+Dialogue: 1,0:31:13.12,0:31:15.30,English Subtitle,,0,0,0,,Why, of course I can get you little something to–
+Dialogue: 1,0:31:16.29,0:31:18.75,English Subtitle,,0,0,0,,Did you just... talk?
+Dialogue: 1,0:31:20.08,0:31:22.26,English Subtitle,,0,0,0,,But I don't speak chirp.
+Dialogue: 1,0:31:23.17,0:31:25.76,English Subtitle,,0,0,0,,I don't know if you're the only bird I can understand.
+Dialogue: 1,0:31:26.80,0:31:27.37,English Subtitle,,0,0,0,,Oh, no!
+Dialogue: 1,0:31:27.37,0:31:29.23,English Subtitle,,0,0,0,,Please don't call for your friends.
+Dialogue: 1,0:31:32.73,0:31:34.73,English Subtitle,,0,0,0,,It's nice to meet all of you, too.
+Dialogue: 1,0:31:34.73,0:31:36.90,English Subtitle,,0,0,0,,Were you just talking to the birds?
+Dialogue: 1,0:31:37.44,0:31:39.40,English Subtitle,,0,0,0,,Um, yes?
+Dialogue: 1,0:31:42.19,0:31:43.77,English Subtitle,,0,0,0,,Did you tell them what happened?
+Dialogue: 1,0:31:43.77,0:31:45.07,English Subtitle,,0,0,0,,So crazy!
+Dialogue: 1,0:31:45.07,0:31:47.82,English Subtitle,,0,0,0,,I hoisted up Rarity up the wall climbing wall like it was nothing!
+Dialogue: 1,0:31:47.82,0:31:50.38,English Subtitle,,0,0,0,,Like I had way more strength than I usually do.
+Dialogue: 1,0:31:50.38,0:31:55.88,English Subtitle,,0,0,0,,And I made diamondy thing appear out of nowhere,which normally I'd be excited about.
+Dialogue: 1,0:31:55.88,0:31:57.75,English Subtitle,,0,0,0,,I mean, the facets were just perfect. And the–
+Dialogue: 1,0:31:57.75,0:31:58.42,English Subtitle,,0,0,0,,Rarity!
+Dialogue: 1,0:31:58.42,0:31:59.50,English Subtitle,,0,0,0,,Oh, sorry.
+Dialogue: 1,0:31:59.50,0:32:02.85,English Subtitle,,0,0,0,,It knocked Applejack over and then it disappeared!
+Dialogue: 1,0:32:03.30,0:32:07.30,English Subtitle,,0,0,0,,Speaking of disappearing, has anybody seen Rainbow Dash?
+Dialogue: 1,0:32:09.51,0:32:10.39,English Subtitle,,0,0,0,,Ow!
+Dialogue: 1,0:32:10.41,0:32:12.73,English Subtitle,,0,0,0,,Whoa! How did you do that?
+Dialogue: 1,0:32:12.73,0:32:13.64,English Subtitle,,0,0,0,,I don't know.
+Dialogue: 1,0:32:13.64,0:32:15.73,English Subtitle,,0,0,0,,I've started running to get the harness
+Dialogue: 1,0:32:15.73,0:32:18.73,English Subtitle,,0,0,0,,and the next thing I knew I was practically back in town!
+Dialogue: 1,0:32:18.73,0:32:21.03,English Subtitle,,0,0,0,,But if you had some sort of superspeed
+Dialogue: 1,0:32:21.03,0:32:23.15,English Subtitle,,0,0,0,,why you were gone for so long?
+Dialogue: 1,0:32:23.15,0:32:25.11,English Subtitle,,0,0,0,,Because I lost it when I got far away.
+Dialogue: 1,0:32:25.11,0:32:27.53,English Subtitle,,0,0,0,,And then it came back when got close to camp.
+Dialogue: 1,0:32:27.53,0:32:32.00,English Subtitle,,0,0,0,,Being at camp is giving us all new magical abilities!
+Dialogue: 1,0:32:32.00,0:32:34.46,English Subtitle,,0,0,0,,Not all of us has gotten new abilities.
+Dialogue: 1,0:32:34.46,0:32:38.50,English Subtitle,,0,0,0,,I haven't, but Twilight– hasn't, either.
+Dialogue: 1,0:32:39.46,0:32:40.54,English Subtitle,,0,0,0,,So much for my theory
+Dialogue: 1,0:32:40.54,0:32:44.22,English Subtitle,,0,0,0,,that leaving CHS would mean leaving any new magic business behind.
+Dialogue: 1,0:32:44.22,0:32:47.04,English Subtitle,,0,0,0,,Something at the camp must be making this happen.
+Dialogue: 1,0:32:47.15,0:32:50.10,English Subtitle,,0,0,0,,Um, Gaia Everfree?
+Dialogue: 1,0:32:53.41,0:32:55.43,English Subtitle,,0,0,0,,Applejack! I was looking for you!
+Dialogue: 1,0:32:55.43,0:32:57.77,English Subtitle,,0,0,0,,Here, I brought you some towels and dry clothes.
+Dialogue: 1,0:32:59.00,0:33:00.95,English Subtitle,,0,0,0,,Uh, what happened in here?
+Dialogue: 1,0:33:00.95,0:33:02.99,English Subtitle,,0,0,0,,We're kinda trying to figure that out.
+Dialogue: 1,0:33:03.05,0:33:05.82,English Subtitle,,0,0,0,,Well, don't worry about it. I got this!
+Dialogue: 1,0:33:05.82,0:33:09.66,English Subtitle,,0,0,0,,Gloriosa, I kicked my beanbag into the lake!
+Dialogue: 1,0:33:11.31,0:33:12.66,English Subtitle,,0,0,0,,I'll get you another one!
+Dialogue: 1,0:33:12.66,0:33:14.71,English Subtitle,,0,0,0,,And I'm all out of arrows!
+Dialogue: 1,0:33:14.71,0:33:17.75,English Subtitle,,0,0,0,,Say no more! New arrows coming right up!
+Dialogue: 1,0:33:17.75,0:33:19.00,English Subtitle,,0,0,0,,There you are!
+Dialogue: 1,0:33:19.92,0:33:21.09,English Subtitle,,0,0,0,,Filthy Rich is back.
+Dialogue: 1,0:33:21.09,0:33:22.50,English Subtitle,,0,0,0,,Do you want me to handle it?
+Dialogue: 1,0:33:22.50,0:33:25.38,English Subtitle,,0,0,0,,Absolutely not! I got this!
+Dialogue: 1,0:33:26.34,0:33:28.35,English Subtitle,,0,0,0,,Fluttershy, enough with the screaming!
+Dialogue: 1,0:33:29.20,0:33:30.80,English Subtitle,,0,0,0,,I didn't scream.
+Dialogue: 1,0:33:30.80,0:33:31.97,English Subtitle,,0,0,0,,For once.
+Dialogue: 1,0:33:31.97,0:33:33.06,English Subtitle,,0,0,0,,Nobody did.
+Dialogue: 1,0:33:33.06,0:33:34.06,English Subtitle,,0,0,0,,Huh?
+Dialogue: 1,0:33:34.06,0:33:35.70,English Subtitle,,0,0,0,,Attention, campers!
+Dialogue: 1,0:33:35.70,0:33:39.10,English Subtitle,,0,0,0,,Anyone who's interested in making floating paper lanterns
+Dialogue: 1,0:33:39.10,0:33:41.40,English Subtitle,,0,0,0,,please meet us by the picnic tables.
+Dialogue: 1,0:33:42.00,0:33:43.36,English Subtitle,,0,0,0,,I don't know about the rest of y'all,
+Dialogue: 1,0:33:43.36,0:33:45.78,English Subtitle,,0,0,0,,but I've been looking forward to coming here for a month.
+Dialogue: 1,0:33:45.78,0:33:49.15,English Subtitle,,0,0,0,,Maybe we'll forget about this new magic for a bit
+Dialogue: 1,0:33:49.15,0:33:52.45,English Subtitle,,0,0,0,,and just try to focus on enjoying our time at camp?
+Dialogue: 1,0:33:52.45,0:33:56.33,English Subtitle,,0,0,0,,I was also excited about designs I've come up for the camp fashion show.
+Dialogue: 1,0:33:56.33,0:33:59.46,English Subtitle,,0,0,0,,And I've barely gotten to whoop anybody in tetherball.
+Dialogue: 1,0:33:59.46,0:34:01.72,English Subtitle,,0,0,0,,I think we should try to figure it out.
+Dialogue: 1,0:34:01.72,0:34:05.40,English Subtitle,,0,0,0,,But if letting it go for now is what the rest of you want...
+Dialogue: 1,0:34:16.75,0:34:19.72,English Subtitle,,0,0,0,,Um, Pinkie Pie, what are you doing?
+Dialogue: 1,0:34:19.75,0:34:21.70,English Subtitle,,0,0,0,,Putting marshmallows in my lantern.
+Dialogue: 1,0:34:21.70,0:34:25.12,English Subtitle,,0,0,0,,Then when we light them, mine will be beautiful and delicious!
+Dialogue: 1,0:34:27.30,0:34:29.76,English Subtitle,,0,0,0,,Hey, Twilight, why aren't you with everyone else?
+Dialogue: 1,0:34:29.76,0:34:33.79,English Subtitle,,0,0,0,,Sunset said something at camp is causing the other girls to get new magic.
+Dialogue: 1,0:34:33.79,0:34:35.85,English Subtitle,,0,0,0,,I think it's Midnight Sparkle.
+Dialogue: 1,0:34:35.85,0:34:37.30,English Subtitle,,0,0,0,,She's still part of me.
+Dialogue: 1,0:34:37.30,0:34:38.43,English Subtitle,,0,0,0,,I can feel it.
+Dialogue: 1,0:34:38.43,0:34:41.25,English Subtitle,,0,0,0,,And I think her magic is infecting my friends.
+Dialogue: 1,0:34:41.25,0:34:42.43,English Subtitle,,0,0,0,,What are we gonna do?
+Dialogue: 1,0:34:42.87,0:34:44.43,English Subtitle,,0,0,0,,I don't know what I can do.
+Dialogue: 1,0:34:44.90,0:34:46.48,English Subtitle,,0,0,0,,Okay, everyone!
+Dialogue: 1,0:34:46.48,0:34:49.82,English Subtitle,,0,0,0,,It's time to watch your lanterns fly!
+Dialogue: 1,0:34:55.85,0:34:57.53,English Subtitle,,0,0,0,,Hey, cool lantern!
+Dialogue: 1,0:34:58.73,0:34:59.53,English Subtitle,,0,0,0,,Mine's my face.
+Dialogue: 1,0:35:07.71,0:35:09.17,English Subtitle,,0,0,0,,Uh, you okay?
+Dialogue: 1,0:35:09.17,0:35:10.13,English Subtitle,,0,0,0,,Mhm.
+Dialogue: 1,0:35:10.13,0:35:12.30,English Subtitle,,0,0,0,,You don't seem like yourself tonight.
+Dialogue: 1,0:35:20.42,0:35:21.22,English Subtitle,,0,0,0,,Ready?
+Dialogue: 1,0:35:21.22,0:35:23.64,English Subtitle,,0,0,0,,And... Go!
+Dialogue: 1,0:35:30.27,0:35:31.73,English Subtitle,,0,0,0,,Aw! Oh well!
+Dialogue: 1,0:35:31.73,0:35:32.94,English Subtitle,,0,0,0,,Now I get to eat it!
+Dialogue: 1,0:35:34.90,0:35:37.24,English Subtitle,,0,0,0,,Yep, beautiful and delicious.
+Dialogue: 1,0:35:51.96,0:35:52.75,English Subtitle,,0,0,0,,Twilight?
+Dialogue: 1,0:35:57.01,0:35:58.34,English Subtitle,,0,0,0,,Twilight!
+Dialogue: 1,0:35:59.55,0:36:01.18,English Subtitle,,0,0,0,,Oh, where is she going?
+Dialogue: 1,0:36:07.23,0:36:08.39,English Subtitle,,0,0,0,,Twilight?
+Dialogue: 1,0:36:10.69,0:36:12.40,English Subtitle,,0,0,0,,What are you doing out here?
+Dialogue: 1,0:36:12.40,0:36:15.53,English Subtitle,,0,0,0,,We're... we're meeting a cab to take us home.
+Dialogue: 1,0:36:16.83,0:36:18.44,English Subtitle,,0,0,0,,She thought you'd talk her out of it.
+Dialogue: 1,0:36:18.44,0:36:19.78,English Subtitle,,0,0,0,,Because I would.
+Dialogue: 1,0:36:19.78,0:36:21.86,English Subtitle,,0,0,0,,Twilight, you can't leave.
+Dialogue: 1,0:36:23.74,0:36:25.95,English Subtitle,,0,0,0,,You don't think it was the spirit, do you?!
+Dialogue: 1,0:36:26.50,0:36:28.79,English Subtitle,,0,0,0,,No, it was me.
+Dialogue: 1,0:36:28.79,0:36:30.87,English Subtitle,,0,0,0,,I think it's Midnight Sparkle.
+Dialogue: 1,0:36:30.87,0:36:32.13,English Subtitle,,0,0,0,,She's still part of me.
+Dialogue: 1,0:36:32.13,0:36:33.25,English Subtitle,,0,0,0,,I can feel it.
+Dialogue: 1,0:36:33.25,0:36:35.96,English Subtitle,,0,0,0,,And I think her magic is infecting my friends.
+Dialogue: 1,0:36:39.17,0:36:41.72,English Subtitle,,0,0,0,,Twilight, there's no Midnight Sparkle.
+Dialogue: 1,0:36:41.72,0:36:43.14,English Subtitle,,0,0,0,,There's only you.
+Dialogue: 1,0:36:43.30,0:36:45.01,English Subtitle,,0,0,0,,How did you know what I was thinking?
+Dialogue: 1,0:36:45.39,0:36:47.93,English Subtitle,,0,0,0,,When I touched your hand, I can see things.
+Dialogue: 1,0:36:47.93,0:36:49.85,English Subtitle,,0,0,0,,I can understand why you were leaving.
+Dialogue: 1,0:36:51.02,0:36:52.35,English Subtitle,,0,0,0,,My new magic!
+Dialogue: 1,0:36:52.85,0:36:54.20,English Subtitle,,0,0,0,,This is my new magic!
+Dialogue: 1,0:36:54.20,0:36:55.56,English Subtitle,,0,0,0,,This is incredible!
+Dialogue: 1,0:36:55.56,0:36:56.82,English Subtitle,,0,0,0,,No, it's not.
+Dialogue: 1,0:36:56.82,0:36:58.40,English Subtitle,,0,0,0,,I'm infecting you now!
+Dialogue: 1,0:36:58.40,0:37:01.66,English Subtitle,,0,0,0,,Twilight, you have to stop looking at this as a bad thing.
+Dialogue: 1,0:37:01.66,0:37:03.05,English Subtitle,,0,0,0,,Easy for you to say.
+Dialogue: 1,0:37:03.05,0:37:05.08,English Subtitle,,0,0,0,,Magic turned you into something beautiful.
+Dialogue: 1,0:37:05.30,0:37:07.00,English Subtitle,,0,0,0,,The last time I tried to use it,
+Dialogue: 1,0:37:07.00,0:37:08.60,English Subtitle,,0,0,0,,it turned me into a monster.
+Dialogue: 1,0:37:09.04,0:37:11.40,English Subtitle,,0,0,0,,I'm just so afraid it's gonna happen again.
+Dialogue: 1,0:37:11.52,0:37:15.11,English Subtitle,,0,0,0,,Yes, last time into something amazing,
+Dialogue: 1,0:37:15.11,0:37:17.58,English Subtitle,,0,0,0,,but I've let magic turn me into a monster, too.
+Dialogue: 1,0:37:18.00,0:37:21.52,English Subtitle,,0,0,0,,So if anyone understands what you're going through, it's me.
+Dialogue: 1,0:37:21.72,0:37:23.59,English Subtitle,,0,0,0,,I can help you, Twilight.
+Dialogue: 1,0:37:23.59,0:37:25.79,English Subtitle,,0,0,0,,And the rest of our friends can be there for you, too.
+Dialogue: 1,0:37:26.08,0:37:27.82,English Subtitle,,0,0,0,,But not if you run away.
+Dialogue: 1,0:37:29.09,0:37:30.86,English Subtitle,,0,0,0,,I'll stay.
+Dialogue: 1,0:37:30.86,0:37:32.83,English Subtitle,,0,0,0,,I still don't think this is a good idea for me
+Dialogue: 1,0:37:32.83,0:37:34.85,English Subtitle,,0,0,0,,to be near the rest of our friends right now.
+Dialogue: 1,0:37:35.08,0:37:37.08,English Subtitle,,0,0,0,,Not until we know why this is happening.
+Dialogue: 1,0:37:37.12,0:37:38.99,English Subtitle,,0,0,0,,Understood.
+Dialogue: 1,0:37:40.15,0:37:41.39,English Subtitle,,0,0,0,,What was that?!
+Dialogue: 1,0:37:44.20,0:37:46.40,English Subtitle,,0,0,0,,Oh, wait. Twilight?
+Dialogue: 1,0:37:47.24,0:37:48.09,English Subtitle,,0,0,0,,Timber?
+Dialogue: 1,0:37:48.09,0:37:50.09,English Subtitle,,0,0,0,,I'm so glad it's just you!
+Dialogue: 1,0:37:50.09,0:37:52.09,English Subtitle,,0,0,0,,What are you doing out here?
+Dialogue: 1,0:37:52.09,0:37:53.36,English Subtitle,,0,0,0,,With an axe.
+Dialogue: 1,0:37:54.46,0:37:56.88,English Subtitle,,0,0,0,,I was chopping down firewood.
+Dialogue: 1,0:37:56.95,0:37:58.82,English Subtitle,,0,0,0,,In the middle of a night?
+Dialogue: 1,0:37:58.82,0:38:00.92,English Subtitle,,0,0,0,,We needed more for tomorrow's campfire.
+Dialogue: 1,0:38:01.29,0:38:03.49,English Subtitle,,0,0,0,,And if I didn't take care of it tonight,
+Dialogue: 1,0:38:03.49,0:38:06.49,English Subtitle,,0,0,0,,it would be one more thing Gloriosa would add to her list.
+Dialogue: 1,0:38:06.49,0:38:08.49,English Subtitle,,0,0,0,,I've got this!
+Dialogue: 1,0:38:09.72,0:38:10.85,English Subtitle,,0,0,0,,What about you two?
+Dialogue: 1,0:38:10.85,0:38:14.00,English Subtitle,,0,0,0,,Why are you hanging out in the woods in the middle of a night?
+Dialogue: 1,0:38:14.59,0:38:16.35,English Subtitle,,0,0,0,,Oh, I was sleepwalking.
+Dialogue: 1,0:38:16.35,0:38:18.84,English Subtitle,,0,0,0,,Twilight found me and was bringing me back to camp.
+Dialogue: 1,0:38:18.84,0:38:19.74,English Subtitle,,0,0,0,,Mhm.
+Dialogue: 1,0:38:19.74,0:38:22.31,English Subtitle,,0,0,0,,Come on, I'll walk you guys back.
+Dialogue: 1,0:38:22.31,0:38:26.70,English Subtitle,,0,0,0,,I'll protect you from Gaia Everfree!
+Dialogue: 1,0:38:26.70,0:38:31.05,English Subtitle,,0,0,0,,Everfree! Everfree!
+Dialogue: 1,0:38:31.76,0:38:32.69,English Subtitle,,0,0,0,,Come on,
+Dialogue: 1,0:38:32.69,0:38:36.63,English Subtitle,,0,0,0,,that's obviously just a spooky story you made up to tell around the campfire.
+Dialogue: 1,0:38:36.63,0:38:37.40,English Subtitle,,0,0,0,,Oh, no.
+Dialogue: 1,0:38:37.70,0:38:38.81,English Subtitle,,0,0,0,,It's legit.
+Dialogue: 1,0:38:38.81,0:38:41.15,English Subtitle,,0,0,0,,How else would you explain what happened at the docks?
+Dialogue: 1,0:38:41.15,0:38:43.50,English Subtitle,,0,0,0,,And that weird thing when the earth shook?
+Dialogue: 1,0:38:43.98,0:38:46.86,English Subtitle,,0,0,0,,Uh, come on, I know a shortcut back to the tents.
+Dialogue: 1,0:38:53.52,0:38:55.19,English Subtitle,,0,0,0,,Legit, huh?
+Dialogue: 1,0:38:55.22,0:38:58.61,English Subtitle,,0,0,0,,I think we just found our Gaia Everfree.
+Dialogue: 1,0:38:58.61,0:39:01.88,English Subtitle,,0,0,0,,But why would he work so hard to make us think she was real?
+Dialogue: 1,0:39:01.88,0:39:03.10,English Subtitle,,0,0,0,,You heard what he said
+Dialogue: 1,0:39:03.10,0:39:05.25,English Subtitle,,0,0,0,,about wishing his sister would sell out the camp.
+Dialogue: 1,0:39:05.25,0:39:07.25,English Subtitle,,0,0,0,,If nobody wants to come here,
+Dialogue: 1,0:39:07.25,0:39:10.12,English Subtitle,,0,0,0,,because it's home to some angry ancient nature spirit,
+Dialogue: 1,0:39:10.12,0:39:12.12,English Subtitle,,0,0,0,,it sure would help his cause.
+Dialogue: 1,0:39:12.30,0:39:14.10,English Subtitle,,0,0,0,,We should tell Twilight.
+Dialogue: 1,0:39:14.10,0:39:15.17,English Subtitle,,0,0,0,,Not yet.
+Dialogue: 1,0:39:15.17,0:39:17.52,English Subtitle,,0,0,0,,She's obviously going on through a lot right now.
+Dialogue: 1,0:39:18.14,0:39:20.33,English Subtitle,,0,0,0,,We should probably be one hundred percent sure
+Dialogue: 1,0:39:20.33,0:39:22.98,English Subtitle,,0,0,0,,before we tell her the guy she likes is a jerk
+Dialogue: 1,0:39:22.98,0:39:24.98,English Subtitle,,0,0,0,,who's trying to run everybody out of camp.
+Dialogue: 1,0:39:24.98,0:39:26.30,English Subtitle,,0,0,0,,Uh-huh!
+Dialogue: 1,0:39:36.98,0:39:37.74,English Subtitle,,0,0,0,,Phew!
+Dialogue: 1,0:39:38.85,0:39:42.23,English Subtitle,,0,0,0,,Uh, you gonna give us a hand here, Rarity?
+Dialogue: 1,0:39:42.23,0:39:43.45,English Subtitle,,0,0,0,,Oh, I'd love to,
+Dialogue: 1,0:39:43.45,0:39:45.66,English Subtitle,,0,0,0,,but I really need to get the stitching on this poncho done
+Dialogue: 1,0:39:45.66,0:39:47.66,English Subtitle,,0,0,0,,before it's going to make it into the camp fashion show.
+Dialogue: 1,0:39:47.66,0:39:49.74,English Subtitle,,0,0,0,,Not to haste you two with moving.
+Dialogue: 1,0:39:49.74,0:39:52.15,English Subtitle,,0,0,0,,I don't know that the runway will ever be finished.
+Dialogue: 1,0:39:52.15,0:39:54.66,English Subtitle,,0,0,0,,The dock is our gift to the camp
+Dialogue: 1,0:39:54.66,0:39:56.29,English Subtitle,,0,0,0,,and it's gonna get finished.
+Dialogue: 1,0:39:56.91,0:40:00.09,English Subtitle,,0,0,0,,That is if Rainbow Dash would hurry up and bring me more wood.
+Dialogue: 1,0:40:00.09,0:40:02.30,English Subtitle,,0,0,0,,Oh, I can't go any faster!
+Dialogue: 1,0:40:02.30,0:40:04.30,English Subtitle,,0,0,0,,I don't want to end up in the woods again.
+Dialogue: 1,0:40:04.59,0:40:06.23,English Subtitle,,0,0,0,,Don't be silly.
+Dialogue: 1,0:40:06.25,0:40:07.60,English Subtitle,,0,0,0,,Really?
+Dialogue: 1,0:40:11.72,0:40:15.27,English Subtitle,,0,0,0,,I know I said we should try to forget all about this new magic business,
+Dialogue: 1,0:40:15.27,0:40:16.48,English Subtitle,,0,0,0,,but I can't.
+Dialogue: 1,0:40:17.37,0:40:19.50,English Subtitle,,0,0,0,,What if I hammer the board into splinters?
+Dialogue: 1,0:40:21.92,0:40:22.94,English Subtitle,,0,0,0,,Aw, shoot!
+Dialogue: 1,0:40:22.92,0:40:24.09,English Subtitle,,0,0,0,,I'm out of nails.
+Dialogue: 1,0:40:24.09,0:40:25.78,English Subtitle,,0,0,0,,Oh, here you go!
+Dialogue: 1,0:40:26.15,0:40:27.90,English Subtitle,,0,0,0,,Pinkie, no!
+Dialogue: 1,0:40:34.37,0:40:35.62,English Subtitle,,0,0,0,,What?
+Dialogue: 1,0:40:35.62,0:40:38.66,English Subtitle,,0,0,0,,Oh, did you think that nails would explode like the sprinkles?
+Dialogue: 1,0:40:38.66,0:40:41.00,English Subtitle,,0,0,0,,Wow! Glad that didn't happen, huh?
+Dialogue: 1,0:40:42.34,0:40:43.30,English Subtitle,,0,0,0,,Sorry, girls.
+Dialogue: 1,0:40:43.30,0:40:44.59,English Subtitle,,0,0,0,,I didn't mean to
+Dialogue: 1,0:40:44.59,0:40:46.95,English Subtitle,,0,0,0,,And I don't know how to control this.
+Dialogue: 1,0:40:46.95,0:40:48.13,English Subtitle,,0,0,0,,It's okay.
+Dialogue: 1,0:40:48.13,0:40:50.13,English Subtitle,,0,0,0,,Oh, none of us do.
+Dialogue: 1,0:40:50.13,0:40:53.05,English Subtitle,,0,0,0,,Which is why we shouldn't pretend this isn't happening.
+Dialogue: 1,0:40:53.51,0:40:54.76,English Subtitle,,0,0,0,,Do you have it now, too?
+Dialogue: 1,0:40:54.76,0:40:56.10,English Subtitle,,0,0,0,,It started last night.
+Dialogue: 1,0:40:56.10,0:40:57.27,English Subtitle,,0,0,0,,When I touch people,
+Dialogue: 1,0:40:57.27,0:41:00.14,English Subtitle,,0,0,0,,it's like I can feel what they're feeling and see their memories.
+Dialogue: 1,0:41:00.14,0:41:03.40,English Subtitle,,0,0,0,,Oooh, fancy! Try me, try me!
+Dialogue: 1,0:41:06.03,0:41:09.61,English Subtitle,,0,0,0,,Lalalala. Ooh, taffy!
+Dialogue: 1,0:41:12.37,0:41:14.29,English Subtitle,,0,0,0,,That explains so much.
+Dialogue: 1,0:41:14.29,0:41:15.20,English Subtitle,,0,0,0,,Yep.
+Dialogue: 1,0:41:15.90,0:41:18.50,English Subtitle,,0,0,0,,Girls, we can't just brush these powers aside,
+Dialogue: 1,0:41:18.50,0:41:21.38,English Subtitle,,0,0,0,,because it doesn't seem like the ideal time to get them.
+Dialogue: 1,0:41:21.92,0:41:26.34,English Subtitle,,0,0,0,,What if it turns out that they could actually make things better?
+Dialogue: 1,0:41:26.83,0:41:28.91,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf7}{\kf28}So {\kf16}you {\kf40}ha{\kf14}ve {\kf30}ma{\kf32}gi{\kf41}c
+Dialogue: 1,0:41:28.91,0:41:30.95,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf5}{\kf30}And {\kf20}it's {\kf18}not {\kf62}that {\kf48}grea{\kf21}t
+Dialogue: 1,0:41:31.49,0:41:33.95,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf9}{\kf16}But {\kf18}when {\kf10}it {\kf122}foun{\kf10}d {\kf61}you
+Dialogue: 1,0:41:33.95,0:41:36.12,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf7}{\kf28}You {\kf12}know {\kf8}it {\kf50}wa{\kf12}s {\kf80}fa{\kf20}te
+Dialogue: 1,0:41:36.12,0:41:38.95,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf4}{\kf36}And {\kf8}it {\kf28}might {\kf52}see{\kf22}m s{\kf48}cary {\kf85}now
+Dialogue: 1,0:41:38.95,0:41:41.03,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf17}But {\kf6}it {\kf16}can {\kf24}be {\kf36}won{\kf14}der{\kf40}ful{\kf0}, {\kf55}too
+Dialogue: 1,0:41:41.45,0:41:44.91,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf5}{\kf20}So{\kf0}, {\kf20}how {\kf44}about {\kf20}we {\kf14}em{\kf32}brace {\kf12}the {\kf36}ma{\kf116}gi{\kf27}c
+Dialogue: 1,0:41:45.20,0:41:47.41,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf16}And {\kf16}make {\kf8}the {\kf24}ma{\kf26}gic {\kf36}par{\kf10}t of {\kf85}you
+Dialogue: 1,0:41:50.78,0:41:53.41,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf6}{\kf22}You {\kf16}take {\kf10}a {\kf30}little {\kf34}da{\kf28}sh {\kf28}of {\kf32}ma{\kf30}gi{\kf27}c
+Dialogue: 1,0:41:53.41,0:41:55.70,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf25}An{\kf34}d you {\kf36}let {\kf14}it {\kf40}ig{\kf42}ni{\kf22}te{\kf16}
+Dialogue: 1,0:41:55.70,0:41:58.03,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf46}Mix {\kf24}thing{\kf34}s up {\kf10}a {\kf52}little {\kf67}bit
+Dialogue: 1,0:41:58.03,0:42:00.33,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf15}An{\kf24}d it {\kf36}might {\kf38}start {\kf14}to {\kf36}go {\kf20}ri{\kf47}ght
+Dialogue: 1,0:42:00.33,0:42:02.78,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf17}{\kf36}In {\kf38}just {\kf38}five {\kf19}se{\kf33}conds {\kf54}fla{\kf10}t
+Dialogue: 1,0:42:02.78,0:42:05.37,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf8}{\kf44}How {\kf18}the {\kf20}s{\kf36}tory {\kf30}ha{\kf14}s {\kf51}chan{\kf38}ged
+Dialogue: 1,0:42:05.37,0:42:08.70,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf34}All {\kf39}cause {\kf18}now {\kf16}you{\kf0}'{\kf12}ve {\kf12}em{\kf28}braced {\kf14}the {\kf40}ma{\kf110}gi{\kf10}c
+Dialogue: 1,0:42:08.70,0:42:11.62,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf26}An{\kf6}d it {\kf36}just {\kf20}got {\kf20}be{\kf14}tte{\kf20}r in {\kf20}e{\kf22}very {\kf108}way
+Dialogue: 1,0:42:14.70,0:42:19.12,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf26}I {\kf40}say {\kf30}em{\kf164}bra{\kf12}ce {\kf24}the {\kf42}ma{\kf64}gi{\kf14}c{\kf26}
+Dialogue: 1,0:42:19.12,0:42:23.12,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf16}{\kf52}No {\kf18}more {\kf50}hol{\kf10}ding {\kf38}ba{\kf10}ck, {\kf20}just {\kf44}le{\kf26}t it {\kf116}out
+Dialogue: 1,0:42:24.28,0:42:28.70,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf36}If {\kf24}you {\kf16}can {\kf184}ta{\kf23}ke {\kf27}the {\kf26}ma{\kf68}gi{\kf14}c{\kf24}
+Dialogue: 1,0:42:29.08,0:42:32.78,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf39}And {\kf25}learn {\kf22}a {\kf52}little {\kf34}more {\kf38}what {\kf14}it {\kf34}can {\kf112}do
+Dialogue: 1,0:42:33.08,0:42:35.83,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf28}Once {\kf24}the {\kf26}ma{\kf16}gic {\kf10}is {\kf28}par{\kf12}t of {\kf131}you
+Dialogue: 1,0:42:37.58,0:42:39.70,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf26}What's {\kf32}stan{\kf24}ding {\kf40}in {\kf54}your {\kf36}way
+Dialogue: 1,0:42:39.70,0:42:42.28,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf14}{\kf36}That {\kf26}you {\kf28}can't {\kf42}mo{\kf16}ve {\kf40}to{\kf56}day?
+Dialogue: 1,0:42:42.28,0:42:44.66,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf30}You've {\kf32}got {\kf12}the {\kf57}streng{\kf49}th in {\kf58}you
+Dialogue: 1,0:42:44.66,0:42:46.99,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf24}To {\kf26}ma{\kf12}ke {\kf34}your {\kf37}dream{\kf15}s {\kf32}come {\kf53}true
+Dialogue: 1,0:42:46.99,0:42:49.49,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf47}No {\kf38}need {\kf8}to {\kf57}shiel{\kf5}d {\kf24}your{\kf53}sel{\kf18}f
+Dialogue: 1,0:42:49.49,0:42:51.91,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf21}From {\kf10}the {\kf26}ma{\kf36}gic {\kf42}that {\kf38}can {\kf49}hel{\kf20}p
+Dialogue: 1,0:42:51.91,0:42:54.33,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf25}Pro{\kf34}tect {\kf30}from {\kf36}a{\kf40}ny {\kf66}har{\kf11}m
+Dialogue: 1,0:42:54.33,0:42:55.78,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf23}That {\kf28}migh{\kf6}t {\kf54}co{\kf34}me
+Dialogue: 1,0:42:55.78,0:42:57.74,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf14}So {\kf24}you {\kf54}ha{\kf12}ve {\kf18}ma{\kf49}gi{\kf19}c{\kf6}
+Dialogue: 1,0:42:57.87,0:42:59.78,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf17}And {\kf20}it's {\kf20}not {\kf72}that {\kf28}grea{\kf18}t{\kf16}
+Dialogue: 1,0:43:00.37,0:43:02.70,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf5}{\kf22}But {\kf8}when {\kf16}it {\kf32}f{\kf96}oun{\kf6}d {\kf48}you
+Dialogue: 1,0:43:02.91,0:43:04.87,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf15}You {\kf22}know {\kf14}it {\kf38}wa{\kf18}s {\kf62}fa{\kf16}te{\kf11}
+Dialogue: 1,0:43:04.87,0:43:07.66,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf21}{\kf28}So, {\kf32}if {\kf70}you {\kf19}li{\kf35}sten {\kf50}clo{\kf16}se{\kf8}
+Dialogue: 1,0:43:07.66,0:43:09.78,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf42}You {\kf28}might {\kf42}make {\kf10}a {\kf38}new {\kf52}friend
+Dialogue: 1,0:43:10.58,0:43:14.78,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf12}And {\kf8}to{\kf22}ge{\kf28}ther {\kf34}we {\kf28}can {\kf28}ma{\kf24}ke {\kf228}it{\kf8}!{\kf0}
+Dialogue: 1,0:43:14.78,0:43:19.08,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf20}I {\kf32}say {\kf36}em{\kf174}bra{\kf6}ce {\kf18}the {\kf36}ma{\kf108}gic
+Dialogue: 1,0:43:19.08,0:43:22.99,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf18}{\kf50}No {\kf30}more {\kf32}hold{\kf32}ing {\kf30}back{\kf2}, {\kf30}just {\kf32}let {\kf30}it {\kf76}ou{\kf18}t{\kf11}
+Dialogue: 1,0:43:24.33,0:43:28.78,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf33}If {\kf22}you {\kf36}can {\kf172}ta{\kf18}ke {\kf16}the {\kf59}ma{\kf89}gic
+Dialogue: 1,0:43:29.12,0:43:33.20,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf46}And {\kf28}learn {\kf8}a {\kf46}little {\kf40}more {\kf28}what {\kf24}it {\kf40}can {\kf148}do
+Dialogue: 1,0:43:33.20,0:43:37.95,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf32}Once {\kf18}the {\kf28}magic {\kf22}is {\kf20}par{\kf14}t of {\kf341}you
+Dialogue: 1,0:43:37.95,0:43:42.49,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf41}Once {\kf8}the {\kf30}magic {\kf10}is {\kf26}par{\kf18}t of {\kf321}yoooou
+Dialogue: 1,0:43:42.49,0:43:47.66,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf51}Once {\kf12}the {\kf40}magic {\kf22}is {\kf16}par{\kf16}t of {\kf360}yoooou
+Dialogue: 1,0:43:47.66,0:43:51.62,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf32}Once {\kf10}the {\kf28}magic {\kf18}is {\kf30}par{\kf20}t of {\kf238}you{\kf20}
+Dialogue: 1,0:43:54.00,0:43:56.55,English Subtitle,,0,0,0,,Okay, that was pretty awesome!
+Dialogue: 1,0:43:56.55,0:43:59.00,English Subtitle,,0,0,0,,And look what you managed to accomplish!
+Dialogue: 1,0:44:02.55,0:44:04.00,English Subtitle,,0,0,0,,Please, please, please
+Dialogue: 1,0:44:04.00,0:44:07.20,English Subtitle,,0,0,0,,can we do a run-through for the fashion show on it right this minute?
+Dialogue: 1,0:44:07.20,0:44:09.80,English Subtitle,,0,0,0,,Thought you weren't finished with the stitching on your poncho
+Dialogue: 1,0:44:11.15,0:44:13.40,English Subtitle,,0,0,0,,I am now
+Dialogue: 1,0:44:13.40,0:44:14.40,English Subtitle,,0,0,0,,Get started without me
+Dialogue: 1,0:44:14.40,0:44:15.65,English Subtitle,,0,0,0,,I've gotta go find Twilight
+Dialogue: 1,0:44:15.65,0:44:19.65,English Subtitle,,0,0,0,,Seeing what we've been able to do here might make her embrace the new magic, too!
+Dialogue: 1,0:44:19.65,0:44:21.30,English Subtitle,,0,0,0,,Uh, not that she has any
+Dialogue: 1,0:44:23.40,0:44:27.45,English Subtitle,,0,0,0,,I just wish you didn't tell them that ridiculous story!
+Dialogue: 1,0:44:27.45,0:44:29.75,English Subtitle,,0,0,0,,Ah, this is all too much for you!
+Dialogue: 1,0:44:29.75,0:44:31.55,English Subtitle,,0,0,0,,You have to let it go!
+Dialogue: 1,0:44:31.55,0:44:32.70,English Subtitle,,0,0,0,,I knew it!
+Dialogue: 1,0:44:32.70,0:44:34.55,English Subtitle,,0,0,0,,He wants her to get rid of the camp!
+Dialogue: 1,0:44:40.25,0:44:41.05,English Subtitle,,0,0,0,,Ugh!
+Dialogue: 1,0:44:41.05,0:44:42.25,English Subtitle,,0,0,0,,Sunset Shimmer?
+Dialogue: 1,0:44:42.25,0:44:43.75,English Subtitle,,0,0,0,,What were you doing behind that door?
+Dialogue: 1,0:44:43.75,0:44:44.25,English Subtitle,,0,0,0,,What?
+Dialogue: 1,0:44:44.25,0:44:45.55,English Subtitle,,0,0,0,,Um, nothing!
+Dialogue: 1,0:44:45.55,0:44:49.20,English Subtitle,,0,0,0,,I, um, lost an earring. Uh, there it is!
+Dialogue: 1,0:44:50.40,0:44:51.35,English Subtitle,,0,0,0,,Hey, listen
+Dialogue: 1,0:44:51.35,0:44:53.10,English Subtitle,,0,0,0,,I'm glad I ran into you
+Dialogue: 1,0:44:53.10,0:44:54.55,English Subtitle,,0,0,0,,I really wanted to thank you
+Dialogue: 1,0:44:54.75,0:44:55.90,English Subtitle,,0,0,0,,For what?
+Dialogue: 1,0:44:56.50,0:44:57.90,English Subtitle,,0,0,0,,For the tough love
+Dialogue: 1,0:44:58.05,0:45:00.10,English Subtitle,,0,0,0,,Telling me I should get over Twilight
+Dialogue: 1,0:45:00.10,0:45:01.35,English Subtitle,,0,0,0,,I needed to hear that
+Dialogue: 1,0:45:01.35,0:45:02.90,English Subtitle,,0,0,0,,Sure, no problem
+Dialogue: 1,0:45:03.40,0:45:05.10,English Subtitle,,0,0,0,,Is something wrong?
+Dialogue: 1,0:45:05.10,0:45:05.50,English Subtitle,,0,0,0,,What?
+Dialogue: 1,0:45:05.50,0:45:07.30,English Subtitle,,0,0,0,,No. Why?
+Dialogue: 1,0:45:07.30,0:45:08.55,English Subtitle,,0,0,0,,Come on, Sunset
+Dialogue: 1,0:45:08.55,0:45:09.90,English Subtitle,,0,0,0,,We used to date
+Dialogue: 1,0:45:09.90,0:45:11.65,English Subtitle,,0,0,0,,I know when something's bothering you
+Dialogue: 1,0:45:12.55,0:45:14.75,English Subtitle,,0,0,0,,Okay, here's the deal
+Dialogue: 1,0:45:15.35,0:45:16.55,English Subtitle,,0,0,0,,My friend really likes someone
+Dialogue: 1,0:45:16.55,0:45:18.95,English Subtitle,,0,0,0,,but I don't think that someone is who she thinks they are
+Dialogue: 1,0:45:18.95,0:45:21.20,English Subtitle,,0,0,0,,I don't wanna upset my friend by telling her what I think
+Dialogue: 1,0:45:21.20,0:45:22.70,English Subtitle,,0,0,0,,because I also want to protect her
+Dialogue: 1,0:45:22.70,0:45:24.90,English Subtitle,,0,0,0,,because if what I think is happening is really happening
+Dialogue: 1,0:45:24.90,0:45:26.80,English Subtitle,,0,0,0,,then she deserves to know
+Dialogue: 1,0:45:26.80,0:45:27.75,English Subtitle,,0,0,0,,You know?
+Dialogue: 1,0:45:28.00,0:45:29.70,English Subtitle,,0,0,0,,Nnnno
+Dialogue: 1,0:45:29.90,0:45:32.70,English Subtitle,,0,0,0,,But what I do know is that your friend is lucky
+Dialogue: 1,0:45:32.70,0:45:34.75,English Subtitle,,0,0,0,,to have someone like you to look out for them
+Dialogue: 1,0:45:34.75,0:45:35.70,English Subtitle,,0,0,0,,Really?
+Dialogue: 1,0:45:35.70,0:45:36.85,English Subtitle,,0,0,0,,Yeah
+Dialogue: 1,0:45:36.85,0:45:39.30,English Subtitle,,0,0,0,,You know, you've changed a lot since we went out
+Dialogue: 1,0:45:39.65,0:45:42.05,English Subtitle,,0,0,0,,You're so much... nicer
+Dialogue: 1,0:45:42.05,0:45:44.45,English Subtitle,,0,0,0,,Thanks. I'm glad you noticed
+Dialogue: 1,0:45:44.65,0:45:47.30,English Subtitle,,0,0,0,,Uh, look, maybe you and me
+Dialogue: 1,0:45:47.30,0:45:50.20,English Subtitle,,0,0,0,,we could start over as... friends
+Dialogue: 1,0:45:50.20,0:45:52.05,English Subtitle,,0,0,0,,Uh, uh, sounds great
+Dialogue: 1,0:45:52.05,0:45:53.15,English Subtitle,,0,0,0,,I gotta go!
+Dialogue: 1,0:45:53.45,0:45:54.40,English Subtitle,,0,0,0,,Cool, yeah!
+Dialogue: 1,0:45:54.40,0:45:56.30,English Subtitle,,0,0,0,,I want to start over later, too!
+Dialogue: 1,0:46:19.85,0:46:21.45,English Subtitle,,0,0,0,,Ah, shoot!
+Dialogue: 1,0:46:21.95,0:46:23.90,English Subtitle,,0,0,0,,He's definitely up to something!
+Dialogue: 1,0:46:30.05,0:46:31.05,English Subtitle,,0,0,0,,It's Sunset
+Dialogue: 1,0:46:31.05,0:46:32.95,English Subtitle,,0,0,0,,She says to meet her by the rock quarry
+Dialogue: 1,0:46:32.95,0:46:35.40,English Subtitle,,0,0,0,,I thought we weren't supposed to hike out that far
+Dialogue: 1,0:46:35.40,0:46:37.65,English Subtitle,,0,0,0,,She says it's important!
+Dialogue: 1,0:46:43.20,0:46:44.10,English Subtitle,,0,0,0,,What is that?
+Dialogue: 1,0:46:45.95,0:46:47.00,English Subtitle,,0,0,0,,Shhh!
+Dialogue: 1,0:46:52.05,0:46:53.65,English Subtitle,,0,0,0,,What's going on down there?
+Dialogue: 1,0:46:53.65,0:46:56.15,English Subtitle,,0,0,0,,I think it's Gaia Everfree
+Dialogue: 1,0:46:56.15,0:46:59.65,English Subtitle,,0,0,0,,Or rather someone who wants us to think she's back
+Dialogue: 1,0:46:59.65,0:47:00.60,English Subtitle,,0,0,0,,C'mon!
+Dialogue: 1,0:47:07.90,0:47:09.60,English Subtitle,,0,0,0,,Whoa...
+Dialogue: 1,0:47:10.25,0:47:12.50,English Subtitle,,0,0,0,,This place is beautiful
+Dialogue: 1,0:47:12.50,0:47:15.75,English Subtitle,,0,0,0,,There's Equestrian magic here
+Dialogue: 1,0:47:15.95,0:47:18.45,English Subtitle,,0,0,0,,I can... I can feel it
+Dialogue: 1,0:47:18.45,0:47:19.65,English Subtitle,,0,0,0,,Wait
+Dialogue: 1,0:47:19.65,0:47:23.30,English Subtitle,,0,0,0,,I thought Timber was just faking there was a magical nature creature
+Dialogue: 1,0:47:23.30,0:47:24.70,English Subtitle,,0,0,0,,Are you saying it's real?
+Dialogue: 1,0:47:24.70,0:47:25.70,English Subtitle,,0,0,0,,Timber?
+Dialogue: 1,0:47:25.70,0:47:27.50,English Subtitle,,0,0,0,,What does he have to do with any of this?
+Dialogue: 1,0:47:27.50,0:47:28.50,English Subtitle,,0,0,0,,Nothing
+Dialogue: 1,0:47:30.80,0:47:32.60,English Subtitle,,0,0,0,,It's all me
+Dialogue: 1,0:47:34.30,0:47:35.65,English Subtitle,,0,0,0,,Gloriosa?
+Dialogue: 1,0:47:35.65,0:47:37.65,English Subtitle,,0,0,0,,But... Timber
+Dialogue: 1,0:47:37.65,0:47:39.25,English Subtitle,,0,0,0,,I was sure he was the one
+Dialogue: 1,0:47:39.25,0:47:42.30,English Subtitle,,0,0,0,,trying to make it seem like Gaia Everfree was back
+Dialogue: 1,0:47:42.30,0:47:44.90,English Subtitle,,0,0,0,,It was you who was trying to scare everyone away?
+Dialogue: 1,0:47:44.90,0:47:48.85,English Subtitle,,0,0,0,,I would never try to scare anyone away from Camp Everfree
+Dialogue: 1,0:47:50.40,0:47:51.90,English Subtitle,,0,0,0,,My, oh my
+Dialogue: 1,0:47:51.90,0:47:55.30,English Subtitle,,0,0,0,,You fell behind on your payments, Gloriosa
+Dialogue: 1,0:47:55.30,0:47:57.60,English Subtitle,,0,0,0,,I own the land now
+Dialogue: 1,0:47:57.80,0:48:00.85,English Subtitle,,0,0,0,,Please, my great grandparents founded this place
+Dialogue: 1,0:48:00.85,0:48:03.35,English Subtitle,,0,0,0,,It's been in our family for generations!
+Dialogue: 1,0:48:03.35,0:48:05.45,English Subtitle,,0,0,0,,You have to let the camp stay!
+Dialogue: 1,0:48:05.45,0:48:07.95,English Subtitle,,0,0,0,,Instead of turning it into a spa resort
+Dialogue: 1,0:48:07.95,0:48:12.30,English Subtitle,,0,0,0,,that will line my pockets with more money than this camp ever could?
+Dialogue: 1,0:48:13.20,0:48:15.10,English Subtitle,,0,0,0,,I don't think so
+Dialogue: 1,0:48:15.10,0:48:16.15,English Subtitle,,0,0,0,,Please!
+Dialogue: 1,0:48:16.15,0:48:19.95,English Subtitle,,0,0,0,,I-I-I-I just need a little more time!
+Dialogue: 1,0:48:20.10,0:48:24.35,English Subtitle,,0,0,0,,Fine. I'll give you 'til the end of the month
+Dialogue: 1,0:48:24.35,0:48:25.05,English Subtitle,,0,0,0,,Humph
+Dialogue: 1,0:48:29.30,0:48:30.85,English Subtitle,,0,0,0,,What'll I do?
+Dialogue: 1,0:48:35.40,0:48:36.20,English Subtitle,,0,0,0,,Huh?
+Dialogue: 1,0:48:46.80,0:48:47.70,English Subtitle,,0,0,0,,Oof
+Dialogue: 1,0:48:49.25,0:48:50.40,English Subtitle,,0,0,0,,Wow!
+Dialogue: 1,0:49:05.10,0:49:07.50,English Subtitle,,0,0,0,,You don't know what those things are!
+Dialogue: 1,0:49:07.50,0:49:09.40,English Subtitle,,0,0,0,,But I know what they can do!
+Dialogue: 1,0:49:10.25,0:49:11.75,English Subtitle,,0,0,0,,I've been practicing!
+Dialogue: 1,0:49:11.75,0:49:14.10,English Subtitle,,0,0,0,,I can control their power now!
+Dialogue: 1,0:49:14.35,0:49:16.15,English Subtitle,,0,0,0,,You don't know that for sure!
+Dialogue: 1,0:49:19.85,0:49:22.75,English Subtitle,,0,0,0,,This is our camp, and it's being taken away!
+Dialogue: 1,0:49:22.75,0:49:25.25,English Subtitle,,0,0,0,,If this has to be our last week here
+Dialogue: 1,0:49:25.25,0:49:28.15,English Subtitle,,0,0,0,,I'm going to use whatever it takes to make it count!
+Dialogue: 1,0:49:49.80,0:49:52.15,English Subtitle,,0,0,0,,You were using magic all over the place!
+Dialogue: 1,0:49:52.15,0:49:54.50,English Subtitle,,0,0,0,,I had to tell them something to cover for you!
+Dialogue: 1,0:49:54.50,0:49:56.35,English Subtitle,,0,0,0,,What did you want me to do?!
+Dialogue: 1,0:49:56.35,0:50:00.60,English Subtitle,,0,0,0,,I just wish you didn't tell them that ridiculous story!
+Dialogue: 1,0:50:01.15,0:50:03.45,English Subtitle,,0,0,0,,Ah, this is all too much for you!
+Dialogue: 1,0:50:03.45,0:50:05.15,English Subtitle,,0,0,0,,You have to let it go!
+Dialogue: 1,0:50:07.80,0:50:10.50,English Subtitle,,0,0,0,,Timber wasn't talking about letting go of the camp
+Dialogue: 1,0:50:10.80,0:50:14.15,English Subtitle,,0,0,0,,He was talking about you letting go of the magical geodes!
+Dialogue: 1,0:50:15.20,0:50:19.05,English Subtitle,,0,0,0,,All those things you were doing to make this week the best week ever
+Dialogue: 1,0:50:19.05,0:50:21.40,English Subtitle,,0,0,0,,Every time you used magic to do them
+Dialogue: 1,0:50:21.60,0:50:24.10,English Subtitle,,0,0,0,,you caused another problem somewhere else!
+Dialogue: 1,0:50:25.75,0:50:28.95,English Subtitle,,0,0,0,,Timber was... covering for you!
+Dialogue: 1,0:50:28.95,0:50:31.50,English Subtitle,,0,0,0,,How do you know what I was doing with the geodes?
+Dialogue: 1,0:50:31.50,0:50:33.65,English Subtitle,,0,0,0,,How do you know about the magic?
+Dialogue: 1,0:50:33.85,0:50:35.05,English Subtitle,,0,0,0,,I can see things
+Dialogue: 1,0:50:35.45,0:50:36.80,English Subtitle,,0,0,0,,Feel things
+Dialogue: 1,0:50:36.80,0:50:38.75,English Subtitle,,0,0,0,,Because I have magic, too
+Dialogue: 1,0:50:38.75,0:50:40.25,English Subtitle,,0,0,0,,And so does she
+Dialogue: 1,0:50:40.25,0:50:41.70,English Subtitle,,0,0,0,,And so do our friends
+Dialogue: 1,0:50:42.00,0:50:44.60,English Subtitle,,0,0,0,,Gloriosa, Timber wasn't wrong
+Dialogue: 1,0:50:44.60,0:50:46.85,English Subtitle,,0,0,0,,Maybe you should stop using magic?
+Dialogue: 1,0:50:46.85,0:50:49.55,English Subtitle,,0,0,0,,Too much of it can be dangerous if you can't control it!
+Dialogue: 1,0:50:49.55,0:50:51.55,English Subtitle,,0,0,0,,Oh, I got this!
+Dialogue: 1,0:50:51.55,0:50:54.45,English Subtitle,,0,0,0,,And I'm going to use it to save my camp
+Dialogue: 1,0:50:54.85,0:50:57.25,English Subtitle,,0,0,0,,I just need more power!
+Dialogue: 1,0:50:57.25,0:50:58.65,English Subtitle,,0,0,0,,No!
+Dialogue: 1,0:51:16.50,0:51:17.90,English Subtitle,,0,0,0,,Sorry, girls
+Dialogue: 1,0:51:17.90,0:51:19.85,English Subtitle,,0,0,0,,I know what I need to do
+Dialogue: 1,0:51:19.85,0:51:22.05,English Subtitle,,0,0,0,,But I feel like we're not on the same page
+Dialogue: 1,0:51:22.05,0:51:23.30,English Subtitle,,0,0,0,,So...
+Dialogue: 1,0:51:25.20,0:51:26.30,English Subtitle,,0,0,0,,Gloriosa!
+Dialogue: 1,0:51:32.30,0:51:33.90,English Subtitle,,0,0,0,,No!
+Dialogue: 1,0:51:44.70,0:51:47.10,English Subtitle,,0,0,0,,Where are Twilight and Sunset?
+Dialogue: 1,0:51:47.80,0:51:49.60,English Subtitle,,0,0,0,,They're missing our dress rehearsal
+Dialogue: 1,0:51:50.05,0:51:51.00,English Subtitle,,0,0,0,,Uh-uh
+Dialogue: 1,0:51:51.70,0:51:53.75,English Subtitle,,0,0,0,,I suppose we can get started without them
+Dialogue: 1,0:51:53.75,0:51:55.50,English Subtitle,,0,0,0,,Whenever you're ready!
+Dialogue: 1,0:52:03.10,0:52:05.15,English Subtitle,,0,0,0,,Hmm, Told you you'd like it
+Dialogue: 1,0:52:05.25,0:52:07.30,English Subtitle,,0,0,0,,It's alright... I guess
+Dialogue: 1,0:52:08.10,0:52:10.00,English Subtitle,,0,0,0,,I do get to keep it after camp though, right?
+Dialogue: 1,0:52:26.45,0:52:28.95,English Subtitle,,0,0,0,,She looks... different
+Dialogue: 1,0:52:28.95,0:52:32.25,English Subtitle,,0,0,0,,Yeah. She looks... taller
+Dialogue: 1,0:52:36.95,0:52:38.90,English Subtitle,,0,0,0,,This is only a preview
+Dialogue: 1,0:52:39.20,0:52:42.55,English Subtitle,,0,0,0,,I've got another entire line I'll debut at the real thing
+Dialogue: 1,0:52:44.00,0:52:45.25,English Subtitle,,0,0,0,,Why did you stop the–
+Dialogue: 1,0:52:46.25,0:52:47.80,English Subtitle,,0,0,0,,Oh my goodness!
+Dialogue: 1,0:52:48.65,0:52:51.00,English Subtitle,,0,0,0,,Attention, campers!
+Dialogue: 1,0:52:51.00,0:52:53.30,English Subtitle,,0,0,0,,It's Gaia Everfree!
+Dialogue: 1,0:52:53.30,0:52:54.40,English Subtitle,,0,0,0,,She's real!
+Dialogue: 1,0:52:54.40,0:52:56.55,English Subtitle,,0,0,0,,Aah! We're doomed!
+Dialogue: 1,0:52:57.05,0:52:58.30,English Subtitle,,0,0,0,,Gloriosa?!
+Dialogue: 1,0:52:58.85,0:53:00.50,English Subtitle,,0,0,0,,What are you doing?!
+Dialogue: 1,0:53:00.90,0:53:02.45,English Subtitle,,0,0,0,,That's Gloriosa?
+Dialogue: 1,0:53:02.75,0:53:05.55,English Subtitle,,0,0,0,,Am I going crazy or are her feet not touching the ground?
+Dialogue: 1,0:53:05.85,0:53:07.85,English Subtitle,,0,0,0,,Freaky-deaky!
+Dialogue: 1,0:53:08.05,0:53:10.75,English Subtitle,,0,0,0,,I have an announcement to make!
+Dialogue: 1,0:53:10.75,0:53:15.30,English Subtitle,,0,0,0,,Filthy Rich wants this to be the last session of Camp Everfree
+Dialogue: 1,0:53:15.30,0:53:16.60,English Subtitle,,0,0,0,,But don't worry
+Dialogue: 1,0:53:16.60,0:53:19.05,English Subtitle,,0,0,0,,I got this!
+Dialogue: 1,0:53:28.70,0:53:30.75,English Subtitle,,0,0,0,,Oh, come on!
+Dialogue: 1,0:53:30.75,0:53:33.15,English Subtitle,,0,0,0,,We literally just finished building that!
+Dialogue: 1,0:53:34.32,0:53:37.36,Gloriosa English,,0,0,0,,{\2a40}{\kf20}I {\kf34}have {\kf34}wai{\kf38}ted {\kf42}for {\kf50}the {\kf86}day
+Dialogue: 1,0:53:37.36,0:53:40.78,Gloriosa English,,0,0,0,,{\2a40}{\kf28}To {\kf22}send {\kf24}this {\kf46}gree{\kf36}dy {\kf48}wolf {\kf32}a{\kf106}way
+Dialogue: 1,0:53:40.78,0:53:44.07,Gloriosa English,,0,0,0,,{\2a40}{\kf32}Now {\kf16}the {\kf37}ma{\kf29}gic {\kf24}is {\kf40}my {\kf46}sal{\kf22}va{\kf83}tion
+Dialogue: 1,0:53:44.07,0:53:46.98,Gloriosa English,,0,0,0,,{\2a40}{\kf11}{\kf26}Ga{\kf24}ther {\kf34}clo{\kf14}se {\kf22}in {\kf48}my {\kf34}pro{\kf33}tec{\kf45}tion
+Dialogue: 1,0:53:46.98,0:53:55.90,Gloriosa English,,0,0,0,,{\2a40}{\kf99}We {\kf83}{\kf112}will{\kf26} {\kf109}stand{\kf0} {\kf61}for {\kf96}E{\kf83}ver{\kf223}free!
+Dialogue: 1,0:53:57.40,0:54:03.36,Gloriosa English,,0,0,0,,{\2a40}{\kf34}Be{\kf38}hold {\kf26}the {\kf58}beau{\kf30}ty {\kf50}of {\kf40}na{\kf74}ture {\kf16}in {\kf28}all {\kf44}its {\kf48}glo{\kf110}ry
+Dialogue: 1,0:54:03.36,0:54:08.86,Gloriosa English,,0,0,0,,{\2a40}{\kf24}{\kf46}No {\kf50}need {\kf26}to {\kf44}fear {\kf28}the {\kf34}vul{\kf78}tures {\kf20}at {\kf10}the {\kf190}door
+Dialogue: 1,0:54:10.23,0:54:14.03,Gloriosa English,,0,0,0,,{\2a40}{\kf35}Right {\kf38}here {\kf38}you {\kf42}have {\kf34}me {\kf30}to {\kf44}pro{\kf48}tect {\kf71}you
+Dialogue: 1,0:54:14.03,0:54:16.48,Gloriosa English,,0,0,0,,{\2a40}{\kf27}Within {\kf34}these {\kf20}wall{\kf26}s of {\kf90}thorn{\kf48}s
+Dialogue: 1,0:54:16.48,0:54:22.73,Gloriosa English,,0,0,0,,{\2a40}{\kf54}For {\kf28}E{\kf44}ver{\kf54}free {\kf38}for {\kf28}e{\kf38}ver{\kf296}more{\kf45}!
+Dialogue: 1,0:54:22.98,0:54:25.98,Gloriosa English,,0,0,0,,{\2a40}{\kf22}They {\kf20}have {\kf42}come {\kf30}into {\kf56}our {\kf30}do{\kf100}main
+Dialogue: 1,0:54:26.19,0:54:29.23,Gloriosa English,,0,0,0,,{\2a40}{\kf21}Here {\kf16}to {\kf40}seal {\kf34}our {\kf54}cam{\kf34}p in {\kf72}chain{\kf33}s
+Dialogue: 1,0:54:29.23,0:54:32.57,Gloriosa English,,0,0,0,,{\2a40}{\kf19}But {\kf20}we {\kf20}have {\kf18}hel{\kf28}d it {\kf34}for {\kf40}ge{\kf31}ne{\kf35}ra{\kf54}tion{\kf35}s
+Dialogue: 1,0:54:32.57,0:54:35.40,Gloriosa English,,0,0,0,,{\2a40}{\kf19}Thi{\kf22}s is {\kf34}just {\kf26}a {\kf45}com{\kf46}pli{\kf35}ca{\kf56}tion
+Dialogue: 1,0:54:35.40,0:54:43.90,Gloriosa English,,0,0,0,,{\2a40}{\kf104}We{\kf64} {\kf83}will{\kf37} {\kf89}stan{\kf17}d {\kf80}for {\kf80}E{\kf68}ver{\kf182}free{\kf46}!
+Dialogue: 1,0:54:45.65,0:54:49.36,Gloriosa English,,0,0,0,,{\2a40}{\kf43}Tru{\kf45}st in {\kf51}me, {\kf10\4c&H000000&}thi{\kf30}s is {\kf30}for {\kf34}your {\kf44}own {\kf34}goo{\kf50}d
+Dialogue: 1,0:54:49.86,0:54:52.61,Gloriosa English,,0,0,0,,{\2a40}{\kf55}Don{\kf13}'t {\kf38}be {\kf46}a{\kf95}frai{\kf28}d
+Dialogue: 1,0:54:52.86,0:54:56.86,Gloriosa English,,0,0,0,,{\2a40}{\kf46}Na{\kf54}ture {\kf40}is {\kf32}our {\kf34}fri{\kf156}en{\kf38}d
+Dialogue: 1,0:54:58.61,0:55:02.11,Gloriosa English,,0,0,0,,{\2a40}{\kf23}All {\kf12}of {\kf40}this {\kf48}beau{\kf28}ty {\kf34}that {\kf36}sur{\kf56}roun{\kf8}ds {\kf65}us
+Dialogue: 1,0:55:02.53,0:55:09.65,Gloriosa English,,0,0,0,,{\2a40}{\kf5}{\kf30}E{\kf44}very {\kf44}love{\kf32}ly {\kf112}bloom {\kf14}{\kf34}de{\kf72}sign{\kf14}ed {\kf48}to {\kf36}de{\kf192}fen{\kf35}d
+Dialogue: 1,0:55:10.86,0:55:14.07,Gloriosa English,,0,0,0,,{\2a40}{\kf32}Let {\kf22}them {\kf36}come! {\kf40}Just {\kf38}let {\kf38}them {\kf115}try!
+Dialogue: 1,0:55:14.07,0:55:17.07,Gloriosa English,,0,0,0,,{\2a40}{\kf21}I'm {\kf26}not {\kf46}about {\kf30}to {\kf50}say {\kf32}good{\kf95}bye!
+Dialogue: 1,0:55:17.07,0:55:20.48,Gloriosa English,,0,0,0,,{\2a40}{\kf11}{\kf22}This {\kf20}camp {\kf16}will {\kf18}be {\kf30}here {\kf38}through{\kf38}out {\kf44}the {\kf36}a{\kf34}ge{\kf34}s
+Dialogue: 1,0:55:20.48,0:55:23.48,Gloriosa English,,0,0,0,,{\2a40}{\kf42}Wri{\kf12}tten {\kf32}into {\kf40}the {\kf46}his{\kf30}tory {\kf42}pa{\kf56}ges
+Dialogue: 1,0:55:23.48,0:55:31.98,Gloriosa English,,0,0,0,,{\2a40}{\kf98}We{\kf52} {\kf86}will{\kf54} {\kf88}stan{\kf8}d {\kf92}for {\kf80}E{\kf72}ver{\kf220}free!
+Dialogue: 1,0:55:34.25,0:55:38.15,English Subtitle,,0,0,0,,Oh, why do these kinds of things always happen to us?
+Dialogue: 1,0:55:39.35,0:55:41.00,English Subtitle,,0,0,0,,What are we going to do?
+Dialogue: 1,0:55:41.00,0:55:42.85,English Subtitle,,0,0,0,,What we always do!
+Dialogue: 1,0:55:42.85,0:55:44.05,English Subtitle,,0,0,0,,Save the day!
+Dialogue: 1,0:55:48.65,0:55:50.75,English Subtitle,,0,0,0,,Oh boy, oh boy, oh boy!
+Dialogue: 1,0:55:50.75,0:55:52.30,English Subtitle,,0,0,0,,This is gonna be so much fun!
+Dialogue: 1,0:55:52.30,0:55:55.85,English Subtitle,,0,0,0,,Oh! I only wish we had time to make superhero capes!
+Dialogue: 1,0:55:55.85,0:55:57.30,English Subtitle,,0,0,0,,Oh, me too!
+Dialogue: 1,0:55:58.00,0:55:59.75,English Subtitle,,0,0,0,,Enough about our wardrobe!
+Dialogue: 1,0:55:59.75,0:56:02.65,English Subtitle,,0,0,0,,We've got to stop Gloriosa from trapping everybody in here!
+Dialogue: 1,0:56:21.20,0:56:22.45,English Subtitle,,0,0,0,,Um, hi
+Dialogue: 1,0:56:22.60,0:56:24.00,English Subtitle,,0,0,0,,Do you think you can give us a hand–
+Dialogue: 1,0:56:24.00,0:56:27.85,English Subtitle,,0,0,0,,Um, er, paw? We could really use a way out
+Dialogue: 1,0:57:32.95,0:57:34.15,English Subtitle,,0,0,0,,This isn't working!
+Dialogue: 1,0:57:34.15,0:57:35.90,English Subtitle,,0,0,0,,Her magic is too strong!
+Dialogue: 1,0:57:40.20,0:57:41.40,English Subtitle,,0,0,0,,Nice work, Spike!
+Dialogue: 1,0:57:46.55,0:57:48.55,English Subtitle,,0,0,0,,Twilight, you have to use your magic!
+Dialogue: 1,0:57:48.75,0:57:51.15,English Subtitle,,0,0,0,,I don't think I can lift something that big
+Dialogue: 1,0:57:51.15,0:57:53.25,English Subtitle,,0,0,0,,It's our only chance of getting out of here
+Dialogue: 1,0:57:53.25,0:57:54.60,English Subtitle,,0,0,0,,and helping our friends!
+Dialogue: 1,0:58:19.30,0:58:21.65,English Subtitle,,0,0,0,,Why are you fighting me?
+Dialogue: 1,0:58:21.65,0:58:23.90,English Subtitle,,0,0,0,,I'm doing this to save our camp!
+Dialogue: 1,0:58:23.90,0:58:25.85,English Subtitle,,0,0,0,,I'm doing this for you!
+Dialogue: 1,0:58:26.90,0:58:31.00,English Subtitle,,0,0,0,,Gloriosa, let's just think about this for a moment, shall we?
+Dialogue: 1,0:58:31.00,0:58:35.45,English Subtitle,,0,0,0,,I mean, I think Camp Everfree is absolutely delightful
+Dialogue: 1,0:58:35.45,0:58:39.80,English Subtitle,,0,0,0,,but I just don't know that if I'm quite ready to give up my weekly trips to the spa.
+Dialogue: 1,0:58:40.55,0:58:42.10,English Subtitle,,0,0,0,,To the spa
+Dialogue: 1,0:58:42.60,0:58:45.15,English Subtitle,,0,0,0,,TO THE SPA?!
+Dialogue: 1,0:58:51.05,0:58:54.00,English Subtitle,,0,0,0,,Gloriosa, this isn't the way!
+Dialogue: 1,0:58:54.00,0:58:56.70,English Subtitle,,0,0,0,,I appreciate your concern, Timber
+Dialogue: 1,0:58:56.70,0:58:58.60,English Subtitle,,0,0,0,,BUT I GOT THIS!
+Dialogue: 1,0:59:01.95,0:59:03.95,English Subtitle,,0,0,0,,No, you don't!
+Dialogue: 1,0:59:11.00,0:59:13.75,English Subtitle,,0,0,0,,Twilight, do you think you can use your magic?
+Dialogue: 1,0:59:14.55,0:59:16.05,English Subtitle,,0,0,0,,I don't wanna use too much
+Dialogue: 1,0:59:16.05,0:59:17.85,English Subtitle,,0,0,0,,Midnight Sparkle could take over
+Dialogue: 1,0:59:18.30,0:59:21.30,English Subtitle,,0,0,0,,Twilight, our friends are in there!
+Dialogue: 1,0:59:24.85,0:59:25.75,English Subtitle,,0,0,0,,Okay
+Dialogue: 1,0:59:31.85,0:59:33.25,English Subtitle,,0,0,0,,Please, Gloriosa
+Dialogue: 1,0:59:33.25,0:59:35.00,English Subtitle,,0,0,0,,What you're doing is crazy
+Dialogue: 1,0:59:35.00,0:59:36.75,English Subtitle,,0,0,0,,You have to listen to me!
+Dialogue: 1,0:59:36.75,0:59:38.45,English Subtitle,,0,0,0,,That isn't Gloriosa
+Dialogue: 1,0:59:42.85,0:59:43.65,English Subtitle,,0,0,0,,Twilight!
+Dialogue: 1,0:59:43.65,0:59:44.50,English Subtitle,,0,0,0,,Sunset!
+Dialogue: 1,0:59:44.50,0:59:45.55,English Subtitle,,0,0,0,,You're okay!
+Dialogue: 1,0:59:45.95,0:59:47.30,English Subtitle,,0,0,0,,That isn't your sister
+Dialogue: 1,0:59:47.40,0:59:50.30,English Subtitle,,0,0,0,,It's someone who's been consumed by Equestrian magic.
+Dialogue: 1,0:59:52.20,0:59:55.20,English Subtitle,,0,0,0,,Whoever you are, you have to let my sister go!
+Dialogue: 1,0:59:55.20,0:59:57.35,English Subtitle,,0,0,0,,Please, Gloriosa, come back!
+Dialogue: 1,0:59:57.35,0:59:58.60,English Subtitle,,0,0,0,,I need you!
+Dialogue: 1,1:00:01.30,1:00:02.65,English Subtitle,,0,0,0,,Gloriosa!
+Dialogue: 1,1:00:15.05,1:00:15.95,English Subtitle,,0,0,0,,Rarity!
+Dialogue: 1,1:00:20.25,1:00:22.80,English Subtitle,,0,0,0,,I can't keep this up forever!
+Dialogue: 1,1:00:23.30,1:00:24.65,English Subtitle,,0,0,0,,It's up to you
+Dialogue: 1,1:00:24.65,1:00:27.65,English Subtitle,,0,0,0,,You can use your magic to pull the brambles apart!
+Dialogue: 1,1:00:27.65,1:00:29.75,English Subtitle,,0,0,0,,No. There's too many of them
+Dialogue: 1,1:00:29.75,1:00:32.50,English Subtitle,,0,0,0,,It would take too much magic. I can't!
+Dialogue: 1,1:00:32.50,1:00:33.95,English Subtitle,,0,0,0,,It's the only way!
+Dialogue: 1,1:00:33.95,1:00:36.60,English Subtitle,,0,0,0,,You have to embrace the magic inside you!
+Dialogue: 1,1:00:36.60,1:00:38.50,English Subtitle,,0,0,0,,What if she takes over?
+Dialogue: 1,1:00:38.50,1:00:40.35,English Subtitle,,0,0,0,,What if instead of saving everyone
+Dialogue: 1,1:00:40.35,1:00:43.15,English Subtitle,,0,0,0,,I turn into Midnight Sparkle and only make things worse?
+Dialogue: 1,1:00:43.15,1:00:44.95,English Subtitle,,0,0,0,,That won't happen!
+Dialogue: 1,1:00:44.95,1:00:46.35,English Subtitle,,0,0,0,,We won't let it
+Dialogue: 1,1:00:56.30,1:00:57.40,English Subtitle,,0,0,0,,Come on, Twilight!
+Dialogue: 1,1:00:57.40,1:00:59.75,English Subtitle,,0,0,0,,You have to be stronger than she is!
+Dialogue: 1,1:01:07.25,1:01:12.25,English Subtitle,,0,0,0,,You will never control me! I will always be a part of you!
+Dialogue: 1,1:01:16.20,1:01:17.80,English Subtitle,,0,0,0,,Nooo!
+Dialogue: 1,1:01:18.40,1:01:22.60,English Subtitle,,0,0,0,,Twilight, listen to me! You are in charge!
+Dialogue: 1,1:01:22.85,1:01:26.95,English Subtitle,,0,0,0,,You are a light, darling! A force for good!
+Dialogue: 1,1:01:27.05,1:01:30.15,English Subtitle,,0,0,0,,Yeah! You can kick the darkness's butt!
+Dialogue: 1,1:01:30.35,1:01:32.45,English Subtitle,,0,0,0,,We're here for you, Twilight!
+Dialogue: 1,1:01:32.65,1:01:34.80,English Subtitle,,0,0,0,,And we'll be here no matter what!
+Dialogue: 1,1:01:35.00,1:01:37.20,English Subtitle,,0,0,0,,We believe in you!
+Dialogue: 1,1:01:39.35,1:01:42.65,English Subtitle,,0,0,0,,You are not Midnight Sparkle!
+Dialogue: 1,1:01:44.05,1:01:48.80,English Subtitle,,0,0,0,,No! I am Twilight Sparkle!
+Dialogue: 1,1:01:49.00,1:01:54.05,English Subtitle,,0,0,0,,And the magic I carry inside me is... the Magic of Friendship!
+Dialogue: 1,1:02:00.85,1:02:03.50,English Subtitle,,0,0,0,,No! Stop!
+Dialogue: 1,1:02:51.25,1:02:52.50,English Subtitle,,0,0,0,,Gloriosa?
+Dialogue: 1,1:02:55.20,1:02:57.80,English Subtitle,,0,0,0,,What... What happened?
+Dialogue: 1,1:02:58.00,1:02:58.90,English Subtitle,,0,0,0,,It's okay
+Dialogue: 1,1:02:59.70,1:03:01.00,English Subtitle,,0,0,0,,It's gonna be okay
+Dialogue: 1,1:03:11.25,1:03:12.35,English Subtitle,,0,0,0,,You did it!
+Dialogue: 1,1:03:12.60,1:03:14.85,English Subtitle,,0,0,0,,Oh, nice bling
+Dialogue: 1,1:03:15.30,1:03:17.50,English Subtitle,,0,0,0,,What... What are these?
+Dialogue: 1,1:03:17.50,1:03:18.70,English Subtitle,,0,0,0,,I'm not sure
+Dialogue: 1,1:03:18.90,1:03:21.85,English Subtitle,,0,0,0,,But clearly we have some kind of connection to them
+Dialogue: 1,1:03:22.00,1:03:24.50,English Subtitle,,0,0,0,,I almost don't care what they are
+Dialogue: 1,1:03:24.65,1:03:26.40,English Subtitle,,0,0,0,,They are gorgeous!
+Dialogue: 1,1:03:26.80,1:03:30.85,English Subtitle,,0,0,0,,And will totally go with the other collection I was working on for the camp fashion show!
+Dialogue: 1,1:03:33.45,1:03:36.50,English Subtitle,,0,0,0,,That's probably cancelled, isn't it?
+Dialogue: 1,1:03:40.40,1:03:42.40,English Subtitle,,0,0,0,,I am so sorry
+Dialogue: 1,1:03:42.80,1:03:46.85,English Subtitle,,0,0,0,,I only wanted this to be the best week Camp Everfree has ever had
+Dialogue: 1,1:03:46.85,1:03:49.45,English Subtitle,,0,0,0,,Then instead I've made it the worst
+Dialogue: 1,1:03:50.05,1:03:53.20,English Subtitle,,0,0,0,,Maybe it's for the best that I'm losing the camp to Filthy Rich
+Dialogue: 1,1:03:53.50,1:03:55.85,English Subtitle,,0,0,0,,No, it's not
+Dialogue: 1,1:03:55.85,1:03:58.85,English Subtitle,,0,0,0,,This camp has meant so much to so many people
+Dialogue: 1,1:03:58.85,1:04:00.85,English Subtitle,,0,0,0,,my sister and me included
+Dialogue: 1,1:04:01.20,1:04:04.15,English Subtitle,,0,0,0,,Why do you think we wanted our students to come here?
+Dialogue: 1,1:04:04.55,1:04:07.45,English Subtitle,,0,0,0,,We can't let Filthy Rich take this place away!
+Dialogue: 1,1:04:07.45,1:04:09.65,English Subtitle,,0,0,0,,If camp meant so much to you two
+Dialogue: 1,1:04:09.65,1:04:13.40,English Subtitle,,0,0,0,,maybe it meant as much to the other campers who came here in years past
+Dialogue: 1,1:04:13.55,1:04:16.80,English Subtitle,,0,0,0,,And maybe we can get them to help save it!
+Dialogue: 1,1:04:16.90,1:04:18.70,English Subtitle,,0,0,0,,Oh! Like a fundraiser?
+Dialogue: 1,1:04:18.90,1:04:20.65,English Subtitle,,0,0,0,,Or a ball?!
+Dialogue: 1,1:04:20.65,1:04:22.20,English Subtitle,,0,0,0,,Our band could play!
+Dialogue: 1,1:04:22.20,1:04:25.05,English Subtitle,,0,0,0,,I can help writing a new song just for the occasion!
+Dialogue: 1,1:04:29.40,1:04:32.90,English Subtitle,,0,0,0,,Those are all good ideas, but where would we hold it?
+Dialogue: 1,1:04:32.90,1:04:34.95,English Subtitle,,0,0,0,,We can hold it in the crystal cave!
+Dialogue: 1,1:04:36.05,1:04:39.40,English Subtitle,,0,0,0,,A Crystal Ball! I'm on it!
+Dialogue: 1,1:04:39.60,1:04:42.05,English Subtitle,,0,0,0,,I admire everyone's enthusiasm
+Dialogue: 1,1:04:42.05,1:04:43.25,English Subtitle,,0,0,0,,Really, I do
+Dialogue: 1,1:04:43.25,1:04:46.50,English Subtitle,,0,0,0,,But I-I just don't know how we're going to plan a ball by tomorrow
+Dialogue: 1,1:04:46.50,1:04:47.60,English Subtitle,,0,0,0,,and invite everyone
+Dialogue: 1,1:04:48.00,1:04:49.55,English Subtitle,,0,0,0,,We got this!
+Dialogue: 1,1:04:58.10,1:05:01.23,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf11}I{\kf8} {\kf19}used{\kf2} {\kf21}to{\kf0} {\kf36}think{\kf8} {\kf11}that{\kf2} {\kf55}sto{\kf24}ries{\kf0} {\kf8}were{\kf7} {\kf36}just{\kf7} {\kf58}that
+Dialogue: 1,1:05:01.64,1:05:04.81,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf28}Set{\kf1} {\kf14}in{\kf2} {\kf42}stone{\kf27}, {\kf44}con{\kf43}crete{\kf0} {\kf46}as{\kf0} {\kf46}a {\kf24}fact
+Dialogue: 1,1:05:04.90,1:05:07.15,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf18}It{\kf5} {\kf22}di{\kf19}dn't{\kf0} {\kf28}dawn{\kf3} {\kf37}on{\kf1} {\kf92}me
+Dialogue: 1,1:05:07.70,1:05:11.36,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf22}That{\kf1} {\kf71}I{\kf15} {\kf25}could{\kf12} {\kf41}change{\kf7} {\kf44}his{\kf42}to{\kf86}ry
+Dialogue: 1,1:05:11.99,1:05:15.20,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf25}Now{\kf0} {\kf15}I{\kf5} {\kf43}know{\kf0} {\kf15}I'm{\kf6} {\kf43}wri{\kf34}ting{\kf8} {\kf35}my{\kf10} {\kf31}own{\kf10} {\kf41}song
+Dialogue: 1,1:05:15.41,1:05:18.58,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf18}Fight{\kf7} {\kf17}my{\kf3} {\kf16}way{\kf6} {\kf13}to{\kf9} {\kf16}the{\kf6} {\kf42}en{\kf37}ding{\kf6} {\kf42}that{\kf0} {\kf40}I{\kf0} {\kf39}want
+Dialogue: 1,1:05:18.64,1:05:21.08,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf21}I'll{\kf0} {\kf23}turn{\kf0} {\kf18}a{\kf0} {\kf46}tra{\kf19}ge{\kf117}dy
+Dialogue: 1,1:05:21.37,1:05:25.12,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf27}In{\kf41}to{\kf3} {\kf32}an{\kf12} {\kf41}e{\kf32}pic{\kf11} {\kf44}fan{\kf44}ta{\kf88}sy
+Dialogue: 1,1:05:25.20,1:05:27.29,Chorus English,,0,0,0,,{\2a40}{\kf33}Hey!{\kf37} {\kf41}Hey!{\kf23} {\kf45}Hey!{\kf30}
+Dialogue: 1,1:05:27.85,1:05:31.71,Chorus English,,0,0,0,,{\2a40}{\kf14}You{\kf3} {\kf24}can{\kf4} {\kf15}be{\kf0} {\kf28}a{\kf0} {\kf21}he{\kf119}ro{\kf4} {\kf154}too
+Dialogue: 1,1:05:32.09,1:05:34.47,Chorus English,,0,0,0,,{\2a40}{\kf69}Oh{\kf0}-{\kf64}oh{\kf0}-{\kf105}oh
+Dialogue: 1,1:05:34.59,1:05:38.80,Chorus English,,0,0,0,,{\2a40}{\kf24}Take{\kf7} {\kf25}my {\kf20}hand{\kf0}, {\kf15}I'm{\kf7} {\kf53}here{\kf9} {\kf60}for{\kf7} {\kf194}you
+Dialogue: 1,1:05:39.01,1:05:43.56,Chorus English,,0,0,0,,{\2a40}{\kf125}Come{\kf2} {\kf21}a{\kf145}way{\kf7} {\kf13}with{\kf8} {\kf134}me{\kf0}
+Dialogue: 1,1:05:43.68,1:05:46.90,Chorus English,,0,0,0,,{\2a40}{\kf21}Be{\kf4} {\kf18}the{\kf3} {\kf24}le{\kf20}gend{\kf3} {\kf16}you{\kf0} {\kf23}are{\kf0} {\kf40}meant{\kf0} {\kf18}to{\kf6} {\kf126}be{\kf0}
+Dialogue: 1,1:05:47.06,1:05:50.73,Chorus English,,0,0,0,,{\2a40}{\kf30}You'll{\kf0} {\kf150}al{\kf18}ways{\kf4} {\kf165}be{\kf0}
+Dialogue: 1,1:05:51.00,1:05:52.69,Chorus English,,0,0,0,,{\2a40}{\kf64}E{\kf63}ver{\kf42}free
+Dialogue: 1,1:05:52.69,1:05:57.20,Chorus English,,0,0,0,,{\2a40}{\kf25}Oh{\kf0}, {\kf20}oo{\kf0}-{\kf24}wah{\kf37}, {\kf46}ah{\kf0}-{\kf43}oh{\kf0}, {\kf22}oo{\kf0}-{\kf22}wah{\kf40}, {\kf48}ah{\kf0}-{\kf34}oh{\kf0}, {\kf27}oo{\kf0}-{\kf21}wah{\kf42}
+Dialogue: 1,1:05:57.21,1:05:59.56,Chorus English,,0,0,0,,{\2a40}{\kf13}To{\kf9} {\kf17}be{\kf4} {\kf16}the{\kf3} {\kf22}le{\kf22}gend{\kf2} {\kf15}you{\kf2} {\kf22}are{\kf3} {\kf42}meant{\kf0} {\kf22}to{\kf1} {\kf20}be
+Dialogue: 1,1:05:59.58,1:06:03.95,Chorus English,,0,0,0,,{\2a40}{\kf25}Oh{\kf0}, {\kf20}oo{\kf0}-{\kf24}wah{\kf37}, {\kf46}ah{\kf0}-{\kf43}oh{\kf0}, {\kf22}oo{\kf0}-{\kf22}wah{\kf40}, {\kf48}ah{\kf0}-{\kf34}oh{\kf0}, {\kf27}oo{\kf0}-{\kf21}wah{\kf42}
+Dialogue: 1,1:06:04.04,1:06:06.50,Chorus English,,0,0,0,,{\2a40}{\kf13}To{\kf9} {\kf17}be{\kf4} {\kf16}the{\kf3} {\kf22}le{\kf22}gend{\kf2} {\kf15}you{\kf2} {\kf22}are{\kf3} {\kf42}meant{\kf0} {\kf22}to{\kf1} {\kf20}be
+Dialogue: 1,1:06:06.62,1:06:10.04,Fluttershy English,,0,0,0,,{\2a40}{\kf14}There{\kf9} {\kf24}was{\kf0} {\kf18}a{\kf0} {\kf45}time{\kf0} {\kf22}when{\kf0} {\kf36}fear{\kf7} {\kf36}would{\kf7} {\kf29}hold{\kf14} {\kf28}me{\kf12} {\kf41}down
+Dialogue: 1,1:06:10.28,1:06:13.42,Fluttershy English,,0,0,0,,{\2a40}{\kf19}'cause{\kf4} {\kf21}I{\kf1} {\kf20}let{\kf0} {\kf27}it{\kf10} {\kf35}chain{\kf14} {\kf25}me{\kf16} {\kf29}to{\kf17} {\kf28}the{\kf10} {\kf38}ground{\kf0}
+Dialogue: 1,1:06:13.42,1:06:16.13,Rainbow Dash English,,0,0,0,,{\2a40}{\kf23}Look{\kf6} {\kf13}at{\kf10} {\kf15}me{\kf7} {\kf38}now{\kf0}, {\kf23}I'm {\kf41}soa{\kf26}ring {\kf69}high
+Dialogue: 1,1:06:16.44,1:06:19.85,Rainbow Dash English,,0,0,0,,{\2a40}{\kf19}It's{\kf8} {\kf23}ne{\kf26}ver{\kf16} {\kf41}bo{\kf37}ring{\kf9} {\kf23}in{\kf20} {\kf22}the{\kf12} {\kf85}sky
+Dialogue: 1,1:06:20.56,1:06:23.77,Applejack English,,0,0,0,,{\2a40}{\kf20}When{\kf5} {\kf13}I{\kf6} {\kf33}know{\kf8} {\kf18}I've{\kf5} {\kf35}got{\kf5} {\kf43}friends{\kf2} {\kf29}on{\kf15} {\kf40}my{\kf3} {\kf41}side{\kf0}
+Dialogue: 1,1:06:23.78,1:06:27.19,Applejack English,,0,0,0,,{\2a40}{\kf14}What{\kf30}e{\kf20}ver {\kf44}trials {\kf22}I'll {\kf41}take {\kf43}them {\kf45}all {\kf40}in {\kf42}stride
+Dialogue: 1,1:06:27.23,1:06:30.02,Rarity English,,0,0,0,,{\2a40}{\kf20}To{\kf23}ge{\kf17}ther{\kf4} {\kf31}we{\kf10} {\kf23}will{\kf0} {\kf35}shine{\kf5} {\kf23}so{\kf0} {\kf88}bright
+Dialogue: 1,1:06:30.47,1:06:33.48,Rarity English,,0,0,0,,{\2a40}{\kf19}Ra{\kf35}diant{\kf7} {\kf40}bril{\kf36}liance{\kf10} {\kf34}in{\kf9} {\kf29}the{\kf17} {\kf65}night
+Dialogue: 1,1:06:33.82,1:06:35.65,Chorus English,,0,0,0,,{\2a40}{\kf33}Hey!{\kf37} {\kf41}Hey!{\kf23} {\kf45}Hey!{\kf30}
+Dialogue: 1,1:06:36.43,1:06:40.37,Chorus English,,0,0,0,,{\2a40}{\kf14}You{\kf3} {\kf24}can{\kf4} {\kf15}be{\kf0} {\kf28}a{\kf0} {\kf21}he{\kf119}ro{\kf4} {\kf154}too
+Dialogue: 1,1:06:40.66,1:06:42.83,Chorus English,,0,0,0,,{\2a40}{\kf69}Oh{\kf0}-{\kf64}oh{\kf0}-{\kf105}oh
+Dialogue: 1,1:06:43.20,1:06:47.33,Chorus English,,0,0,0,,{\2a40}{\kf24}Take{\kf7} {\kf25}my {\kf20}hand{\kf0}, {\kf15}I'm{\kf7} {\kf53}here{\kf9} {\kf60}for{\kf7} {\kf194}you
+Dialogue: 1,1:06:47.54,1:06:52.17,Chorus English,,0,0,0,,{\2a40}{\kf125}Come{\kf2} {\kf21}a{\kf145}way{\kf7} {\kf13}with{\kf8} {\kf134}me{\kf0}
+Dialogue: 1,1:06:52.25,1:06:55.34,Chorus English,,0,0,0,,{\2a40}{\kf21}Be{\kf4} {\kf18}the{\kf3} {\kf24}le{\kf20}gend{\kf3} {\kf16}you{\kf0} {\kf23}are{\kf0} {\kf40}meant{\kf0} {\kf18}to{\kf6} {\kf126}be{\kf0}
+Dialogue: 1,1:06:55.71,1:06:59.22,Chorus English,,0,0,0,,{\2a40}{\kf20}You'll{\kf0} {\kf150}al{\kf18}ways{\kf4} {\kf165}be{\kf0}
+Dialogue: 1,1:06:59.55,1:07:01.09,Chorus English,,0,0,0,,{\2a40}{\kf64}E{\kf63}ver{\kf42}free
+Dialogue: 1,1:07:01.26,1:07:05.56,Chorus English,,0,0,0,,{\2a40}{\kf25}Oh{\kf0}, {\kf20}oo{\kf0}-{\kf24}wah{\kf37}, {\kf46}ah{\kf0}-{\kf43}oh{\kf0}, {\kf22}oo{\kf0}-{\kf22}wah{\kf40}, {\kf48}ah{\kf0}-{\kf34}oh{\kf0}, {\kf27}oo{\kf0}-{\kf63}wah{\kf0}
+Dialogue: 1,1:07:05.77,1:07:08.14,Chorus English,,0,0,0,,{\2a40}{\kf13}To{\kf9} {\kf17}be{\kf4} {\kf16}the{\kf3} {\kf22}le{\kf22}gend{\kf2} {\kf15}you{\kf2} {\kf22}are{\kf3} {\kf42}meant{\kf0} {\kf22}to{\kf1} {\kf20}be
+Dialogue: 1,1:07:08.14,1:07:12.40,Chorus English,,0,0,0,,{\2a40}{\kf25}Oh{\kf0}, {\kf20}oo{\kf0}-{\kf24}wah{\kf37}, {\kf46}ah{\kf0}-{\kf43}oh{\kf0}, {\kf22}oo{\kf0}-{\kf22}wah{\kf40}, {\kf48}ah{\kf0}-{\kf34}oh{\kf0}, {\kf27}oo{\kf0}-{\kf63}wah{\kf0}
+Dialogue: 1,1:07:12.65,1:07:15.28,Chorus English,,0,0,0,,{\2a40}{\kf13}To{\kf9} {\kf17}be{\kf4} {\kf16}the{\kf3} {\kf22}le{\kf22}gend{\kf2} {\kf15}you{\kf2} {\kf22}are{\kf3} {\kf42}meant{\kf0} {\kf22}to{\kf1} {\kf20}be
+Dialogue: 1,1:07:20.15,1:07:22.55,English Subtitle,,0,0,0,,Thank you all so much for coming
+Dialogue: 1,1:07:22.55,1:07:29.10,English Subtitle,,0,0,0,,And for helping us raise enough money to... save Camp Everfree!
+Dialogue: 1,1:07:33.65,1:07:36.00,English Subtitle,,0,0,0,,Thank you For everything
+Dialogue: 1,1:07:36.35,1:07:39.30,English Subtitle,,0,0,0,,Oh, if I'd just asked for help in the first place...
+Dialogue: 1,1:07:39.30,1:07:42.65,English Subtitle,,0,0,0,,Heh, don't sweat it, it's kinda what we do
+Dialogue: 1,1:07:50.90,1:07:53.05,English Subtitle,,0,0,0,,Not to brag or anything
+Dialogue: 1,1:07:53.05,1:07:57.55,English Subtitle,,0,0,0,,but it's pretty cool how I saved all those campers from those Rubus fruticosus
+Dialogue: 1,1:07:58.15,1:07:59.70,English Subtitle,,0,0,0,,Blackberry brambles
+Dialogue: 1,1:07:59.70,1:08:01.20,English Subtitle,,0,0,0,,I'm familiar with the genus
+Dialogue: 1,1:08:01.20,1:08:04.30,English Subtitle,,0,0,0,,it's just a little weird you say you saved the campers
+Dialogue: 1,1:08:04.30,1:08:05.65,English Subtitle,,0,0,0,,I thought I saved them
+Dialogue: 1,1:08:05.85,1:08:06.65,English Subtitle,,0,0,0,,Yeah
+Dialogue: 1,1:08:06.65,1:08:09.05,English Subtitle,,0,0,0,,But I saved you from falling on the docks
+Dialogue: 1,1:08:09.05,1:08:10.95,English Subtitle,,0,0,0,,so that you can save the campers
+Dialogue: 1,1:08:10.95,1:08:13.45,English Subtitle,,0,0,0,,So technically, it was all me
+Dialogue: 1,1:08:15.75,1:08:17.55,English Subtitle,,0,0,0,,I'm really glad I met you
+Dialogue: 1,1:08:18.85,1:08:19.90,English Subtitle,,0,0,0,,Uh-oh
+Dialogue: 1,1:08:19.90,1:08:20.85,English Subtitle,,0,0,0,,What?
+Dialogue: 1,1:08:20.85,1:08:23.05,English Subtitle,,0,0,0,,That sounds like a goodbye
+Dialogue: 1,1:08:23.95,1:08:27.45,English Subtitle,,0,0,0,,And here I was hoping we'd still be able to hang out
+Dialogue: 1,1:08:27.75,1:08:30.70,English Subtitle,,0,0,0,,Maybe get dinner and catch a movie?
+Dialogue: 1,1:08:32.50,1:08:35.40,English Subtitle,,0,0,0,,Yeah. I'd really like that
+Dialogue: 1,1:08:36.15,1:08:37.20,English Subtitle,,0,0,0,,Oh, good!
+Dialogue: 1,1:08:37.20,1:08:38.85,English Subtitle,,0,0,0,,I was hoping that's what this meant
+Dialogue: 1,1:08:47.00,1:08:50.05,English Subtitle,,0,0,0,,Oh, uh, sorry
+Dialogue: 1,1:08:50.05,1:08:51.45,English Subtitle,,0,0,0,,I need to borrow Timber
+Dialogue: 1,1:08:51.45,1:08:54.20,English Subtitle,,0,0,0,,There are some donors I really want him to meet
+Dialogue: 1,1:08:54.20,1:08:56.10,English Subtitle,,0,0,0,,They were good friends with mom and dad
+Dialogue: 1,1:08:58.50,1:09:00.65,English Subtitle,,0,0,0,,Save me a dance, okay?
+Dialogue: 1,1:09:01.35,1:09:02.30,English Subtitle,,0,0,0,,Uh-huh
+Dialogue: 1,1:09:03.00,1:09:05.00,English Subtitle,,0,0,0,,Adorable
+Dialogue: 1,1:09:05.00,1:09:07.20,English Subtitle,,0,0,0,,He does seem like a pretty cool guy
+Dialogue: 1,1:09:07.20,1:09:08.85,English Subtitle,,0,0,0,,You know what else is cool?
+Dialogue: 1,1:09:08.85,1:09:10.45,English Subtitle,,0,0,0,,Our awesome new superpowers!
+Dialogue: 1,1:09:11.70,1:09:13.30,English Subtitle,,0,0,0,,I handed out, like, four hundred fliers
+Dialogue: 1,1:09:13.65,1:09:14.65,English Subtitle,,0,0,0,,set up the stage
+Dialogue: 1,1:09:15.50,1:09:17.60,English Subtitle,,0,0,0,,and still had time to pick up pizza
+Dialogue: 1,1:09:17.60,1:09:19.60,English Subtitle,,0,0,0,,I love my superspeed!
+Dialogue: 1,1:09:19.60,1:09:20.65,English Subtitle,,0,0,0,,About that
+Dialogue: 1,1:09:20.65,1:09:23.65,English Subtitle,,0,0,0,,I think the crystals are the source of the superpowers
+Dialogue: 1,1:09:23.90,1:09:26.60,English Subtitle,,0,0,0,,You're not gonna ask us to give them up, are you?
+Dialogue: 1,1:09:26.60,1:09:27.50,English Subtitle,,0,0,0,,No
+Dialogue: 1,1:09:27.50,1:09:31.80,English Subtitle,,0,0,0,,In fact, I think maybe we were meant to have them all along?
+Dialogue: 1,1:09:31.80,1:09:32.95,English Subtitle,,0,0,0,,Me too
+Dialogue: 1,1:09:44.55,1:09:47.55,English Subtitle,,0,0,0,,There is one thing I'm still wondering about, though
+Dialogue: 1,1:09:47.55,1:09:48.50,English Subtitle,,0,0,0,,What's that?
+Dialogue: 1,1:09:48.50,1:09:52.00,English Subtitle,,0,0,0,,Where did the magic that hit this cave come from?
+Dialogue: 1,1:10:23.10,1:10:24.68,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf54}Some{\kf42}where's{\kf0} {\kf18}a{\kf0} {\kf44}book{\kf0}
+Dialogue: 1,1:10:24.95,1:10:30.61,Sunset Shimmer English,,0,0,0,,{\2a40}{\kf10}With{\kf2} {\kf43}chap{\kf30}ters{\kf2} {\kf28}still{\kf7} {\kf41}blank{\kf6} {\kf23}{\rChorus English}in{\kf374}side
+Dialogue: 1,1:10:30.78,1:10:32.45,Rarity English,,0,0,0,,{\2a40}{\kf10}It's{\kf1} {\kf10}the{\kf1} {\kf32}book{\kf0} {\kf30}of{\kf6} {\kf20}our{\kf57} lives
+Dialogue: 1,1:10:32.61,1:10:37.99,Rarity English,,0,0,0,,{\2a40}{\kf14}And{\kf0} {\kf5}the{\kf0} {\kf51}sto{\kf36}ry{\kf0} {\kf14}is{\kf8} {\kf42}ours{\kf0} {\kf19}{\rChorus English}to{\kf15} {\kf334}write
+Dialogue: 1,1:10:38.70,1:10:40.12,Applejack English,,0,0,0,,{\2a40}{\kf34}Some{\kf6} {\kf32}pa{\kf24}ges{\kf5} {\kf41}fade
+Dialogue: 1,1:10:40.43,1:10:46.09,Applejack English,,0,0,0,,{\2a40}{\kf21}While{\kf3} {\kf32}o{\kf41}thers{\kf0} {\kf15}are{\kf6} {\kf35}black{\kf19} {\kf23}{\rChorus English}and {\kf371}white
+Dialogue: 1,1:10:46.17,1:10:48.08,Fluttershy English,,0,0,0,,{\2a40}{\kf12}And{\kf0} {\kf7}the {\kf39}sto{\kf41}ry{\kf7} {\kf23}be{\kf62}gins
+Dialogue: 1,1:10:48.17,1:10:53.43,Fluttershy English,,0,0,0,,{\2a40}{\kf23}A{\kf39}gain{\kf0} {\kf35}e{\kf17}very{\kf5} {\kf47}time{\kf0} {\kf21}{\rChorus English}we{\kf0} {\kf339}try
+Dialogue: 1,1:10:50.82,1:10:53.59,Applejack English,,0,0,0,,{\2a40}{\kf25}E{\kf20}very{\kf4} {\kf41}time{\kf9} {\kf22}we{\kf3} {\kf153}try
+Dialogue: 1,1:10:53.88,1:11:01.35,Chorus English,,0,0,0,,{\2a40}{\kf26}And{\kf1} {\kf280}hope{\kf8} {\kf49}shines{\kf0} {\kf33}e{\kf50}ter{\kf300}nal
+Dialogue: 1,1:11:01.68,1:11:09.07,Chorus English,,0,0,0,,{\2a40}{\kf20}And{\kf1} {\kf276}friends{\kf0} {\kf22}are{\kf0} {\kf21}all{\kf0} {\kf48}I{\kf0} {\kf351}need
+Dialogue: 1,1:11:09.40,1:11:16.57,Chorus English,,0,0,0,,{\2a40}{\kf26}And{\kf1} {\kf280}hope{\kf8} {\kf49}shines{\kf0} {\kf33}e{\kf50}ter{\kf300}nal
+Dialogue: 1,1:11:16.96,1:11:21.62,Chorus English,,0,0,0,,{\2a40}{\kf24}And{\kf0} {\kf14}the{\kf5} {\kf21}fu{\kf34}ture{\kf0} {\kf49}is{\kf0} {\kf23}al{\kf30}ways{\kf19} {\kf247}bright
+Dialogue: 1,1:11:21.79,1:11:23.79,Chorus English,,0,0,0,,{\2a40}{\kf25}When{\kf0} {\kf28}you're{\kf0} {\kf42}here{\kf0} {\kf13}with{\kf10} {\kf82}me
+Dialogue: 1,1:11:26.84,1:11:28.81,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf11}I{\kf3} {\kf41}fought{\kf0} {\kf39}through{\kf5} {\kf17}the{\kf6} {\kf46}dark{\kf29}ness
+Dialogue: 1,1:11:28.82,1:11:34.43,Twilight Sparkle English,,0,0,0,,{\2a40}{\kf23}And{\kf4} {\kf28}come{\kf4} {\kf27}out{\kf13} {\kf22}the{\kf4} {\kf42}{\rChorus English}o{\kf28}ther {\kf366}side
+Dialogue: 1,1:11:34.63,1:11:36.30,Rainbow Dash English,,0,0,0,,{\2a40}{\kf23}For{\kf2} {\kf21}rain{\kf13} {\kf27}clouds{\kf12} {\kf15}will{\kf5} {\kf49}clear
+Dialogue: 1,1:11:36.56,1:11:42.23,Rainbow Dash English,,0,0,0,,{\2a40}{\kf25}The{\kf0} {\kf26}way{\kf10} {\kf33}for{\kf7} {\kf17}the{\kf6} {\kf45}{\rChorus English}sun{\kf15}ny{\kf9} {\kf374}skies
+Dialogue: 1,1:11:42.58,1:11:44.03,Pinkie Pie English,,0,0,0,,{\2a40}{\kf36}I've{\kf9} {\kf25}been{\kf6} {\kf28}a{\kf41}fraid{\kf0}
+Dialogue: 1,1:11:44.25,1:11:49.93,Pinkie Pie English,,0,0,0,,{\2a40}{\kf15}And{\kf5} {\kf44}stayed{\kf0} {\kf32}through{\kf5} {\kf21}the{\kf0} {\kf49}lon{\kf19}gest{\kf8} {\kf370}{\rChorus English}nights
+Dialogue: 1,1:11:50.07,1:11:51.97,Pinkie Pie English,,0,0,0,,{\2a40}{\kf25}But{\kf5} {\kf36}mor{\kf21}ning{\kf10} {\kf24}still{\kf7} {\kf62}comes
+Dialogue: 1,1:11:52.05,1:11:57.69,Pinkie Pie English,,0,0,0,,{\2a40}{\kf9}And{\kf15} {\kf31}with{\kf8} {\kf32}it{\kf4}, {\kf26}it{\kf3} {\kf44}brings{\kf0} {\kf20}a{\kf6} {\kf366}light
+Dialogue: 1,1:11:57.74,1:12:05.12,Chorus English,,0,0,0,,{\2a40}{\kf26}And{\kf1} {\kf280}hope{\kf8} {\kf49}shines{\kf0} {\kf33}e{\kf50}ter{\kf300}nal
+Dialogue: 1,1:12:05.57,1:12:12.76,Chorus English,,0,0,0,,{\2a40}{\kf20}And{\kf1} {\kf276}friends{\kf0} {\kf22}are{\kf0} {\kf21}all{\kf0} {\kf48}I{\kf0} {\kf351}need
+Dialogue: 1,1:12:13.29,1:12:20.64,Chorus English,,0,0,0,,{\2a40}{\kf26}And{\kf1} {\kf280}hope{\kf8} {\kf49}shines{\kf0} {\kf33}e{\kf50}ter{\kf300}nal
+Dialogue: 1,1:12:20.76,1:12:24.77,Chorus English,,0,0,0,,{\2a40}{\kf22}And{\kf7} {\kf25}the{\kf3} {\kf19}fu{\kf21}ture{\kf9} {\kf49}is{\kf0} {\kf22}al{\kf44}ways{\kf5} {\kf175}bright{\kf0}
+Dialogue: 1,1:12:24.93,1:12:28.35,Chorus English,,0,0,0,,{\2a40}{\kf22}The{\kf3} {\kf19}fu{\kf21}ture{\kf9} {\kf49}is{\kf0} {\kf22}al{\kf44}ways{\kf5} {\kf175}bright{\kf0}
+Dialogue: 1,1:12:28.52,1:12:33.15,Chorus English,,0,0,0,,{\2a40}{\kf24}Yeah{\kf6}, {\kf12}the{\kf2} {\kf31}fu{\kf25}ture{\kf4} {\kf37}is{\kf0} {\kf33}al{\kf50}ways{\kf1} {\kf238}bright
+Dialogue: 1,1:12:33.36,1:12:35.69,Chorus English,,0,0,0,,{\2a40}{\kf25}When{\kf0} {\kf28}you're{\kf0} {\kf42}here{\kf0} {\kf13}with{\kf10} {\kf82}me
+Dialogue: 0,0:02:38.13,0:02:42.01,Staff Credit,,0,0,0,,{\4a30}{\move(1325,620,766,620)\fad(492,212)\blur3}习成 PBU 工作组\N{\fs80}制作
+Dialogue: 0,0:02:42.25,0:02:45.81,Staff Credit,,0,0,0,,{\4a30}{\move(1220,620,820,620)\fad(492,212)\blur3}蛟龙\NLoadhe & BronyDee\N{\fs80}监制
+Dialogue: 0,0:02:45.93,0:02:49.58,Staff Credit,,0,0,0,,{\4a30}{\move(1070,580,870,580)\fad(492,212)\blur3}Pinkiesparkle & 蛟龙\N爱飞的 502\N{\fs80}合作翻译
+Dialogue: 0,0:02:49.95,0:02:53.68,Staff Credit,,0,0,0,,{\4a30}{\move(1250,450,870,450)\fad(492,779)\blur3}奈吉尔 & 狼王.shadow\Nruzx007878\N{\fs80}合作翻译
+Dialogue: 0,0:02:54.08,0:02:57.15,Staff Credit,,0,0,0,,{\4a30}{\move(1070,520,830,520)\fad(219,50)\blur3}HF & 彳亍游龙\N{\fs80}合作翻译
+Dialogue: 0,0:02:57.55,0:03:01.55,Staff Credit,,0,0,0,,{\4a30}{\move(1150,520,750,520)\fad(219,511)\blur3}Pinkiesparkle & LeafyBat\N{\fs80}润色
+Dialogue: 0,0:03:02.15,0:03:05.55,Staff Credit,,0,0,0,,{\4a30}{\move(784,570,784,520)\fad(457,447)\blur3}LeoDango\N{\fs80}润色
+Dialogue: 0,0:03:05.75,0:03:08.41,Staff Credit,,0,0,0,,{\4a30}{\move(1028,640,1028,610)\fad(457,447)\blur3}JT\N{\fs80}质量管理
+Dialogue: 0,0:03:23.41,0:03:27.11,Staff Credit,,0,0,0,,{\4a30}{\move(1026,650,913,650)\fad(457,447)\blur3}BronyDee & 蛟龙\N{\fs80}时间轴
+Dialogue: 0,0:03:32.58,0:03:36.32,Staff Credit,,0,0,0,,{\4a30}{\move(966,650,966,650)\fad(457,447)\blur3}TD & 爱飞的 502\N狼王.shadow\N{\fs80}时间轴
+Dialogue: 0,0:03:40.22,0:03:43.69,Staff Credit,,0,0,0,,{\4a30}{\move(906,650,924,650)\fad(457,447)\blur3}BronyDee\N{\fs80}压制
+Dialogue: 0,0:03:52.48,0:03:55.35,Staff Credit,,0,0,0,,{\4a30}{\move(843,600,782,600)\fad(457,447)\blur3\fs80}饰 暮光闪闪
+Dialogue: 0,0:03:55.91,0:03:59.11,Staff Credit,,0,0,0,,{\4a30}{\move(670,570,670,570)\fad(457,447)\blur3\fs80}饰 余晖烁烁
+Dialogue: 0,0:03:59.88,0:04:03.21,Staff Credit,,0,0,0,,{\4a30}{\move(1320,530,1320,530)\fad(457,447)\blur3\fs80}饰 云宝黛西 & 苹果杰克
+Dialogue: 0,0:04:03.71,0:04:07.45,Staff Credit,,0,0,0,,{\4a30}{\move(920,810,920,810)\fad(457,447)\blur3\fs80}饰 萍琪派 & 小蝶
+Dialogue: 0,0:04:07.75,0:04:10.55,Staff Credit,,0,0,0,,{\4a30}{\move(660,450,660,450)\fad(457,447)\blur3\fs80}饰 瑞瑞
+Dialogue: 0,0:04:11.11,0:04:14.65,Staff Credit,,0,0,0,,{\4a30}{\move(700,650,700,650)\fad(457,447)\blur3\fs80}饰 斯派克
+Dialogue: 0,0:04:15.09,0:04:18.85,Staff Credit,,0,0,0,,{\4a30}{\move(684,868,684,868)\fad(457,447)\blur3\fs80\an7}饰 嘉兰金菊
+Dialogue: 0,0:04:19.45,0:04:22.85,Staff Credit,,0,0,0,,{\4a30}{\move(752,912,752,912)\fad(457,447)\blur3\fs80\an7}饰 云杉棕木
+Dialogue: 1,0:00:00.00,0:00:00.01,English Subtitle,,0,0,0,,
