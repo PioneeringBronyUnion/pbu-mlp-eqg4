@@ -1,9 +1,9 @@
 ﻿[Script Info]
 ; Subtitle released under GNU General Public License v3. Copyleft 2016 Pioneering Brony Union.
 Title: My Little Pony: Equestria Girls - The Legend of Everfree
-Original Translation: Pinkiesparkle & 蛟龙 & 爱飞的 502 & 奈吉尔 & 狼王.shadow & ruzx007878 & HF & 彳亍游龙
+Original Translation: Pinkiesparkle & Fedex & 爱飞的 502 & 奈吉尔 & 狼王.shadow & ruzx007878 & HF & 彳亍游龙
 Original Editing: Pinkiesparkle & LeafyBat & LeoDango
-Original Timing: BronyDee & 蛟龙 & TD & 爱飞的 502 & 狼王.shadow
+Original Timing: BronyDee & Fedex & TD & 爱飞的 502 & 狼王.shadow
 ScriptType: v4.00+
 WrapStyle: 2
 ScaledBorderAndShadow: yes
@@ -1344,14 +1344,14 @@ Dialogue: 1,1:12:49.74,1:12:51.72,English Subtitle,,0,0,0,,I think you mean "the
 Dialogue: 1,1:12:51.86,1:12:54.08,English Subtitle,,0,0,0,,Oh, tomahto, tomato.
 Dialogue: 1,1:12:54.63,1:12:56.21,English Subtitle,,0,0,0,,Let's celebrate!
 Dialogue: 0,0:02:38.13,0:02:42.01,Staff Credit,,0,0,0,,{\move(1325,620,766,620)\fad(492,212)\4a30\blur3}习成 PBU 工作组\N{\fs80}制作
-Dialogue: 0,0:02:42.25,0:02:45.81,Staff Credit,,0,0,0,,{\move(1220,590,820,590)\fad(492,212)\4a30\blur3}蛟龙\NLoadhe & BronyDee\N{\fs80}监制
-Dialogue: 0,0:02:45.93,0:02:49.58,Staff Credit,,0,0,0,,{\move(1070,530,870,530)\fad(492,212)\4a30\blur3}Pinkiesparkle & 蛟龙\N爱飞的 502\N{\fs80}合作翻译
+Dialogue: 0,0:02:42.25,0:02:45.81,Staff Credit,,0,0,0,,{\move(1220,590,820,590)\fad(492,212)\4a30\blur3}Fedex\NLoadhe & BronyDee\N{\fs80}监制
+Dialogue: 0,0:02:45.93,0:02:49.58,Staff Credit,,0,0,0,,{\move(1070,530,870,530)\fad(492,212)\4a30\blur3}Pinkiesparkle & Fedex\N爱飞的 502\N{\fs80}合作翻译
 Dialogue: 0,0:02:49.95,0:02:53.68,Staff Credit,,0,0,0,,{\move(1250,450,870,450)\fad(492,779)\4a30\blur3}奈吉尔 & 狼王.shadow\Nruzx007878\N{\fs80}合作翻译
 Dialogue: 0,0:02:54.08,0:02:57.15,Staff Credit,,0,0,0,,{\move(1070,520,830,520)\fad(219,50)\4a30\blur3}HF & 彳亍游龙\N{\fs80}合作翻译
 Dialogue: 0,0:02:57.55,0:03:01.55,Staff Credit,,0,0,0,,{\move(1150,480,750,480)\fad(219,511)\4a30\blur3}Pinkiesparkle\NLeafyBat\N{\fs80}润色
 Dialogue: 0,0:03:02.15,0:03:05.55,Staff Credit,,0,0,0,,{\move(784,570,784,520)\fad(457,447)\4a30\blur3}LeoDango\N{\fs80}润色
 Dialogue: 0,0:03:05.75,0:03:08.41,Staff Credit,,0,0,0,,{\move(1028,640,1028,610)\fad(457,447)\4a30\blur3}JT\N{\fs80}质量管理
-Dialogue: 0,0:03:23.41,0:03:27.11,Staff Credit,,0,0,0,,{\move(1026,640,913,640)\fad(457,447)\4a30\blur3}BronyDee & 蛟龙\N{\fs80}时间轴
+Dialogue: 0,0:03:23.41,0:03:27.11,Staff Credit,,0,0,0,,{\move(1026,640,913,640)\fad(457,447)\4a30\blur3}BronyDee & Fedex\N{\fs80}时间轴
 Dialogue: 0,0:03:32.58,0:03:36.32,Staff Credit,,0,0,0,,{\move(966,620,966,620)\fad(457,447)\4a30\blur3}TD & 爱飞的 502\N狼王.shadow\N{\fs80}时间轴
 Dialogue: 0,0:03:40.22,0:03:43.69,Staff Credit,,0,0,0,,{\move(906,650,924,650)\fad(457,447)\4a30\blur3}BronyDee\N{\fs80}压制
 Dialogue: 0,0:03:52.48,0:03:55.35,Staff Credit,,0,0,0,,{\move(843,600,782,600)\fad(457,447)\4a30\blur3\fs80}饰 暮光闪闪
